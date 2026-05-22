@@ -1,0 +1,6912 @@
+[
+  {
+    "brewery": "고쿠류주조",
+    "booth": "A03",
+    "region": "후쿠이현",
+    "product": "쿠즈류 준마이",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "고쿠류주조",
+    "booth": "A03",
+    "region": "후쿠이현",
+    "product": "쿠즈류 키죠슈",
+    "class": "熟 Juku",
+    "aroma": 9,
+    "richness": 8,
+    "note": "熟成/古酒"
+  },
+  {
+    "brewery": "고쿠류주조",
+    "booth": "A03",
+    "region": "후쿠이현",
+    "product": "고쿠류 잇쵸라이 준긴",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 4,
+    "note": "吟醸"
+  },
+  {
+    "brewery": "고쿠류주조",
+    "booth": "A03",
+    "region": "후쿠이현",
+    "product": "고쿠류 다이긴죠 Crystal Dragon",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 4,
+    "note": "大吟醸"
+  },
+  {
+    "brewery": "고쿠류주조",
+    "booth": "A03",
+    "region": "후쿠이현",
+    "product": "고쿠류 다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 4,
+    "note": "大吟醸"
+  },
+  {
+    "brewery": "고쿠류주조",
+    "booth": "A03",
+    "region": "후쿠이현",
+    "product": "고쿠류 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "고쿠류주조",
+    "booth": "A03",
+    "region": "후쿠이현",
+    "product": "고쿠류 AWA 죠",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 4,
+    "note": "Sparkling/にごり"
+  },
+  {
+    "brewery": "데와자쿠라주조",
+    "booth": "A04",
+    "region": "야마가타현",
+    "product": "데와자쿠라 유키메가미",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 5,
+    "note": "純米大吟醸(雪女神 쌀)"
+  },
+  {
+    "brewery": "데와자쿠라주조",
+    "booth": "A04",
+    "region": "야마가타현",
+    "product": "데와자쿠라 준마이긴죠",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "데와자쿠라주조",
+    "booth": "A04",
+    "region": "야마가타현",
+    "product": "유키만만 빙점하 5년 숙성중",
+    "class": "熟 Juku",
+    "aroma": 7,
+    "richness": 8,
+    "note": "5년숙성"
+  },
+  {
+    "brewery": "데와자쿠라주조",
+    "booth": "A04",
+    "region": "야마가타현",
+    "product": "데와자쿠라 토로케루 라프랑스",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "리큐어(과실)"
+  },
+  {
+    "brewery": "데와자쿠라주조",
+    "booth": "A04",
+    "region": "야마가타현",
+    "product": "데와자쿠리 잇코 혼나마",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 5,
+    "note": "純米吟醸 生"
+  },
+  {
+    "brewery": "이시모토주조",
+    "booth": "A05",
+    "region": "니가타현",
+    "product": "코시노칸바이 벳센",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 4,
+    "note": "吟醸 別撰"
+  },
+  {
+    "brewery": "이시모토주조",
+    "booth": "A05",
+    "region": "니가타현",
+    "product": "코시노칸바이 사이",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 5,
+    "note": "純米吟醸 灑"
+  },
+  {
+    "brewery": "이시모토주조",
+    "booth": "A05",
+    "region": "니가타현",
+    "product": "코시노칸바이 아마네",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 4,
+    "note": "純米吟醸 浹"
+  },
+  {
+    "brewery": "이시모토주조",
+    "booth": "A05",
+    "region": "니가타현",
+    "product": "코시노칸바이 세이슈",
+    "class": "爽 Sou",
+    "aroma": 4,
+    "richness": 4,
+    "note": "清酒(普通酒)"
+  },
+  {
+    "brewery": "이시모토주조",
+    "booth": "A05",
+    "region": "니가타현",
+    "product": "코시노칸바이 초토쿠센",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 5,
+    "note": "大吟醸 超特撰"
+  },
+  {
+    "brewery": "이시모토주조",
+    "booth": "A05",
+    "region": "니가타현",
+    "product": "코시노칸바이 라군",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 8,
+    "note": "純米 Lagoon 濃厚"
+  },
+  {
+    "brewery": "코시메이조주식회사",
+    "booth": "A06",
+    "region": "니가타현",
+    "product": "야마시로야 1st Class",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "純米大吟醸 1st Class"
+  },
+  {
+    "brewery": "코시메이조주식회사",
+    "booth": "A06",
+    "region": "니가타현",
+    "product": "야마시로야 에이케이",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "純米大吟醸 AK"
+  },
+  {
+    "brewery": "코시메이조주식회사",
+    "booth": "A06",
+    "region": "니가타현",
+    "product": "야마시로야 루스이",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "純米 留守居 Standard"
+  },
+  {
+    "brewery": "코시메이조주식회사",
+    "booth": "A06",
+    "region": "니가타현",
+    "product": "야마시로야 가호",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "純米吟醸 雅"
+  },
+  {
+    "brewery": "코시메이조주식회사",
+    "booth": "A06",
+    "region": "니가타현",
+    "product": "야마시로야 후우가",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "純米吟醸 風雅"
+  },
+  {
+    "brewery": "이네토아가베",
+    "booth": "A07",
+    "region": "아키타현",
+    "product": "코우슈 하나카제",
+    "class": "Other",
+    "aroma": 7,
+    "richness": 10,
+    "note": "熟成/古酒"
+  },
+  {
+    "brewery": "㈜니혼슈코리아 시음부스",
+    "booth": "A08",
+    "region": "서울특별시 성동구 성수일로 4길 25 서울숲 코오롱 디지털타워 B101",
+    "product": "테도리카와 준마이긴죠",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "㈜니혼슈코리아 시음부스",
+    "booth": "A08",
+    "region": "서울특별시 성동구 성수일로 4길 25 서울숲 코오롱 디지털타워 B101",
+    "product": "마쵸 준마이 오마치80",
+    "class": "醇 Jun",
+    "aroma": 4,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "㈜니혼슈코리아 시음부스",
+    "booth": "A08",
+    "region": "서울특별시 성동구 성수일로 4길 25 서울숲 코오롱 디지털타워 B101",
+    "product": "마쵸 준마이 아이야마80",
+    "class": "醇 Jun",
+    "aroma": 4,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "㈜니혼슈코리아 시음부스",
+    "booth": "A08",
+    "region": "서울특별시 성동구 성수일로 4길 25 서울숲 코오롱 디지털타워 B101",
+    "product": "블랙잭",
+    "class": "爽 Sou",
+    "aroma": 5,
+    "richness": 5,
+    "note": "Kun"
+  },
+  {
+    "brewery": "㈜니혼슈코리아 시음부스",
+    "booth": "A08",
+    "region": "서울특별시 성동구 성수일로 4길 25 서울숲 코오롱 디지털타워 B101",
+    "product": "산칸 오마치 준마이 무로카나마겐슈",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 9,
+    "note": "純米, 無濾過, 生原酒, 生"
+  },
+  {
+    "brewery": "㈜니혼슈코리아 시음부스",
+    "booth": "A08",
+    "region": "서울특별시 성동구 성수일로 4길 25 서울숲 코오롱 디지털타워 B101",
+    "product": "닷사이 소노사키에",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "磨きその先へ 超프리미엄 JDGJ"
+  },
+  {
+    "brewery": "㈜니혼슈코리아 시음부스",
+    "booth": "A08",
+    "region": "서울특별시 성동구 성수일로 4길 25 서울숲 코오롱 디지털타워 B101",
+    "product": "추구",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 6,
+    "note": "久保田 千寿 純米吟醸"
+  },
+  {
+    "brewery": "㈜니혼슈코리아 시음부스",
+    "booth": "A08",
+    "region": "서울특별시 성동구 성수일로 4길 25 서울숲 코오롱 디지털타워 B101",
+    "product": "고쿠류 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "㈜니혼슈코리아 시음부스",
+    "booth": "A08",
+    "region": "서울특별시 성동구 성수일로 4길 25 서울숲 코오롱 디지털타워 B101",
+    "product": "고쿠류 AWA 죠",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 4,
+    "note": "Sparkling/にごり"
+  },
+  {
+    "brewery": "니혼세이슈",
+    "booth": "A09",
+    "region": "홋카이도",
+    "product": "치토세츠루 준마이다이긴죠 스이세이",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "니혼세이슈",
+    "booth": "A09",
+    "region": "홋카이도",
+    "product": "치토세츠루 준마이슈",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "고쵸다주조",
+    "booth": "A10",
+    "region": "사가현",
+    "product": "아즈마이치 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "고쵸다주조",
+    "booth": "A10",
+    "region": "사가현",
+    "product": "아즈마이치 준마이긴죠 하쿠츠루니시키",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "고쵸다주조",
+    "booth": "A10",
+    "region": "사가현",
+    "product": "아즈마이치 준마이긴죠 야마다니시키",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "하츠카메양조",
+    "booth": "A11",
+    "region": "시즈오카현",
+    "product": "하츠카메 준마이긴죠 카라카라벳삥",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "하츠카메양조",
+    "booth": "A11",
+    "region": "시즈오카현",
+    "product": "하츠카메 준마이긴죠 토죠야마다니시키",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "하츠카메양조",
+    "booth": "A11",
+    "region": "시즈오카현",
+    "product": "하츠카메 토쿠베츠준마이",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "特別純米"
+  },
+  {
+    "brewery": "이소지만주조",
+    "booth": "A11",
+    "region": "시즈오카현",
+    "product": "이소지만 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "이소지만주조",
+    "booth": "A11",
+    "region": "시즈오카현",
+    "product": "이소지만 준마이긴죠 야마다니시키",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "이소지만주조",
+    "booth": "A11",
+    "region": "시즈오카현",
+    "product": "이소지만 토쿠베츠준마이 오마치53",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 7,
+    "note": "特別純米"
+  },
+  {
+    "brewery": "아이하라주조",
+    "booth": "A12",
+    "region": "히로시마현",
+    "product": "우고노츠키 토쿠베츠준마이 야마다니시키",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 7,
+    "note": "特別純米"
+  },
+  {
+    "brewery": "아이하라주조",
+    "booth": "A12",
+    "region": "히로시마현",
+    "product": "우고노츠키 준마이다이긴죠 핫탄니시키",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "텐료하이주조",
+    "booth": "A12",
+    "region": "니가타현",
+    "product": "우타시로 릿카",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 5,
+    "note": "純米大吟醸 凜華"
+  },
+  {
+    "brewery": "텐료하이주조",
+    "booth": "A12",
+    "region": "니가타현",
+    "product": "우타시로 즈이카",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 5,
+    "note": "純米大吟醸 瑞華"
+  },
+  {
+    "brewery": "텐료하이주조",
+    "booth": "A12",
+    "region": "니가타현",
+    "product": "우타시로 히요리",
+    "class": "爽 Sou",
+    "aroma": 5,
+    "richness": 4,
+    "note": "純米吟醸 日和 低알코올"
+  },
+  {
+    "brewery": "텐료하이주조",
+    "booth": "A12",
+    "region": "니가타현",
+    "product": "우타시로 겟카",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "純米吟醸 月華"
+  },
+  {
+    "brewery": "텐료하이주조",
+    "booth": "A12",
+    "region": "니가타현",
+    "product": "우타시로 나루카미",
+    "class": "爽 Sou",
+    "aroma": 5,
+    "richness": 4,
+    "note": "純米吟醸 鳴神 超辛口"
+  },
+  {
+    "brewery": "코이즈미주조",
+    "booth": "A13",
+    "region": "치바현",
+    "product": "토카이 자카리 준마이긴죠 나노하나",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "코이즈미주조",
+    "booth": "A13",
+    "region": "치바현",
+    "product": "토카이 자카리 준마이긴죠 지샤덴 후사노마이",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "코이즈미주조",
+    "booth": "A13",
+    "region": "치바현",
+    "product": "토카이 자카리 토쿠베츠준마이 야마다니시키",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "特別純米"
+  },
+  {
+    "brewery": "오모야주조",
+    "booth": "A13",
+    "region": "나가사키현",
+    "product": "요코야마 고쥬 준마이다이긴죠 블랙",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "오모야주조",
+    "booth": "A13",
+    "region": "나가사키현",
+    "product": "요코야마 준마이긴죠 SILVER 초카라 7",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "오모야주조",
+    "booth": "A13",
+    "region": "나가사키현",
+    "product": "요코야마 준마이긴죠 SILVER 7",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "오모야주조",
+    "booth": "A13",
+    "region": "나가사키현",
+    "product": "친구 블랙라벨",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "東魁盛 친구 Black"
+  },
+  {
+    "brewery": "후지이양조",
+    "booth": "A14",
+    "region": "오이타현",
+    "product": "무기쇼츄 토쿠조 타이메이",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "Kun"
+  },
+  {
+    "brewery": "요쓰야주조",
+    "booth": "A14",
+    "region": "오이타현",
+    "product": "무기쇼츄 카네하치",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "Kun"
+  },
+  {
+    "brewery": "스미카와주조장",
+    "booth": "B03",
+    "region": "야마구치현",
+    "product": "토요비진 준마이다이긴죠 이치방마토이",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 7,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "스미카와주조장",
+    "booth": "B03",
+    "region": "야마구치현",
+    "product": "토요비진 준도이치즈",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "東洋美人 純度一途"
+  },
+  {
+    "brewery": "스미카와주조장",
+    "booth": "B03",
+    "region": "야마구치현",
+    "product": "토요비진 준마이긴죠 오오카라구치",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 7,
+    "note": "純米吟醸, 辛口"
+  },
+  {
+    "brewery": "센킨",
+    "booth": "B03",
+    "region": "도치기현",
+    "product": "카쿠메이 센킨 잇세이",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 7,
+    "note": "革命 一聲 프리미엄"
+  },
+  {
+    "brewery": "센킨",
+    "booth": "B03",
+    "region": "도치기현",
+    "product": "센킨 모던",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "モダン junmai (sweet-sour acidic)"
+  },
+  {
+    "brewery": "이마니시주조",
+    "booth": "B03",
+    "region": "나라현",
+    "product": "이마니시 준마이긴죠 아사히",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 7,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "카모니시키주조",
+    "booth": "B03",
+    "region": "니가타현",
+    "product": "카모니시키 니후다자케 준마이다이긴죠 반슈야마다니시키",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "타사키주조",
+    "booth": "B03",
+    "region": "가고시마현",
+    "product": "야키이모쇼츄 오니비",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "Kun"
+  },
+  {
+    "brewery": "나가시마켄조",
+    "booth": "B03",
+    "region": "가고시마현",
+    "product": "이모쇼츄 사츠마시마비진",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "Kun"
+  },
+  {
+    "brewery": "야나기타주조",
+    "booth": "B03",
+    "region": "미야자키현",
+    "product": "무기쇼츄 아오카게",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "Kun"
+  },
+  {
+    "brewery": "야마모토주조",
+    "booth": "B03",
+    "region": "가고시마현",
+    "product": "고다이 우메슈",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 6,
+    "note": "Jun"
+  },
+  {
+    "brewery": "히가주조",
+    "booth": "B04",
+    "region": "오키나와현",
+    "product": "류큐아와모리 잔파 블랙",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "Other"
+  },
+  {
+    "brewery": "히가주조",
+    "booth": "B04",
+    "region": "오키나와현",
+    "product": "류큐아와모리 잔파 화이트",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "Other"
+  },
+  {
+    "brewery": "히가주조",
+    "booth": "B04",
+    "region": "오키나와현",
+    "product": "잔파 TAKASHIHO",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "Other"
+  },
+  {
+    "brewery": "히가주조",
+    "booth": "B04",
+    "region": "오키나와현",
+    "product": "잔파 IMUGE.",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "Other"
+  },
+  {
+    "brewery": "히가주조",
+    "booth": "B04",
+    "region": "오키나와현",
+    "product": "류큐아와모리 잔파 프리미엄",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "Other"
+  },
+  {
+    "brewery": "히가주조",
+    "booth": "B04",
+    "region": "오키나와현",
+    "product": "잔파 시쿠와사",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "Other"
+  },
+  {
+    "brewery": "히가주조",
+    "booth": "B04",
+    "region": "오키나와현",
+    "product": "잔파 TORAKICHI",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "Other"
+  },
+  {
+    "brewery": "가토키치베쇼텐",
+    "booth": "B05",
+    "region": "후쿠이현",
+    "product": "본 고쿠히조 다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 4,
+    "note": "大吟醸"
+  },
+  {
+    "brewery": "가토키치베쇼텐",
+    "booth": "B05",
+    "region": "후쿠이현",
+    "product": "본 토쿠센 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "가토키치베쇼텐",
+    "booth": "B05",
+    "region": "후쿠이현",
+    "product": "본 준마이 55",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "가토키치베쇼텐",
+    "booth": "B05",
+    "region": "후쿠이현",
+    "product": "본 긴센 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "가토키치베쇼텐",
+    "booth": "B05",
+    "region": "후쿠이현",
+    "product": "본 무로카 준마이다이긴죠 나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 8,
+    "note": "純米大吟醸, 無濾過, 生原酒, 生"
+  },
+  {
+    "brewery": "가토키치베쇼텐",
+    "booth": "B05",
+    "region": "후쿠이현",
+    "product": "본 골드 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "가토키치베쇼텐",
+    "booth": "B05",
+    "region": "후쿠이현",
+    "product": "본 준스이 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "SODAWARI",
+    "booth": "B07",
+    "region": "",
+    "product": "야마노고토부키 레몬",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "Other"
+  },
+  {
+    "brewery": "SODAWARI",
+    "booth": "B07",
+    "region": "",
+    "product": "무토우",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "Other"
+  },
+  {
+    "brewery": "SODAWARI",
+    "booth": "B07",
+    "region": "",
+    "product": "류노미키",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "Other"
+  },
+  {
+    "brewery": "SODAWARI",
+    "booth": "B07",
+    "region": "",
+    "product": "에모티",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "Other"
+  },
+  {
+    "brewery": "사케노이치자",
+    "booth": "B08",
+    "region": "후쿠오카현",
+    "product": "메로메로 모지코 바나나",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 5,
+    "note": "Other"
+  },
+  {
+    "brewery": "사케노이치자",
+    "booth": "B08",
+    "region": "후쿠오카현",
+    "product": "메로메로 홋카이도 멜론",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 5,
+    "note": "Other"
+  },
+  {
+    "brewery": "사케노이치자",
+    "booth": "B08",
+    "region": "후쿠오카현",
+    "product": "후시기노쿠니 노 카시스 시코쿠",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 5,
+    "note": "Other"
+  },
+  {
+    "brewery": "사케노이치자",
+    "booth": "B08",
+    "region": "후쿠오카현",
+    "product": "후시기노쿠니 노 카시스 아카조로에",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 5,
+    "note": "Other"
+  },
+  {
+    "brewery": "미이노고토부키",
+    "booth": "B09",
+    "region": "후쿠오카현",
+    "product": "미이노고토부키 쥰마이다이긴죠 아이야마",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "미이노고토부키",
+    "booth": "B09",
+    "region": "후쿠오카현",
+    "product": "미이노고토부키 쥰마이다이긴죠 사케미라이",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "미이노고토부키",
+    "booth": "B09",
+    "region": "후쿠오카현",
+    "product": "미이노고토부키 쥰마이긴죠+14 오카라구치나마",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 6,
+    "note": "純米吟醸, 生, 辛口"
+  },
+  {
+    "brewery": "미이노고토부키",
+    "booth": "B09",
+    "region": "후쿠오카현",
+    "product": "미이노고토부키 와인코보 쥰마이긴죠",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "하마카와쇼텐",
+    "booth": "B10",
+    "region": "코우치현",
+    "product": "비죠후 쥰마이다이긴죠 히나",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "하마카와쇼텐",
+    "booth": "B10",
+    "region": "코우치현",
+    "product": "비죠후 쥰마이다이긴죠 마이",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "하마카와쇼텐",
+    "booth": "B10",
+    "region": "코우치현",
+    "product": "비죠후 쥰마이긴죠 셀24",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "하마카와쇼텐",
+    "booth": "B10",
+    "region": "코우치현",
+    "product": "비죠후 폰 슈와",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 4,
+    "note": "美丈夫 ポン・シュワ Sparkling"
+  },
+  {
+    "brewery": "기타니시주조",
+    "booth": "B11",
+    "region": "사이타마현",
+    "product": "사라 쥰마이긴죠",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 7,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "기타니시주조",
+    "booth": "B11",
+    "region": "사이타마현",
+    "product": "사라 토쿠베츠 쥰마이 카스미 무로카나마겐슈",
+    "class": "醇 Jun",
+    "aroma": 8,
+    "richness": 10,
+    "note": "特別純米, 無濾過, 生原酒, 生"
+  },
+  {
+    "brewery": "기타니시주조",
+    "booth": "B11",
+    "region": "사이타마현",
+    "product": "사라 에스즈 나마즈메",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "生"
+  },
+  {
+    "brewery": "기타니시주조",
+    "booth": "B11",
+    "region": "사이타마현",
+    "product": "사라 펄즈 오브 듀",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 4,
+    "note": "SARA Pearls of Dew Sparkling"
+  },
+  {
+    "brewery": "칸코바이주조",
+    "booth": "B12",
+    "region": "미에현",
+    "product": "칸코바이 쥰마이 야마다니시키60",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "寒紅梅 純米 山田錦60"
+  },
+  {
+    "brewery": "칸코바이주조",
+    "booth": "B12",
+    "region": "미에현",
+    "product": "칸코바이 쥰마이긴죠 야마다니시키50",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "칸코바이주조",
+    "booth": "B12",
+    "region": "미에현",
+    "product": "칸코바이 쥰마이긴죠 Plus 나마",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸, 生"
+  },
+  {
+    "brewery": "칸코바이주조",
+    "booth": "B12",
+    "region": "미에현",
+    "product": "칸코바이 쥰마이긴죠 토레세",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "겐비시주조",
+    "booth": "D01",
+    "region": "효고현",
+    "product": "쵸토쿠센 고쿠죠 쿠로마츠 겐비시",
+    "class": "熟 Juku",
+    "aroma": 7,
+    "richness": 8,
+    "note": "超特選 極上 黒松剣菱"
+  },
+  {
+    "brewery": "겐비시주조",
+    "booth": "D01",
+    "region": "효고현",
+    "product": "고쿠죠 쿠로마츠 겐비시",
+    "class": "熟 Juku",
+    "aroma": 7,
+    "richness": 8,
+    "note": "極上 黒松剣菱"
+  },
+  {
+    "brewery": "겐비시주조",
+    "booth": "D01",
+    "region": "효고현",
+    "product": "미즈호 쿠로마츠 겐비시",
+    "class": "熟 Juku",
+    "aroma": 6,
+    "richness": 7,
+    "note": "瑞穂 黒松剣菱"
+  },
+  {
+    "brewery": "겐비시주조",
+    "booth": "D01",
+    "region": "효고현",
+    "product": "즈이쇼 쿠로마츠 겐비시",
+    "class": "熟 Juku",
+    "aroma": 7,
+    "richness": 9,
+    "note": "瑞祥 黒松剣菱 長期熟成"
+  },
+  {
+    "brewery": "나카노주조",
+    "booth": "D02",
+    "region": "오이타현",
+    "product": "치에비진 쥰마이",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 6,
+    "note": "純米"
+  },
+  {
+    "brewery": "나카노주조",
+    "booth": "D02",
+    "region": "오이타현",
+    "product": "치에비진 LOVE PINK",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 6,
+    "note": "純米 桃色 にごり 赤酵母"
+  },
+  {
+    "brewery": "나카노주조",
+    "booth": "D02",
+    "region": "오이타현",
+    "product": "키츠키 블랑 큐베 치에비진 生",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 5,
+    "note": "Blanc Cuvée 生"
+  },
+  {
+    "brewery": "나카노주조",
+    "booth": "D02",
+    "region": "오이타현",
+    "product": "치에비진 Rouge Blanc",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "Rouge Blanc"
+  },
+  {
+    "brewery": "나카노주조",
+    "booth": "D02",
+    "region": "오이타현",
+    "product": "치에비진 라팡 生",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "Lapin 봄 한정 生"
+  },
+  {
+    "brewery": "나카노주조",
+    "booth": "D02",
+    "region": "오이타현",
+    "product": "치에비진 홍차 우메슈",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "Kun"
+  },
+  {
+    "brewery": "나카노주조",
+    "booth": "D02",
+    "region": "오이타현",
+    "product": "치에비진 에버그린",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "Evergreen"
+  },
+  {
+    "brewery": "이와사키주조",
+    "booth": "D03",
+    "region": "야마구치현",
+    "product": "초요후쿠무스메 쥰마이 무로카나마겐슈 지카구미 生",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 10,
+    "note": "純米, 無濾過, 生原酒, 生"
+  },
+  {
+    "brewery": "이와사키주조",
+    "booth": "D03",
+    "region": "야마구치현",
+    "product": "쵸요후쿠무스메 야마다니시키 쥰마이 모모이로",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 6,
+    "note": "純米 桃色"
+  },
+  {
+    "brewery": "이와사키주조",
+    "booth": "D03",
+    "region": "야마구치현",
+    "product": "쵸요후쿠무스메 야마다니시키 쥰마이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 7,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "이와사키주조",
+    "booth": "D03",
+    "region": "야마구치현",
+    "product": "쵸요후쿠무스메 카라구치쥰마이슈 무로카나마겐슈 지카구미 生",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 10,
+    "note": "純米, 無濾過, 生原酒, 生, 辛口"
+  },
+  {
+    "brewery": "이와사키주조",
+    "booth": "D03",
+    "region": "야마구치현",
+    "product": "쵸요후쿠무스메 사이토노시즈쿠 카라구치 지카구미 히이레",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "純米 직급 火入"
+  },
+  {
+    "brewery": "즈이죠주조",
+    "booth": "D04",
+    "region": "쿠마모토현",
+    "product": "호우쥰 쥰마이슈 즈이요",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "芳醇 純米酒 瑞陽"
+  },
+  {
+    "brewery": "즈이죠주조",
+    "booth": "D04",
+    "region": "쿠마모토현",
+    "product": "긴죠슈 킷쇼 즈이요",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 5,
+    "note": "吟醸"
+  },
+  {
+    "brewery": "즈이죠주조",
+    "booth": "D04",
+    "region": "쿠마모토현",
+    "product": "즈이요 나나나마 生",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "生"
+  },
+  {
+    "brewery": "즈이죠주조",
+    "booth": "D04",
+    "region": "쿠마모토현",
+    "product": "즈이요 혼카쿠 쇼추 준가 무기 28도",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 6,
+    "note": "Jun"
+  },
+  {
+    "brewery": "즈이죠주조",
+    "booth": "D04",
+    "region": "쿠마모토현",
+    "product": "즈이요 혼카쿠 쇼추 준가 코메 28도",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 6,
+    "note": "Jun"
+  },
+  {
+    "brewery": "에미시키주조",
+    "booth": "D05",
+    "region": "시가현",
+    "product": "에미시키 쥰마이다이긴죠 아카이이토 生",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 7,
+    "note": "純米大吟醸, 生"
+  },
+  {
+    "brewery": "에미시키주조",
+    "booth": "D05",
+    "region": "시가현",
+    "product": "에미시키 몬순 야마다니시키 키죠슈 生",
+    "class": "熟 Juku",
+    "aroma": 10,
+    "richness": 9,
+    "note": "生, 熟成/古酒"
+  },
+  {
+    "brewery": "에미시키주조",
+    "booth": "D05",
+    "region": "시가현",
+    "product": "에미시키 토쿠베츠쥰마이 센세이션 블랙 生",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "笑四季 特別純米 Sensation Black"
+  },
+  {
+    "brewery": "에미시키주조",
+    "booth": "D05",
+    "region": "시가현",
+    "product": "에미시키 토쿠베츠쥰마이 센세이션 화이트 生",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "笑四季 特別純米 Sensation White"
+  },
+  {
+    "brewery": "에미시키주조",
+    "booth": "D05",
+    "region": "시가현",
+    "product": "에미시키 토쿠베츠쥰마이 센세이션 블루 生",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "笑四季 特別純米 Sensation Blue"
+  },
+  {
+    "brewery": "에미시키주조",
+    "booth": "D05",
+    "region": "시가현",
+    "product": "에미시키 월드피스",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "笑四季 World Peace"
+  },
+  {
+    "brewery": "에미시키주조",
+    "booth": "D05",
+    "region": "시가현",
+    "product": "에미시키 퓨처리즘 쥰마이 이치고 메디테이션",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "Futurism 純米"
+  },
+  {
+    "brewery": "혼다쇼텐",
+    "booth": "D06",
+    "region": "효고현",
+    "product": "타츠리키 토쿠베츠 쥰마이 쥰마이88 코메코도부키",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "特別純米 88"
+  },
+  {
+    "brewery": "혼다쇼텐",
+    "booth": "D06",
+    "region": "효고현",
+    "product": "타츠리키 쥰마이긴죠 드래곤 에피소드 2 生",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 7,
+    "note": "純米吟醸, 生"
+  },
+  {
+    "brewery": "혼다쇼텐",
+    "booth": "D06",
+    "region": "효고현",
+    "product": "타츠리키 토쿠베츠 쥰마이 쿠라다시 신슈 生",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "特別純米 蔵出し 新酒 生"
+  },
+  {
+    "brewery": "혼다쇼텐",
+    "booth": "D06",
+    "region": "효고현",
+    "product": "타츠리키 토쿠베츠 쥰마이 시보리타테 生",
+    "class": "爽 Sou",
+    "aroma": 5,
+    "richness": 6,
+    "note": "特別純米 しぼりたて 生"
+  },
+  {
+    "brewery": "닷사이주조",
+    "booth": "E01",
+    "region": "야마구치현",
+    "product": "닷사이 소노사키에",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "磨きその先へ 超프리미엄 JDGJ"
+  },
+  {
+    "brewery": "닷사이주조",
+    "booth": "E01",
+    "region": "야마구치현",
+    "product": "닷사이 준마이다이긴죠 23 하야타",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "닷사이주조",
+    "booth": "E01",
+    "region": "야마구치현",
+    "product": "닷사이 준마이다이긴죠 23",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "닷사이주조",
+    "booth": "E01",
+    "region": "야마구치현",
+    "product": "닷사이 준마이다이긴죠 39",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "닷사이주조",
+    "booth": "E01",
+    "region": "야마구치현",
+    "product": "닷사이 준마이다이긴죠 45",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "닷사이주조",
+    "booth": "E01",
+    "region": "야마구치현",
+    "product": "닷사이 스파클링",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 4,
+    "note": "Sparkling/にごり"
+  },
+  {
+    "brewery": "닷사이주조",
+    "booth": "E01",
+    "region": "야마구치현",
+    "product": "닷사이 쇼츄",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 6,
+    "note": "쇼츄(粕取)"
+  },
+  {
+    "brewery": "샤타주조",
+    "booth": "E02",
+    "region": "이시카와현",
+    "product": "텡구마이 야마하이준마이",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 9,
+    "note": "純米, 生酛/山廃"
+  },
+  {
+    "brewery": "샤타주조",
+    "booth": "E02",
+    "region": "이시카와현",
+    "product": "텡구마이 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "샤타주조",
+    "booth": "E02",
+    "region": "이시카와현",
+    "product": "고린 준마이",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "샤타주조",
+    "booth": "E02",
+    "region": "이시카와현",
+    "product": "텡구마이 초가라구치 준마이",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "가모츠루주조",
+    "booth": "E03",
+    "region": "히로시마현",
+    "product": "가모츠루 준마이 나마쵸조",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 7,
+    "note": "純米, 生"
+  },
+  {
+    "brewery": "가모츠루주조",
+    "booth": "E03",
+    "region": "히로시마현",
+    "product": "가모츠루 잇테키뉴콘",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "一滴入魂 純米吟醸"
+  },
+  {
+    "brewery": "가모츠루주조",
+    "booth": "E03",
+    "region": "히로시마현",
+    "product": "가모츠루 골드 다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 4,
+    "note": "大吟醸"
+  },
+  {
+    "brewery": "가모츠루주조",
+    "booth": "E03",
+    "region": "히로시마현",
+    "product": "가모츠루 소우가쿠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 5,
+    "note": "双鶴 大吟醸"
+  },
+  {
+    "brewery": "가모츠루주조",
+    "booth": "E03",
+    "region": "히로시마현",
+    "product": "가모츠루 슈츄자이신 아카네 준마이 히로시마니시키",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "코마사주조",
+    "booth": "E04",
+    "region": "가고시마현",
+    "product": "쿠라노시콘",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 6,
+    "note": "小正 焼酎"
+  },
+  {
+    "brewery": "코마사주조",
+    "booth": "E04",
+    "region": "가고시마현",
+    "product": "코즈루 PINK GOLD",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 6,
+    "note": "小鶴 PINK GOLD"
+  },
+  {
+    "brewery": "코마사주조",
+    "booth": "E04",
+    "region": "가고시마현",
+    "product": "아카자루",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 6,
+    "note": "赤猿 焼酎"
+  },
+  {
+    "brewery": "코마사주조",
+    "booth": "E04",
+    "region": "가고시마현",
+    "product": "사와전용 유즈레몬",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 5,
+    "note": "サワー専用 유즈레몬"
+  },
+  {
+    "brewery": "킹양조",
+    "booth": "E05",
+    "region": "효고현",
+    "product": "하나야구 준마이",
+    "class": "醇 Jun",
+    "aroma": 3,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "킹양조",
+    "booth": "E05",
+    "region": "효고현",
+    "product": "하나야구 준마이",
+    "class": "醇 Jun",
+    "aroma": 3,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "킹양조",
+    "booth": "E05",
+    "region": "효고현",
+    "product": "라무네 사와노모토진저 사와노모토",
+    "class": "Other",
+    "aroma": 3,
+    "richness": 4,
+    "note": "사와노모토 시럽"
+  },
+  {
+    "brewery": "킹양조",
+    "booth": "E05",
+    "region": "효고현",
+    "product": "시소 사와노모토",
+    "class": "Other",
+    "aroma": 3,
+    "richness": 4,
+    "note": "사와노모토 시럽"
+  },
+  {
+    "brewery": "킹양조",
+    "booth": "E05",
+    "region": "효고현",
+    "product": "콜라 사와노모토",
+    "class": "Other",
+    "aroma": 3,
+    "richness": 4,
+    "note": "사와노모토 시럽"
+  },
+  {
+    "brewery": "아사히주조",
+    "booth": "E06",
+    "region": "니가타현",
+    "product": "추구",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 6,
+    "note": "久保田 千寿 純米吟醸"
+  },
+  {
+    "brewery": "아사히주조",
+    "booth": "E06",
+    "region": "니가타현",
+    "product": "쿠보타 만주 자사효모 에디션",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "久保田 萬寿 自社酵母 JDGJ"
+  },
+  {
+    "brewery": "아사히주조",
+    "booth": "E06",
+    "region": "니가타현",
+    "product": "쿠보타 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "아사히주조",
+    "booth": "E06",
+    "region": "니가타현",
+    "product": "쿠보타 다이긴죠 겐슈",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 4,
+    "note": "大吟醸"
+  },
+  {
+    "brewery": "아사히주조",
+    "booth": "E06",
+    "region": "니가타현",
+    "product": "쿠보타 스파클링",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 4,
+    "note": "Sparkling/にごり"
+  },
+  {
+    "brewery": "아사히주조",
+    "booth": "E06",
+    "region": "니가타현",
+    "product": "쿠보타 센주 나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "生原酒, 生"
+  },
+  {
+    "brewery": "아사히주조",
+    "booth": "E06",
+    "region": "니가타현",
+    "product": "쿠보타 유즈",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "久保田 ゆずリキュール"
+  },
+  {
+    "brewery": "남부비진",
+    "booth": "E07",
+    "region": "이와테현",
+    "product": "남부비진 심백 야마다니시키 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "남부비진",
+    "booth": "E07",
+    "region": "이와테현",
+    "product": "남부비진 토쿠베츠준마이",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 7,
+    "note": "特別純米"
+  },
+  {
+    "brewery": "남부비진",
+    "booth": "E07",
+    "region": "이와테현",
+    "product": "남부비진 긴죠",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 4,
+    "note": "吟醸"
+  },
+  {
+    "brewery": "남부비진",
+    "booth": "E07",
+    "region": "이와테현",
+    "product": "남부비진 준마이다이긴죠 유이노카",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "오토코야마주조",
+    "booth": "E08",
+    "region": "홋카이도",
+    "product": "오토코야마 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "오토코야마주조",
+    "booth": "E08",
+    "region": "홋카이도",
+    "product": "오토코야마 기타노이나호 다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 4,
+    "note": "大吟醸"
+  },
+  {
+    "brewery": "오토코야마주조",
+    "booth": "E08",
+    "region": "홋카이도",
+    "product": "오토코야마 스시부스터",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "寿司Booster 純米吟醸"
+  },
+  {
+    "brewery": "오토코야마주조",
+    "booth": "E08",
+    "region": "홋카이도",
+    "product": "오토코야마 하루노이자나이",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "春のいざない 純米吟醸 限定"
+  },
+  {
+    "brewery": "오토코야마주조",
+    "booth": "E08",
+    "region": "홋카이도",
+    "product": "오토코야마 아키노이로도리",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "秋の彩 純米吟醸 한정"
+  },
+  {
+    "brewery": "메이리슈루이",
+    "booth": "E09",
+    "region": "이바라키현",
+    "product": "타이야키",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 5,
+    "note": "たい焼き sweet sake?"
+  },
+  {
+    "brewery": "메이리슈루이",
+    "booth": "E09",
+    "region": "이바라키현",
+    "product": "소노마마 멜론",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "梅酒/멜론 리큐어"
+  },
+  {
+    "brewery": "메이리슈루이",
+    "booth": "E09",
+    "region": "이바라키현",
+    "product": "소노마마 망고",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "망고 리큐어"
+  },
+  {
+    "brewery": "메이리슈루이",
+    "booth": "E09",
+    "region": "이바라키현",
+    "product": "소노마마 살구",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "살구 리큐어"
+  },
+  {
+    "brewery": "다카라주조",
+    "booth": "E10",
+    "region": "효고현",
+    "product": "스바루 나마죠조",
+    "class": "Other",
+    "aroma": 6,
+    "richness": 4,
+    "note": "生"
+  },
+  {
+    "brewery": "다카라주조",
+    "booth": "E10",
+    "region": "효고현",
+    "product": "미오",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 4,
+    "note": "澪 Sparkling Sake"
+  },
+  {
+    "brewery": "다카라주조",
+    "booth": "E10",
+    "region": "효고현",
+    "product": "미오 클리어",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 3,
+    "note": "澪 Clear"
+  },
+  {
+    "brewery": "다카라주조",
+    "booth": "E10",
+    "region": "효고현",
+    "product": "다카라 시즈오카 미캉",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "宝 미캉 사케칵테일"
+  },
+  {
+    "brewery": "다카라주조",
+    "booth": "E10",
+    "region": "효고현",
+    "product": "다카라 시마네 샤인머스켓",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "샤인머스켓 칵테일"
+  },
+  {
+    "brewery": "다카라주조",
+    "booth": "E10",
+    "region": "효고현",
+    "product": "다카라 야마나시 화이트피치",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "백도 칵테일"
+  },
+  {
+    "brewery": "다카라주조",
+    "booth": "E10",
+    "region": "효고현",
+    "product": "다카라 후라노 멜론",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "멜론 칵테일"
+  },
+  {
+    "brewery": "센다이이사와케 카츠야마주조",
+    "booth": "E11",
+    "region": "센다이시",
+    "product": "카츠야마 다이아몬드 아카츠키",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 7,
+    "note": "DIAMOND暁 JDGJ 최고급"
+  },
+  {
+    "brewery": "센다이이사와케 카츠야마주조",
+    "booth": "E11",
+    "region": "센다이시",
+    "product": "카츠야마 아카츠키",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "暁 JDGJ 遠心しぼり"
+  },
+  {
+    "brewery": "센다이이사와케 카츠야마주조",
+    "booth": "E11",
+    "region": "센다이시",
+    "product": "카츠야마 레이",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "礼 JDGJ"
+  },
+  {
+    "brewery": "센다이이사와케 카츠야마주조",
+    "booth": "E11",
+    "region": "센다이시",
+    "product": "카츠야마 센쇼마사무네",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "仙松正宗 JDGJ"
+  },
+  {
+    "brewery": "센다이이사와케 카츠야마주조",
+    "booth": "E11",
+    "region": "센다이시",
+    "product": "카츠야마 켄",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "献 JDGJ"
+  },
+  {
+    "brewery": "센다이이사와케 카츠야마주조",
+    "booth": "E11",
+    "region": "센다이시",
+    "product": "카츠야마 엔",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "圓 JDGJ"
+  },
+  {
+    "brewery": "니시노킨료",
+    "booth": "E12",
+    "region": "카가와현",
+    "product": "킨료 키라메키 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "니시노킨료",
+    "booth": "E12",
+    "region": "카가와현",
+    "product": "킨료 준마이다이긴죠 야마다니시키",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "니시노킨료",
+    "booth": "E12",
+    "region": "카가와현",
+    "product": "킨료 코이아이 준마이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "키타야",
+    "booth": "E13",
+    "region": "후쿠오카현",
+    "product": "키타야 고쿠조 다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 5,
+    "note": "大吟醸"
+  },
+  {
+    "brewery": "키타야",
+    "booth": "E13",
+    "region": "후쿠오카현",
+    "product": "키타야 준마이다이긴죠 긴노사토",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 7,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "키타야",
+    "booth": "E13",
+    "region": "후쿠오카현",
+    "product": "키타야 준마이긴죠 긴노사토",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 7,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "키타야",
+    "booth": "E13",
+    "region": "후쿠오카현",
+    "product": "키타야 토쿠베츠준마이 유메잇콘",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 8,
+    "note": "特別純米"
+  },
+  {
+    "brewery": "키타야",
+    "booth": "E13",
+    "region": "후쿠오카현",
+    "product": "무기쇼츄 고쿠",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 6,
+    "note": "Jun"
+  },
+  {
+    "brewery": "키타야",
+    "booth": "E13",
+    "region": "후쿠오카현",
+    "product": "이모쇼츄 진쿠",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 6,
+    "note": "Jun"
+  },
+  {
+    "brewery": "니시주조",
+    "booth": "E14",
+    "region": "가고시마현",
+    "product": "텐부 준마이",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "니시주조",
+    "booth": "E14",
+    "region": "가고시마현",
+    "product": "텐부 준마이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "니시주조",
+    "booth": "E14",
+    "region": "가고시마현",
+    "product": "텐부 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "니시주조",
+    "booth": "E14",
+    "region": "가고시마현",
+    "product": "이모쇼츄 토미노 호우잔",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "Kun"
+  },
+  {
+    "brewery": "니시주조",
+    "booth": "E14",
+    "region": "가고시마현",
+    "product": "이모쇼츄 킷초 호우잔",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "Kun"
+  },
+  {
+    "brewery": "니시주조",
+    "booth": "E14",
+    "region": "가고시마현",
+    "product": "이모쇼츄 하쿠텐 호우잔",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "Kun"
+  },
+  {
+    "brewery": "니시주조",
+    "booth": "E14",
+    "region": "가고시마현",
+    "product": "이모쇼츄 호우잔 시로유타카",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "Kun"
+  },
+  {
+    "brewery": "니시주조",
+    "booth": "E14",
+    "region": "가고시마현",
+    "product": "무기쇼츄 히토츠부노무기",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "Kun"
+  },
+  {
+    "brewery": "니시주조",
+    "booth": "E14",
+    "region": "가고시마현",
+    "product": "이모쇼츄 텐시노유와쿠",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "Kun"
+  },
+  {
+    "brewery": "히가시주조",
+    "booth": "E15",
+    "region": "가고시마현",
+    "product": "이모쇼츄 나나쿠보",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "Kun"
+  },
+  {
+    "brewery": "히가시주조",
+    "booth": "E15",
+    "region": "가고시마현",
+    "product": "이모쇼츄 나나쿠보 이모이모사이사이",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "Kun"
+  },
+  {
+    "brewery": "히가시주조",
+    "booth": "E15",
+    "region": "가고시마현",
+    "product": "이모쇼츄 나나쿠보 고양이라벨",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "Kun"
+  },
+  {
+    "brewery": "히가시주조",
+    "booth": "E15",
+    "region": "가고시마현",
+    "product": "이모쇼츄 카츠 블루",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "Kun"
+  },
+  {
+    "brewery": "히가시주조",
+    "booth": "E15",
+    "region": "가고시마현",
+    "product": "이모쇼츄 카츠 레드",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "Kun"
+  },
+  {
+    "brewery": "핫카이양조",
+    "booth": "E16",
+    "region": "니가타현",
+    "product": "핫카이산 스파클링 아와 시로코우지",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 3,
+    "note": "Sparkling/にごり"
+  },
+  {
+    "brewery": "핫카이양조",
+    "booth": "E16",
+    "region": "니가타현",
+    "product": "코메쇼츄 핫카이산 요로시쿠 센만 아루베시",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 5,
+    "note": "米焼酎"
+  },
+  {
+    "brewery": "핫카이양조",
+    "booth": "E16",
+    "region": "니가타현",
+    "product": "핫카이산 세이슈",
+    "class": "爽 Sou",
+    "aroma": 4,
+    "richness": 4,
+    "note": "清酒(普通酒)"
+  },
+  {
+    "brewery": "핫카이양조",
+    "booth": "E16",
+    "region": "니가타현",
+    "product": "핫카이산 토쿠베츠준마이",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 6,
+    "note": "特別純米"
+  },
+  {
+    "brewery": "핫카이양조",
+    "booth": "E16",
+    "region": "니가타현",
+    "product": "핫카이산 코와구라 다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 3,
+    "note": "大吟醸"
+  },
+  {
+    "brewery": "핫카이양조",
+    "booth": "E16",
+    "region": "니가타현",
+    "product": "핫카이산 다이긴죠 호리병",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 3,
+    "note": "大吟醸"
+  },
+  {
+    "brewery": "핫카이양조",
+    "booth": "E16",
+    "region": "니가타현",
+    "product": "핫카이산 토쿠베츠혼죠조",
+    "class": "爽 Sou",
+    "aroma": 4,
+    "richness": 3,
+    "note": "本醸造"
+  },
+  {
+    "brewery": "핫카이양조",
+    "booth": "E16",
+    "region": "니가타현",
+    "product": "핫카이산 에치코데소로 생주 블루라벨",
+    "class": "爽 Sou",
+    "aroma": 6,
+    "richness": 6,
+    "note": "しぼりたて 生原酒 越後で候 청라벨 JDGJ"
+  },
+  {
+    "brewery": "핫카이양조",
+    "booth": "E16",
+    "region": "니가타현",
+    "product": "핫카이산 준마이다이긴죠 유키무로 저장 3년",
+    "class": "熟 Juku",
+    "aroma": 9,
+    "richness": 8,
+    "note": "純米大吟醸, 熟成/古酒"
+  },
+  {
+    "brewery": "핫카이양조",
+    "booth": "E16",
+    "region": "니가타현",
+    "product": "핫카이산 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 5,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "세키야주조",
+    "booth": "E17",
+    "region": "아이치현",
+    "product": "호라이센 쿠우 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "세키야주조",
+    "booth": "E17",
+    "region": "아이치현",
+    "product": "호라이센 비 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "세키야주조",
+    "booth": "E17",
+    "region": "아이치현",
+    "product": "이치넨후도 유메산스이 토쿠베츠준마이",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "特別純米"
+  },
+  {
+    "brewery": "세키야주조",
+    "booth": "E17",
+    "region": "아이치현",
+    "product": "호라이센 준마이 카스미즈키",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "이나타혼텐",
+    "booth": "E18",
+    "region": "돗토리현",
+    "product": "이나타히메 준마이긴죠 고리키",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "이나타혼텐",
+    "booth": "E18",
+    "region": "돗토리현",
+    "product": "이나타히메 혼죠조 나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "本醸造, 生原酒, 生"
+  },
+  {
+    "brewery": "이나타혼텐",
+    "booth": "E18",
+    "region": "돗토리현",
+    "product": "이나타히메 준마이긴죠 고리키 나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 7,
+    "note": "純米吟醸, 生原酒, 生"
+  },
+  {
+    "brewery": "이나타혼텐",
+    "booth": "E18",
+    "region": "돗토리현",
+    "product": "이나타히메 준마이슈 나마겐슈",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 8,
+    "note": "純米, 生原酒, 生"
+  },
+  {
+    "brewery": "사이야주조",
+    "booth": "E19",
+    "region": "아키타현",
+    "product": "유키노보우샤 준마이다이긴죠 제조번호주",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "사이야주조",
+    "booth": "E19",
+    "region": "아키타현",
+    "product": "유키노보우샤 준마이긴죠 비슈노셋케이",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "사이야주조",
+    "booth": "E19",
+    "region": "아키타현",
+    "product": "유키노보우샤 히덴야마하이 준마이긴죠",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 8,
+    "note": "純米吟醸, 生酛/山廃"
+  },
+  {
+    "brewery": "사이야주조",
+    "booth": "E19",
+    "region": "아키타현",
+    "product": "유키노보우샤 준마이긴죠",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "사이야주조",
+    "booth": "E19",
+    "region": "아키타현",
+    "product": "유키노보우샤 야마하이 준마이슈",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 9,
+    "note": "純米, 生酛/山廃"
+  },
+  {
+    "brewery": "사이야주조",
+    "booth": "E19",
+    "region": "아키타현",
+    "product": "유키노보우샤 야마하이 혼죠조",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 6,
+    "note": "本醸造, 生酛/山廃"
+  },
+  {
+    "brewery": "후쿠치요주조",
+    "booth": "E20",
+    "region": "사가현",
+    "product": "나베시마 다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 5,
+    "note": "大吟醸"
+  },
+  {
+    "brewery": "후쿠치요주조",
+    "booth": "E20",
+    "region": "사가현",
+    "product": "나베시마 준마이다이긴죠 아이야마",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 7,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "후쿠치요주조",
+    "booth": "E20",
+    "region": "사가현",
+    "product": "나베시마 준마이긴죠 야마다니시키",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 7,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "후쿠치요주조",
+    "booth": "E20",
+    "region": "사가현",
+    "product": "나베시마 준마이긴죠 키타시즈쿠",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 7,
+    "note": "純米吟醸, 雫取り"
+  },
+  {
+    "brewery": "후쿠치요주조",
+    "booth": "E20",
+    "region": "사가현",
+    "product": "나베시마 토쿠베츠준마이",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 8,
+    "note": "特別純米"
+  },
+  {
+    "brewery": "토코야마",
+    "booth": "F01",
+    "region": "후쿠이현",
+    "product": "죠잔 쥰마이다이긴죠 아라이소 生",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 7,
+    "note": "純米大吟醸, 生"
+  },
+  {
+    "brewery": "토코야마",
+    "booth": "F01",
+    "region": "후쿠이현",
+    "product": "죠잔 쥰마이긴죠 겐타츠 生",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 7,
+    "note": "純米吟醸, 生"
+  },
+  {
+    "brewery": "토코야마",
+    "booth": "F01",
+    "region": "후쿠이현",
+    "product": "죠잔 쥰마이다이긴죠 호우준 카라구치 키와미",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 7,
+    "note": "純米大吟醸, 辛口"
+  },
+  {
+    "brewery": "토코야마",
+    "booth": "F01",
+    "region": "후쿠이현",
+    "product": "죠잔 SPRARKLING 니고리 사케",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 5,
+    "note": "Sparkling にごり"
+  },
+  {
+    "brewery": "토코야마",
+    "booth": "F01",
+    "region": "후쿠이현",
+    "product": "죠잔 후나바하츠즈메 즈이이치",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 5,
+    "note": "槽場初詰 純米大吟醸 瑞一"
+  },
+  {
+    "brewery": "우메노야도 주조",
+    "booth": "F02",
+    "region": "나라현",
+    "product": "우메노야도 아라고시 유즈슈",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "柚子酒"
+  },
+  {
+    "brewery": "우메노야도 주조",
+    "booth": "F02",
+    "region": "나라현",
+    "product": "우메노야도 아라고시 모모",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "桃 리큐어"
+  },
+  {
+    "brewery": "우메노야도 주조",
+    "booth": "F02",
+    "region": "나라현",
+    "product": "우메노야도 토마토",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "토마토 리큐어"
+  },
+  {
+    "brewery": "우메노야도 주조",
+    "booth": "F02",
+    "region": "나라현",
+    "product": "우메노야도 시트러스위트 Citrusweet",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "Citrus liqueur"
+  },
+  {
+    "brewery": "카네다타마다주조",
+    "booth": "F03",
+    "region": "아오모리현",
+    "product": "쥰마이긴죠 하나잇푸",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "카네다타마다주조",
+    "booth": "F03",
+    "region": "아오모리현",
+    "product": "340",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 5,
+    "note": "銘柄 340 純米大吟醸"
+  },
+  {
+    "brewery": "나가노 메이죠",
+    "booth": "F04",
+    "region": "나가노현",
+    "product": "쥰마이다이긴죠 타나다 라그라스",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "나가노 메이죠",
+    "booth": "F04",
+    "region": "나가노현",
+    "product": "쥰마이긴죠 모모이로 잉꼬",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "나가노 메이죠",
+    "booth": "F04",
+    "region": "나가노현",
+    "product": "쥰마이긴죠 키세키레이 무로카나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 8,
+    "note": "純米吟醸, 無濾過, 生原酒, 生"
+  },
+  {
+    "brewery": "나가노 메이죠",
+    "booth": "F04",
+    "region": "나가노현",
+    "product": "쥰마이긴죠 키세키키레이",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "나가노 메이죠",
+    "booth": "F04",
+    "region": "나가노현",
+    "product": "쥰마이긴죠 타나다 시보리타테",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 5,
+    "note": "純米吟醸, しぼりたて"
+  },
+  {
+    "brewery": "이이누마혼케",
+    "booth": "F05",
+    "region": "치바현",
+    "product": "키노에네 쥰마이 우마카라 미가키하치와리",
+    "class": "醇 Jun",
+    "aroma": 4,
+    "richness": 7,
+    "note": "甲子 純米 旨辛 磨き8割"
+  },
+  {
+    "brewery": "이이누마혼케",
+    "booth": "F05",
+    "region": "치바현",
+    "product": "키노에네 하나야카 타카미노카오리 쥰마이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 7,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "이이누마혼케",
+    "booth": "F05",
+    "region": "치바현",
+    "product": "시스이노요아케 쥰마이다이긴죠 生",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 7,
+    "note": "純米大吟醸, 生"
+  },
+  {
+    "brewery": "이이누마혼케",
+    "booth": "F05",
+    "region": "치바현",
+    "product": "키노에네 아키아가리",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 6,
+    "note": "甲子 秋上がり 純米"
+  },
+  {
+    "brewery": "니카이도주조",
+    "booth": "F06",
+    "region": "오이타현",
+    "product": "니카이도",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 7,
+    "note": "麦焼酎"
+  },
+  {
+    "brewery": "니카이도주조",
+    "booth": "F06",
+    "region": "오이타현",
+    "product": "니카이도 킷쵸무 25도 병",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 7,
+    "note": "麦焼酎 25도"
+  },
+  {
+    "brewery": "요시다주조",
+    "booth": "F07",
+    "region": "시마네현",
+    "product": "갓산 쥰마이긴죠 나카도리지카구미 生",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 7,
+    "note": "純米吟醸, 生"
+  },
+  {
+    "brewery": "요시다주조",
+    "booth": "F07",
+    "region": "시마네현",
+    "product": "갓산 호우준카라구치쥰마이 시보리타테 무로카나마겐슈 生",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 9,
+    "note": "純米, 無濾過, 生原酒, 生, しぼりたて, 辛口"
+  },
+  {
+    "brewery": "요시다주조",
+    "booth": "F07",
+    "region": "시마네현",
+    "product": "갓산 토쿠베츠 쥰마이",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "月山 特別純米 出雲"
+  },
+  {
+    "brewery": "요시다주조",
+    "booth": "F07",
+    "region": "시마네현",
+    "product": "갓산 토쿠베츠 쥰마이 이즈모",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "月山 特別純米 出雲"
+  },
+  {
+    "brewery": "배니오토메",
+    "booth": "F08",
+    "region": "후쿠오카현",
+    "product": "캇파 큐센보우(와인효모)",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "Other"
+  },
+  {
+    "brewery": "배니오토메",
+    "booth": "F08",
+    "region": "후쿠오카현",
+    "product": "캇파 큐센보우혼류",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "紅乙女 焼酎"
+  },
+  {
+    "brewery": "배니오토메",
+    "booth": "F08",
+    "region": "후쿠오카현",
+    "product": "베니오토메 STANDARD25 에구치히사시VERVION",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 6,
+    "note": "紅乙女 25도"
+  },
+  {
+    "brewery": "배니오토메",
+    "booth": "F08",
+    "region": "후쿠오카현",
+    "product": "크롭엔크롭 쿠로 고마 리큐르",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "Other"
+  },
+  {
+    "brewery": "타츠우마",
+    "booth": "F09",
+    "region": "효고현",
+    "product": "토쿠베츠 혼죠조 키쥬로",
+    "class": "爽 Sou",
+    "aroma": 4,
+    "richness": 4,
+    "note": "本醸造"
+  },
+  {
+    "brewery": "타츠우마",
+    "booth": "F09",
+    "region": "효고현",
+    "product": "쿠로마츠 하쿠시카 쥰마이 다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "타츠우마",
+    "booth": "F09",
+    "region": "효고현",
+    "product": "하쿠시카 호화 쥰마이다이긴죠 센넨주",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "타츠우마",
+    "booth": "F09",
+    "region": "효고현",
+    "product": "하쿠시카 야마다니시키 카라구치 쥰마이 실크",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 6,
+    "note": "白鹿 山田錦 辛口 純米 シルク"
+  },
+  {
+    "brewery": "타츠우마",
+    "booth": "F09",
+    "region": "효고현",
+    "product": "하쿠시카 시보리타테",
+    "class": "爽 Sou",
+    "aroma": 5,
+    "richness": 5,
+    "note": "白鹿 しぼりたて"
+  },
+  {
+    "brewery": "하나노마이주조",
+    "booth": "F10",
+    "region": "시즈오카현",
+    "product": "하나노마이 쥰마이긴죠슈",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "하나노마이주조",
+    "booth": "F10",
+    "region": "시즈오카현",
+    "product": "하나노마이쥰마이긴죠 카타나",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "하나노마이주조",
+    "booth": "F10",
+    "region": "시즈오카현",
+    "product": "하나노마이 스파클링",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 4,
+    "note": "Sparkling/にごり"
+  },
+  {
+    "brewery": "하나노마이주조",
+    "booth": "F10",
+    "region": "시즈오카현",
+    "product": "쥰마이긴죠 AKANE(아카네)",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "닷사이블루",
+    "booth": "F11",
+    "region": "뉴욕",
+    "product": "닷사이 블루 타입 23",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "獺祭BLUE TYPE23 JDGJ"
+  },
+  {
+    "brewery": "닷사이블루",
+    "booth": "F11",
+    "region": "뉴욕",
+    "product": "닷사이 블루 타입 35",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 5,
+    "note": "獺祭BLUE TYPE35 JDGJ"
+  },
+  {
+    "brewery": "닷사이블루",
+    "booth": "F11",
+    "region": "뉴욕",
+    "product": "닷사이 블루 타입 50",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 5,
+    "note": "獺祭BLUE TYPE50 JDGJ"
+  },
+  {
+    "brewery": "닷사이블루",
+    "booth": "F11",
+    "region": "뉴욕",
+    "product": "닷사이 블루 타입 50 드라이(Dry)",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 4,
+    "note": "獺祭BLUE TYPE50 Dry"
+  },
+  {
+    "brewery": "치요무스비주조",
+    "booth": "F12",
+    "region": "돗토리현",
+    "product": "치요무스비 쥰마이다이긴죠 야마다니시키50",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "치요무스비주조",
+    "booth": "F12",
+    "region": "돗토리현",
+    "product": "치요무스비 히토키와 토쿠베츠쥰마이 나카도리 무로카겐슈나마",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 8,
+    "note": "特別純米, 無濾過, 生"
+  },
+  {
+    "brewery": "치요무스비주조",
+    "booth": "F12",
+    "region": "돗토리현",
+    "product": "치요무스비 야키이모쇼츄 하마노이모타",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 5,
+    "note": "Other"
+  },
+  {
+    "brewery": "치요무스비주조",
+    "booth": "F12",
+    "region": "돗토리현",
+    "product": "치요무스비 애플리큐르",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "사과 리큐어"
+  },
+  {
+    "brewery": "치요무스비주조",
+    "booth": "F12",
+    "region": "돗토리현",
+    "product": "치요무스비 재패니즈 싱글 몰트 위스키 린타로(헤비챠캐스크)",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 5,
+    "note": "Other"
+  },
+  {
+    "brewery": "나테주조점",
+    "booth": "F13",
+    "region": "와카야마현",
+    "product": "쿠로우시 카라구치 쥰마이슈 레드",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "黒牛 辛口 純米"
+  },
+  {
+    "brewery": "나테주조점",
+    "booth": "F13",
+    "region": "와카야마현",
+    "product": "쿠로우시 쥰마이다이긴죠 오마치 나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 8,
+    "note": "純米大吟醸, 生原酒, 生"
+  },
+  {
+    "brewery": "나테주조점",
+    "booth": "F13",
+    "region": "와카야마현",
+    "product": "쥰마이슈 쿠로우시 나카도리무로카나마겐슈",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 10,
+    "note": "純米, 無濾過, 生原酒, 生"
+  },
+  {
+    "brewery": "나테주조점",
+    "booth": "F13",
+    "region": "와카야마현",
+    "product": "쥰마이슈 쿠로우시 시보리타테",
+    "class": "爽 Sou",
+    "aroma": 5,
+    "richness": 6,
+    "note": "黒牛 純米 しぼりたて"
+  },
+  {
+    "brewery": "남부주조장",
+    "booth": "F14",
+    "region": "후쿠이현",
+    "product": "하나가키 쥰마이슈",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 6,
+    "note": "花垣 純米酒"
+  },
+  {
+    "brewery": "남부주조장",
+    "booth": "F14",
+    "region": "후쿠이현",
+    "product": "하나가키 오우카 세이카이 쥰마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "남부주조장",
+    "booth": "F14",
+    "region": "후쿠이현",
+    "product": "하나가키 BLEND in 쥰마이코슈",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "남부주조장",
+    "booth": "F14",
+    "region": "후쿠이현",
+    "product": "하나가키 코시노시즈쿠 쥰마이무로카나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 9,
+    "note": "純米, 無濾過, 生原酒, 生, 雫取り"
+  },
+  {
+    "brewery": "텐잔주조",
+    "booth": "F15",
+    "region": "사가현",
+    "product": "시치다 510",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "七田 510 純米 muscat-like"
+  },
+  {
+    "brewery": "텐잔주조",
+    "booth": "F15",
+    "region": "사가현",
+    "product": "시치다 쥰마이긴죠 오마치 무로카나마(생주)",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 8,
+    "note": "純米吟醸, 無濾過, 生"
+  },
+  {
+    "brewery": "텐잔주조",
+    "booth": "F15",
+    "region": "사가현",
+    "product": "시치다 쥰마이긴죠 야마다니시키13",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 7,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "텐잔주조",
+    "booth": "F15",
+    "region": "사가현",
+    "product": "시치다 나나와리고부미가키 슌요",
+    "class": "醇 Jun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "七田 75% 磨 春陽 純米 lychee/grapefruit"
+  },
+  {
+    "brewery": "사카타주조",
+    "booth": "F16",
+    "region": "야마가타현",
+    "product": "죠키겐 쥰마이긴죠 초카라",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "사카타주조",
+    "booth": "F16",
+    "region": "야마가타현",
+    "product": "죠키겐 쥰마이다이긴죠 야마다니시키50",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "사카타주조",
+    "booth": "F16",
+    "region": "야마가타현",
+    "product": "죠키겐 쥰마이긴죠 산케이니시키 무로카나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 8,
+    "note": "純米吟醸, 無濾過, 生原酒, 生"
+  },
+  {
+    "brewery": "사카타주조",
+    "booth": "F16",
+    "region": "야마가타현",
+    "product": "죠키겐 쥰마이다이긴죠 초카라",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "세이료주조주식회사",
+    "booth": "F17",
+    "region": "에히메현",
+    "product": "이요카기야 쥰마이 무로카",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "伊予賀儀屋 純米 無濾過"
+  },
+  {
+    "brewery": "세이료주조주식회사",
+    "booth": "F17",
+    "region": "에히메현",
+    "product": "이요카기야 쥰마이긴죠 무로카",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 8,
+    "note": "純米吟醸, 無濾過"
+  },
+  {
+    "brewery": "세이료주조주식회사",
+    "booth": "F17",
+    "region": "에히메현",
+    "product": "세이료젠 토쿠베츠 쥰마이 나마 우라라카",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 8,
+    "note": "特別純米, 生"
+  },
+  {
+    "brewery": "세이료주조주식회사",
+    "booth": "F17",
+    "region": "에히메현",
+    "product": "이요카기야 쥰마이긴죠 토시즈 오리가라미 나마",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 7,
+    "note": "純米吟醸, 生"
+  },
+  {
+    "brewery": "아오키주조",
+    "booth": "F18",
+    "region": "니이가타현",
+    "product": "카쿠레이 쥰마이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 7,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "아오키주조",
+    "booth": "F18",
+    "region": "니이가타현",
+    "product": "카쿠레이 쥰마이",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "鶴齢 純米"
+  },
+  {
+    "brewery": "아오키주조",
+    "booth": "F18",
+    "region": "니이가타현",
+    "product": "카쿠레이 코키무라사키",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 6,
+    "note": "鶴齢 越淡麗 限定"
+  },
+  {
+    "brewery": "아오키주조",
+    "booth": "F18",
+    "region": "니이가타현",
+    "product": "카쿠레이 긴죠 나마자케",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 5,
+    "note": "吟醸, 生"
+  },
+  {
+    "brewery": "도이주조장",
+    "booth": "F19",
+    "region": "시즈오카현",
+    "product": "카이운 쥰마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "도이주조장",
+    "booth": "F19",
+    "region": "시즈오카현",
+    "product": "카이운 무로카 쥰마이 아카이와오마치 나마자케",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 8,
+    "note": "純米, 無濾過, 生"
+  },
+  {
+    "brewery": "도이주조장",
+    "booth": "F19",
+    "region": "시즈오카현",
+    "product": "카이운 마네키네코 히야즈메쥰마이(핑크라벨)",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 6,
+    "note": "開運 招き猫 ひやおろし 純米"
+  },
+  {
+    "brewery": "도이주조장",
+    "booth": "F19",
+    "region": "시즈오카현",
+    "product": "카이운 이와이자케",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 5,
+    "note": "開運 祝酒 純米大吟醸 한정"
+  },
+  {
+    "brewery": "아야키쿠주조",
+    "booth": "F20",
+    "region": "카가와현",
+    "product": "아야키쿠 올리브 이스트 쥰마이 사케",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 6,
+    "note": "綾菊 オリーブ酵母 純米"
+  },
+  {
+    "brewery": "아야키쿠주조",
+    "booth": "F20",
+    "region": "카가와현",
+    "product": "아야키쿠 사누키올리브11",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 6,
+    "note": "綾菊 サヌキオリーブ11"
+  },
+  {
+    "brewery": "아야키쿠주조",
+    "booth": "F20",
+    "region": "카가와현",
+    "product": "아야키쿠 올리브 이스트 쥰마이 나마",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "純米, 生"
+  },
+  {
+    "brewery": "코바야시주조",
+    "booth": "G02",
+    "region": "토치기현",
+    "product": "호오비덴 준마이다이긴죠 아카반",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "코바야시주조",
+    "booth": "G02",
+    "region": "토치기현",
+    "product": "호오비덴 츠루기",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 6,
+    "note": "鳳凰美田 剣 辛口純米"
+  },
+  {
+    "brewery": "츠치야주조점",
+    "booth": "G03",
+    "region": "나가노현",
+    "product": "카메노우미 우마구치 준마이",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 8,
+    "note": "純米"
+  },
+  {
+    "brewery": "스와미코츠루 주조장",
+    "booth": "G04",
+    "region": "나가노현",
+    "product": "미코츠루 히토고코치",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 6,
+    "note": "美湖鶴 純米 ヒトゴコチ"
+  },
+  {
+    "brewery": "헤이와주조",
+    "booth": "G05",
+    "region": "와카야마현",
+    "product": "킷도 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "헤이와주조",
+    "booth": "G05",
+    "region": "와카야마현",
+    "product": "킷도 무료잔",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "紀土 無量山 純米大吟醸 25%/35%"
+  },
+  {
+    "brewery": "이와세주조",
+    "booth": "G07",
+    "region": "치바현",
+    "product": "이와노이 i240 준마이다이긴죠 고햐쿠만고쿠 무로카나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 8,
+    "note": "純米大吟醸, 無濾過, 生原酒, 生"
+  },
+  {
+    "brewery": "시미즈 세이자부로쇼텐",
+    "booth": "G08",
+    "region": "미에현",
+    "product": "자쿠 미야비노토모 나카도리",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "作 雅乃智 中取り 純米大吟醸"
+  },
+  {
+    "brewery": "시미즈 세이자부로쇼텐",
+    "booth": "G08",
+    "region": "미에현",
+    "product": "자쿠 호노토모",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 6,
+    "note": "作 穂乃智 純米"
+  },
+  {
+    "brewery": "하야시혼텐",
+    "booth": "G09",
+    "region": "기후현",
+    "product": "햐쿠쥬로 아카즈라 Extra Dry 준마이",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "키리시마쵸 증류소",
+    "booth": "G10",
+    "region": "카고시마현",
+    "product": "아카루이노우손 (고구마)",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "芋焼酎"
+  },
+  {
+    "brewery": "키리시마쵸 증류소",
+    "booth": "G10",
+    "region": "카고시마현",
+    "product": "아카루이노우손 실크 스위트 (고구마)",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "芋焼酎"
+  },
+  {
+    "brewery": "텐파이",
+    "booth": "G11",
+    "region": "후쿠오카현",
+    "product": "크래프츠맨 타다 스패니시",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 5,
+    "note": "sake craft blend"
+  },
+  {
+    "brewery": "텐파이",
+    "booth": "G11",
+    "region": "후쿠오카현",
+    "product": "크래프츠맨 타다 키안티 브라운",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 5,
+    "note": "sake craft blend"
+  },
+  {
+    "brewery": "텐파이",
+    "booth": "G11",
+    "region": "후쿠오카현",
+    "product": "크래프츠맨 타다 2417",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 5,
+    "note": "sake craft blend"
+  },
+  {
+    "brewery": "텐파이",
+    "booth": "G11",
+    "region": "후쿠오카현",
+    "product": "크래프츠맨 타다 나츠코이",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 5,
+    "note": "sake craft blend"
+  },
+  {
+    "brewery": "텐파이",
+    "booth": "G11",
+    "region": "후쿠오카현",
+    "product": "Coffee Specialite",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 5,
+    "note": "coffee blend"
+  },
+  {
+    "brewery": "텐파이",
+    "booth": "G11",
+    "region": "후쿠오카현",
+    "product": "Pepper Specialite",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 5,
+    "note": "pepper blend"
+  },
+  {
+    "brewery": "미치자쿠라주조",
+    "booth": "G12",
+    "region": "홋카이도",
+    "product": "미치자쿠라 쥰마이다이긴죠 키타시즈쿠45",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 7,
+    "note": "純米大吟醸, 雫取り"
+  },
+  {
+    "brewery": "미치자쿠라주조",
+    "booth": "G12",
+    "region": "홋카이도",
+    "product": "미치자쿠라 쥰마이다이긴죠 스이세이45",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 7,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "미치자쿠라주조",
+    "booth": "G12",
+    "region": "홋카이도",
+    "product": "미치자쿠라 쥰마이 R Class",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 6,
+    "note": "三千櫻 純米 R Class"
+  },
+  {
+    "brewery": "미치자쿠라주조",
+    "booth": "G12",
+    "region": "홋카이도",
+    "product": "미치자쿠라 쥰마이긴죠 쿠즈류55 나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 8,
+    "note": "純米吟醸, 生原酒, 生"
+  },
+  {
+    "brewery": "라이후쿠주조",
+    "booth": "G13",
+    "region": "이바라키현",
+    "product": "라이후쿠 쥰마이긴죠 아이야마",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "라이후쿠주조",
+    "booth": "G13",
+    "region": "이바라키현",
+    "product": "라이후쿠 쥰마이슈 후쿠마루",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 6,
+    "note": "来福 純米 福丸"
+  },
+  {
+    "brewery": "라이후쿠주조",
+    "booth": "G13",
+    "region": "이바라키현",
+    "product": "라이후쿠 엠 스페셜 에디션 퓨어",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 5,
+    "note": "来福 M Special Edition Pure"
+  },
+  {
+    "brewery": "라이후쿠주조",
+    "booth": "G13",
+    "region": "이바라키현",
+    "product": "라이후쿠 준마이 나마자케 사쿠라",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 7,
+    "note": "純米, 生"
+  },
+  {
+    "brewery": "후지주조",
+    "booth": "G14",
+    "region": "시마네현",
+    "product": "이즈모후지 쥰마이긴죠 (야마다니시키50)",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 7,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "후지주조",
+    "booth": "G14",
+    "region": "시마네현",
+    "product": "이즈모후지 쥰마이긴죠 초카라",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 7,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "후지주조",
+    "booth": "G14",
+    "region": "시마네현",
+    "product": "이즈모후지 쥰마이",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 6,
+    "note": "出雲富士 純米"
+  },
+  {
+    "brewery": "후지주조",
+    "booth": "G14",
+    "region": "시마네현",
+    "product": "이즈모후지 토쿠베츠 쥰마이",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "出雲富士 特別純米"
+  },
+  {
+    "brewery": "니이자와양조점",
+    "booth": "G15",
+    "region": "미야기현",
+    "product": "하쿠라쿠세이 쥰마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 7,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "니이자와양조점",
+    "booth": "G15",
+    "region": "미야기현",
+    "product": "하쿠라쿠세이 쥰마이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 7,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "니이자와양조점",
+    "booth": "G15",
+    "region": "미야기현",
+    "product": "하쿠라쿠세이 토쿠베츠 쥰마이",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "伯楽星 特別純米"
+  },
+  {
+    "brewery": "니이자와양조점",
+    "booth": "G15",
+    "region": "미야기현",
+    "product": "카오루코우챠슈",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 4,
+    "note": "香 紅茶酒"
+  },
+  {
+    "brewery": "에시칼・스피리츠",
+    "booth": "G16",
+    "region": "도쿄",
+    "product": "라스트 엘리시움",
+    "class": "Other",
+    "aroma": 6,
+    "richness": 5,
+    "note": "craft spirit"
+  },
+  {
+    "brewery": "에시칼・스피리츠",
+    "booth": "G16",
+    "region": "도쿄",
+    "product": "라스트 엘레강트",
+    "class": "Other",
+    "aroma": 6,
+    "richness": 5,
+    "note": "craft spirit"
+  },
+  {
+    "brewery": "에시칼・스피리츠",
+    "booth": "G16",
+    "region": "도쿄",
+    "product": "라스트 엔",
+    "class": "Other",
+    "aroma": 6,
+    "richness": 5,
+    "note": "craft spirit"
+  },
+  {
+    "brewery": "에시칼・스피리츠",
+    "booth": "G16",
+    "region": "도쿄",
+    "product": "교토 페퍼 에티크",
+    "class": "Other",
+    "aroma": 6,
+    "richness": 5,
+    "note": "craft spirit"
+  },
+  {
+    "brewery": "에시칼・스피리츠",
+    "booth": "G16",
+    "region": "도쿄",
+    "product": "카카오 에티크",
+    "class": "Other",
+    "aroma": 6,
+    "richness": 5,
+    "note": "craft spirit"
+  },
+  {
+    "brewery": "야츠시카주조",
+    "booth": "G17",
+    "region": "오이타현",
+    "product": "긴자노스즈메 시로코우지",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 6,
+    "note": "銀座のすずめ 白麹 焼酎"
+  },
+  {
+    "brewery": "야츠시카주조",
+    "booth": "G17",
+    "region": "오이타현",
+    "product": "긴자노스즈메 코하쿠",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "銀座のすずめ 琥珀 樽熟成 焼酎"
+  },
+  {
+    "brewery": "야츠시카주조",
+    "booth": "G17",
+    "region": "오이타현",
+    "product": "카보스슈",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "カボス酒 리큐어"
+  },
+  {
+    "brewery": "야츠시카주조",
+    "booth": "G17",
+    "region": "오이타현",
+    "product": "긴자노스즈메 가스라이트",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 6,
+    "note": "銀座のすずめ Gas Light"
+  },
+  {
+    "brewery": "사케노카마쿠라",
+    "booth": "G18",
+    "region": "와카야마현",
+    "product": "키슈우구이스야 타루지코미 우메슈",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 5,
+    "note": "Other"
+  },
+  {
+    "brewery": "사케노카마쿠라",
+    "booth": "G18",
+    "region": "와카야마현",
+    "product": "키슈우구이스야 쿠로우시지타테 우메슈(카라구치)",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 5,
+    "note": "辛口"
+  },
+  {
+    "brewery": "사케노카마쿠라",
+    "booth": "G18",
+    "region": "와카야마현",
+    "product": "키슈 칸칸야 운슈미캉슈",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "紀州 温州蜜柑酒"
+  },
+  {
+    "brewery": "사케노카마쿠라",
+    "booth": "G18",
+    "region": "와카야마현",
+    "product": "키슈 우구이스야 코우챠 우메슈",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 5,
+    "note": "Other"
+  },
+  {
+    "brewery": "사츠마무쏘",
+    "booth": "G19",
+    "region": "가고시마현",
+    "product": "오토메자쿠라",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "芋焼酎"
+  },
+  {
+    "brewery": "사츠마무쏘",
+    "booth": "G19",
+    "region": "가고시마현",
+    "product": "모구라",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "芋焼酎"
+  },
+  {
+    "brewery": "사츠마무쏘",
+    "booth": "G19",
+    "region": "가고시마현",
+    "product": "이모노타루",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "芋焼酎 樽"
+  },
+  {
+    "brewery": "사츠마무쏘",
+    "booth": "G19",
+    "region": "가고시마현",
+    "product": "카엔잔 베니(군고구마소주)",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "Other"
+  },
+  {
+    "brewery": "신자토주조",
+    "booth": "G20",
+    "region": "오키나와현",
+    "product": "류큐 골드",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "泡盛 GOLD"
+  },
+  {
+    "brewery": "신자토주조",
+    "booth": "G20",
+    "region": "오키나와현",
+    "product": "카리유시",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "泡盛"
+  },
+  {
+    "brewery": "신자토주조",
+    "booth": "G20",
+    "region": "오키나와현",
+    "product": "싱글 몰트 위스키 류카 뉴 본 2025 이엑스 버번 캐스크",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "Other"
+  },
+  {
+    "brewery": "신자토주조",
+    "booth": "G20",
+    "region": "오키나와현",
+    "product": "신자토 위스키",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "Other"
+  },
+  {
+    "brewery": "신자토주조",
+    "booth": "G20",
+    "region": "오키나와현",
+    "product": "류카 싱글 몰트 재패니즈 위스키 2026 얼리 썸머(선예약상품)",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "Other"
+  },
+  {
+    "brewery": "아키타양조",
+    "booth": "H01",
+    "region": "아키타현",
+    "product": "유키노비진 준마이긴죠 6호 효모 초카라",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "아키타양조",
+    "booth": "H01",
+    "region": "아키타현",
+    "product": "유키노비진 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "야마모토주조점",
+    "booth": "H02",
+    "region": "아키타현",
+    "product": "퓨어블랙 야마모토",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 6,
+    "note": "山本 Pure Black 純米吟醸"
+  },
+  {
+    "brewery": "미토베주조",
+    "booth": "H03",
+    "region": "야마가타현",
+    "product": "야마가타마사무네 카라구치 준마이",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 8,
+    "note": "純米, 辛口"
+  },
+  {
+    "brewery": "미토베주조",
+    "booth": "H03",
+    "region": "야마가타현",
+    "product": "시드르 마사무네 오우린",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "楯野川 シードル 사과"
+  },
+  {
+    "brewery": "고토주조점",
+    "booth": "H04",
+    "region": "야마가타현",
+    "product": "벤텐 준마이다이긴죠겐슈 오마치",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 7,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "신도주조점",
+    "booth": "H05",
+    "region": "야마가타현",
+    "product": "가산류 고쿠게츠 시즈쿠도리",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 5,
+    "note": "雅山流 極月 雫取り 大吟醸"
+  },
+  {
+    "brewery": "신도주조점",
+    "booth": "H05",
+    "region": "야마가타현",
+    "product": "우라가산류 코우카",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 5,
+    "note": "裏・雅山流 香華"
+  },
+  {
+    "brewery": "나가야마혼케주조장",
+    "booth": "H06",
+    "region": "야마구치현",
+    "product": "준마이다이긴죠 도메누 타카",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "나가야마혼케주조장",
+    "booth": "H06",
+    "region": "야마구치현",
+    "product": "타카 토쿠베츠준마이",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "特別純米"
+  },
+  {
+    "brewery": "아부노츠루주조",
+    "booth": "H07",
+    "region": "야마구치현",
+    "product": "미요시 준마이다이긴죠 그린",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "아부노츠루주조",
+    "booth": "H07",
+    "region": "야마구치현",
+    "product": "아부노츠루 카라구치 준마이긴죠",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米吟醸, 辛口"
+  },
+  {
+    "brewery": "야오신주조",
+    "booth": "H08",
+    "region": "야마구치현",
+    "product": "간기 준마이긴죠 무로카나마겐슈 노니",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 8,
+    "note": "純米吟醸, 無濾過, 生原酒, 生"
+  },
+  {
+    "brewery": "야오신주조",
+    "booth": "H08",
+    "region": "야마구치현",
+    "product": "간기 준마이 무로카나마겐슈 노이치",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 9,
+    "note": "純米, 無濾過, 生原酒, 生"
+  },
+  {
+    "brewery": "우라자토주조점",
+    "booth": "H09",
+    "region": "이바라키현",
+    "product": "우라자토 준마이긴죠 히타치니시키",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "우라자토주조점",
+    "booth": "H09",
+    "region": "이바라키현",
+    "product": "우라자토 준마이슈",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "쿠메지마노쿠메센",
+    "booth": "H10",
+    "region": "오키나와현",
+    "product": "쿠메지마노쿠메센 브라운",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 8,
+    "note": "泡盛 古酒 브라운"
+  },
+  {
+    "brewery": "쿠메지마노쿠메센",
+    "booth": "H10",
+    "region": "오키나와현",
+    "product": "오키나와 시콰사",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "シークヮーサー"
+  },
+  {
+    "brewery": "슈호주조장",
+    "booth": "H11",
+    "region": "야마가타현",
+    "product": "슈호 다이긴죠 초카라구치",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 4,
+    "note": "大吟醸, 辛口"
+  },
+  {
+    "brewery": "슈호주조장",
+    "booth": "H11",
+    "region": "야마가타현",
+    "product": "슈호 준마이긴죠 핫탄",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "록카센",
+    "booth": "H12",
+    "region": "야마가타현",
+    "product": "야마호우시 바쿠라이 나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "生原酒, 生"
+  },
+  {
+    "brewery": "코지마소우혼텐",
+    "booth": "H13",
+    "region": "야마가타현",
+    "product": "토우코우 준마이긴죠겐슈",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "코지마소우혼텐",
+    "booth": "H13",
+    "region": "야마가타현",
+    "product": "토우코우 준마이",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "키쿠노츠카사주조",
+    "booth": "H14",
+    "region": "이와테현",
+    "product": "이노센트 40",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 5,
+    "note": "菊の司 イノセント40 純米大吟醸"
+  },
+  {
+    "brewery": "키쿠노츠카사주조",
+    "booth": "H14",
+    "region": "이와테현",
+    "product": "이노센트 50",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 5,
+    "note": "菊の司 イノセント50 純米大吟醸"
+  },
+  {
+    "brewery": "아카부주조",
+    "booth": "H15",
+    "region": "이와테현",
+    "product": "아카부 준마이긴죠",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 7,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "아카부주조",
+    "booth": "H15",
+    "region": "이와테현",
+    "product": "아카부 준마이",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 8,
+    "note": "純米"
+  },
+  {
+    "brewery": "카와자와주조",
+    "booth": "H16",
+    "region": "코우치현",
+    "product": "야마니 쿠모가 자아구자아구",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "山二 雲がざあぐざあぐ"
+  },
+  {
+    "brewery": "아리미츠주조장",
+    "booth": "H17",
+    "region": "코우치현",
+    "product": "아키토라 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "아리미츠주조장",
+    "booth": "H17",
+    "region": "코우치현",
+    "product": "아키토라 준마이",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "타카키주조",
+    "booth": "H19",
+    "region": "코우치현",
+    "product": "토요노우메 준마이긴죠 요이요이",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "타카키주조",
+    "booth": "H19",
+    "region": "코우치현",
+    "product": "토요노우메 CEL-24",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 5,
+    "note": "豊能梅 CEL-24 효모 strawberry-like aromatic"
+  },
+  {
+    "brewery": "카메이즈미주조",
+    "booth": "H20",
+    "region": "코우치현",
+    "product": "카메이즈미 준마이긴죠 CEL-24",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 7,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "카메이즈미주조",
+    "booth": "H20",
+    "region": "코우치현",
+    "product": "카메이즈미 준마이다이긴죠겐슈 CEL-24 야마다니시키",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 7,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "세토주조",
+    "booth": "J01",
+    "region": "사가현",
+    "product": "아즈마쵸 무츠고로상 쿠로 준마이다이긴죠 무로카겐슈",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 7,
+    "note": "純米大吟醸, 無濾過"
+  },
+  {
+    "brewery": "세토주조",
+    "booth": "J01",
+    "region": "사가현",
+    "product": "아즈마쵸 무츠고로상 하지메테",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "東町 ムツゴロウさん 初めて"
+  },
+  {
+    "brewery": "아즈마츠루주조",
+    "booth": "J02",
+    "region": "사가현",
+    "product": "아즈마츠루 MOVIN'",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "東鶴 MOVIN'"
+  },
+  {
+    "brewery": "아즈마츠루주조",
+    "booth": "J02",
+    "region": "사가현",
+    "product": "아즈마츠루 The Origin",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "東鶴 The Origin"
+  },
+  {
+    "brewery": "후쿠다주조",
+    "booth": "J03",
+    "region": "나가사키현",
+    "product": "쟈가타라 오하루",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 6,
+    "note": "ジャガタラお春"
+  },
+  {
+    "brewery": "후쿠다주조",
+    "booth": "J03",
+    "region": "나가사키현",
+    "product": "후쿠우미 야마다니시키",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 6,
+    "note": "福海 山田錦"
+  },
+  {
+    "brewery": "타이요주조",
+    "booth": "J04",
+    "region": "니가타현",
+    "product": "무소우 카라구치준마이",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 8,
+    "note": "純米, 辛口"
+  },
+  {
+    "brewery": "텐세이주조",
+    "booth": "J05",
+    "region": "카고시마현",
+    "product": "케센토 하루카",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 5,
+    "note": "天青 케센토 ハルカ 純米吟醸"
+  },
+  {
+    "brewery": "센게츠주조",
+    "booth": "J11",
+    "region": "쿠마모토현",
+    "product": "카와베 (쌀)",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 6,
+    "note": "球磨 米焼酎"
+  },
+  {
+    "brewery": "센게츠주조",
+    "booth": "J11",
+    "region": "쿠마모토현",
+    "product": "타루 센게츠 (쌀/오크저장)",
+    "class": "Other",
+    "aroma": 6,
+    "richness": 7,
+    "note": "樽 球磨 米焼酎"
+  },
+  {
+    "brewery": "오토코야마혼텐",
+    "booth": "J12",
+    "region": "미야기현",
+    "product": "소우텐덴 긴노이로하 카라구치준마이",
+    "class": "醇 Jun",
+    "aroma": 4,
+    "richness": 7,
+    "note": "純米, 辛口"
+  },
+  {
+    "brewery": "오토코야마혼텐",
+    "booth": "J12",
+    "region": "미야기현",
+    "product": "오토코야마 카라구치준마이",
+    "class": "醇 Jun",
+    "aroma": 4,
+    "richness": 7,
+    "note": "純米, 辛口"
+  },
+  {
+    "brewery": "이마다주조혼텐",
+    "booth": "J13",
+    "region": "히로시마현",
+    "product": "후쿠쵸 시후도 Seafood",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 6,
+    "note": "福鶴 Seafood 純米吟醸"
+  },
+  {
+    "brewery": "이마다주조혼텐",
+    "booth": "J13",
+    "region": "히로시마현",
+    "product": "후쿠쵸 스파클링 HAKUBI",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 5,
+    "note": "Sparkling/にごり"
+  },
+  {
+    "brewery": "고젠슈 츠지혼텐",
+    "booth": "J14",
+    "region": "오카야마현",
+    "product": "고잰슈 1859",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 8,
+    "note": "御前酒 1859 雄町 きもと"
+  },
+  {
+    "brewery": "고젠슈 츠지혼텐",
+    "booth": "J14",
+    "region": "오카야마현",
+    "product": "고젠슈 미마사카 준마이",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 10,
+    "note": "純米"
+  },
+  {
+    "brewery": "오치주조",
+    "booth": "J15",
+    "region": "오카야마현",
+    "product": "타이쇼노츠루 RISING 아사히",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "大正の鶴 RISING 朝日米"
+  },
+  {
+    "brewery": "오치주조",
+    "booth": "J15",
+    "region": "오카야마현",
+    "product": "타이쇼노츠루 나카도리",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "大正の鶴 中取り"
+  },
+  {
+    "brewery": "니시요시다주조",
+    "booth": "J16",
+    "region": "후쿠오카현",
+    "product": "킨타로 (볶은보리)",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 6,
+    "note": "麦焼酎"
+  },
+  {
+    "brewery": "니시요시다주조",
+    "booth": "J16",
+    "region": "후쿠오카현",
+    "product": "츠쿠시 시로 (보리)",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 6,
+    "note": "麦焼酎"
+  },
+  {
+    "brewery": "타카하시쇼텐",
+    "booth": "J17",
+    "region": "후쿠오카현",
+    "product": "시게마스 긴노사토 준마이다이긴죠 50",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "타카하시쇼텐",
+    "booth": "J17",
+    "region": "후쿠오카현",
+    "product": "시게마스 아카시소 준마이 우메슈",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "와카나미주조",
+    "booth": "J18",
+    "region": "후쿠오카현",
+    "product": "와카나미 준마이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "와카나미주조",
+    "booth": "J18",
+    "region": "후쿠오카현",
+    "product": "와카나미 준마이",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "키쿠비진",
+    "booth": "J19",
+    "region": "후쿠오카현",
+    "product": "우라 키쿠비진 토쿠베츠준마이 무로카나마",
+    "class": "醇 Jun",
+    "aroma": 7,
+    "richness": 9,
+    "note": "特別純米, 無濾過, 生"
+  },
+  {
+    "brewery": "키쿠비진",
+    "booth": "J19",
+    "region": "후쿠오카현",
+    "product": "키쿠비진 하나칸무리",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 6,
+    "note": "菊美人 花冠 純米吟醸"
+  },
+  {
+    "brewery": "리브롬",
+    "booth": "J20",
+    "region": "후쿠오카현",
+    "product": "리브롬 민트",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "リブロム ハーブ酒 民트"
+  },
+  {
+    "brewery": "리브롬",
+    "booth": "J20",
+    "region": "후쿠오카현",
+    "product": "리브롬 버베나",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "リブロム ハーブ酒 버베나"
+  },
+  {
+    "brewery": "키타주조",
+    "booth": "K01",
+    "region": "나라현",
+    "product": "미요키쿠 혼죠조 나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "本醸造, 生原酒, 生"
+  },
+  {
+    "brewery": "키타주조",
+    "booth": "K01",
+    "region": "나라현",
+    "product": "미요키쿠 혼죠조",
+    "class": "爽 Sou",
+    "aroma": 5,
+    "richness": 4,
+    "note": "本醸造"
+  },
+  {
+    "brewery": "유쵸주조",
+    "booth": "K02",
+    "region": "나라현",
+    "product": "카제노모리 아키츠호 657",
+    "class": "醇 Jun",
+    "aroma": 7,
+    "richness": 7,
+    "note": "風の森 秋津穂 657 無濾過生原酒 純米"
+  },
+  {
+    "brewery": "유쵸주조",
+    "booth": "K02",
+    "region": "나라현",
+    "product": "카제노모리 알파 타입 2",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "風の森 ALPHA TYPE2 高精白 純米"
+  },
+  {
+    "brewery": "미오야주조",
+    "booth": "K03",
+    "region": "이시카와현",
+    "product": "유호 준마이",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "미오야주조",
+    "booth": "K03",
+    "region": "이시카와현",
+    "product": "유호 키모토 준마이 햐쿠만고쿠노시로",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 9,
+    "note": "純米, 生酛/山廃"
+  },
+  {
+    "brewery": "니시야마주조장",
+    "booth": "K04",
+    "region": "효고현",
+    "product": "로죠 하나아리 사라",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "路上花 あり SARA 純米吟醸"
+  },
+  {
+    "brewery": "니시야마주조장",
+    "booth": "K04",
+    "region": "효고현",
+    "product": "탐바 미야마 시로부도",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "丹波 美山 白葡萄"
+  },
+  {
+    "brewery": "사와노츠루",
+    "booth": "K05",
+    "region": "효고현",
+    "product": "사와노츠루 준마이",
+    "class": "醇 Jun",
+    "aroma": 4,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "사와노츠루",
+    "booth": "K05",
+    "region": "효고현",
+    "product": "사와노츠루 준마이슈 야마다니시키",
+    "class": "醇 Jun",
+    "aroma": 4,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "사카야코리아",
+    "booth": "M01",
+    "region": "서울시 성동구 한림말 5길 25\n(지하철역 : 3호선 옥수역 7번 출구에서 100M )",
+    "product": "신슈키레이 프리미엄골드 준마이다이긴죠 39",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "사카야코리아",
+    "booth": "M01",
+    "region": "서울시 성동구 한림말 5길 25\n(지하철역 : 3호선 옥수역 7번 출구에서 100M )",
+    "product": "신슈키레이 미야마니시키 준마이다이긴죠 39",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "사카야코리아",
+    "booth": "M01",
+    "region": "서울시 성동구 한림말 5길 25\n(지하철역 : 3호선 옥수역 7번 출구에서 100M )",
+    "product": "신슈키레이 킨몬니시키 준마이다이긴죠 39",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "사카야코리아",
+    "booth": "M01",
+    "region": "서울시 성동구 한림말 5길 25\n(지하철역 : 3호선 옥수역 7번 출구에서 100M )",
+    "product": "와다치 크래프트맥주",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 5,
+    "note": "Kun"
+  },
+  {
+    "brewery": "사카야코리아",
+    "booth": "M01",
+    "region": "서울시 성동구 한림말 5길 25\n(지하철역 : 3호선 옥수역 7번 출구에서 100M )",
+    "product": "와다치 화이트크래프트 맥주",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 5,
+    "note": "Kun"
+  },
+  {
+    "brewery": "사카야코리아",
+    "booth": "M01",
+    "region": "서울시 성동구 한림말 5길 25\n(지하철역 : 3호선 옥수역 7번 출구에서 100M )",
+    "product": "하토마사무네 크리스탈 오브 스노우 준마이 나마",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 7,
+    "note": "純米, 生"
+  },
+  {
+    "brewery": "사카야코리아",
+    "booth": "M01",
+    "region": "서울시 성동구 한림말 5길 25\n(지하철역 : 3호선 옥수역 7번 출구에서 100M )",
+    "product": "하토마사무네 특별준마이 하나후부키 지카구미 나마",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 7,
+    "note": "特別純米, 生"
+  },
+  {
+    "brewery": "스이센주조",
+    "booth": "M03",
+    "region": "이와테현 리쿠젠타카다시",
+    "product": "타테가미 특별준마이 나마, 다이긴죠 스이센 블루",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米大吟醸, 生"
+  },
+  {
+    "brewery": "스이센주조",
+    "booth": "M03",
+    "region": "이와테현 리쿠젠타카다시",
+    "product": "준마이긴죠 스이센 레드",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "텐쥬주조",
+    "booth": "M04",
+    "region": "아키타현 유리혼죠시",
+    "product": "텐쥬 준마이",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 8,
+    "note": "純米"
+  },
+  {
+    "brewery": "텐쥬주조",
+    "booth": "M04",
+    "region": "아키타현 유리혼죠시",
+    "product": "초카이산 키모토준마이긴죠 초카이린도코보시코미",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 9,
+    "note": "純米吟醸, 生酛/山廃"
+  },
+  {
+    "brewery": "텐쥬주조",
+    "booth": "M04",
+    "region": "아키타현 유리혼죠시",
+    "product": "초카이산 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 7,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "텐쥬주조",
+    "booth": "M04",
+    "region": "아키타현 유리혼죠시",
+    "product": "초카이산 준마이다이긴죠 무로카나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 9,
+    "note": "純米大吟醸, 無濾過, 生原酒, 生"
+  },
+  {
+    "brewery": "사쿠라가오주조",
+    "booth": "M05",
+    "region": "이와테현 모리오카시",
+    "product": "히텐쇼 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "사쿠라가오주조",
+    "booth": "M05",
+    "region": "이와테현 모리오카시",
+    "product": "은하철도의밤 준마이긴죠",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "사쿠라가오주조",
+    "booth": "M05",
+    "region": "이와테현 모리오카시",
+    "product": "준마이 사카야",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "하마치도리주조",
+    "booth": "M06",
+    "region": "이와테현 가마이시",
+    "product": "하마치도리 준마이긴죠 깅긴가 한정나마자케",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 6,
+    "note": "純米吟醸, 生"
+  },
+  {
+    "brewery": "하마치도리주조",
+    "booth": "M06",
+    "region": "이와테현 가마이시",
+    "product": "겐스이 준마이긴죠",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "하마치도리주조",
+    "booth": "M06",
+    "region": "이와테현 가마이시",
+    "product": "겐스이 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "야히코주조",
+    "booth": "M07",
+    "region": "니이가타현 야히코무라",
+    "product": "폰슈볼",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "폰슈볼(잔)"
+  },
+  {
+    "brewery": "야히코주조",
+    "booth": "M07",
+    "region": "니이가타현 야히코무라",
+    "product": "코운 준마이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "아키타세이슈 주식회사",
+    "booth": "M08",
+    "region": "아키타현 다이센시",
+    "product": "카리호 이치호즈미 준마이긴죠 (3년 빙온저장)",
+    "class": "熟 Juku",
+    "aroma": 10,
+    "richness": 10,
+    "note": "純米吟醸, 熟成/古酒"
+  },
+  {
+    "brewery": "아키타세이슈 주식회사",
+    "booth": "M08",
+    "region": "아키타현 다이센시",
+    "product": "야마토시즈쿠 미사토니시키 준마이긴죠",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 7,
+    "note": "純米吟醸, 雫取り"
+  },
+  {
+    "brewery": "아키타세이슈 주식회사",
+    "booth": "M08",
+    "region": "아키타현 다이센시",
+    "product": "야마코시즈쿠 준마이긴죠 유키노야마토",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 7,
+    "note": "純米吟醸, 雫取り"
+  },
+  {
+    "brewery": "아키타세이슈 주식회사",
+    "booth": "M08",
+    "region": "아키타현 다이센시",
+    "product": "데와츠루 준마이다이긴죠나마 사일런나잇",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 7,
+    "note": "純米大吟醸, 生"
+  },
+  {
+    "brewery": "마츠세주조주식회사",
+    "booth": "M10",
+    "region": "시가현 류오쵸",
+    "product": "마츠노츠카사 울티머스 다이긴죠 나카도리",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 4,
+    "note": "大吟醸"
+  },
+  {
+    "brewery": "마츠세주조주식회사",
+    "booth": "M10",
+    "region": "시가현 류오쵸",
+    "product": "마츠노츠카사 준마이다이긴죠 아졸라35",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "마츠세주조주식회사",
+    "booth": "M10",
+    "region": "시가현 류오쵸",
+    "product": "마츠노츠카사 준마이다이긴죠 아졸라 50",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "마츠세주조주식회사",
+    "booth": "M10",
+    "region": "시가현 류오쵸",
+    "product": "마츠노츠카사 준마이",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "마츠세주조주식회사",
+    "booth": "M10",
+    "region": "시가현 류오쵸",
+    "product": "마츠노츠카사 준마이긴죠 시보리다테 라쿠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "에이쿤주조",
+    "booth": "P11",
+    "region": "시즈오카현 시즈오카시",
+    "product": "미도리노에이쿤 준마이긴죠 무로카나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 8,
+    "note": "純米吟醸, 無濾過, 生原酒, 生"
+  },
+  {
+    "brewery": "에이쿤주조",
+    "booth": "P11",
+    "region": "시즈오카현 시즈오카시",
+    "product": "무라사키노에이쿤 준마이긴죠 무로카나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 8,
+    "note": "純米吟醸, 無濾過, 生原酒, 生"
+  },
+  {
+    "brewery": "에이쿤주조",
+    "booth": "P11",
+    "region": "시즈오카현 시즈오카시",
+    "product": "다이다이노에이쿤 준마이긴죠 무로카나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 8,
+    "note": "純米吟醸, 無濾過, 生原酒, 生"
+  },
+  {
+    "brewery": "에이쿤주조",
+    "booth": "P11",
+    "region": "시즈오카현 시즈오카시",
+    "product": "에이쿤 준마이다이긴죠 와타리부네",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "히라코우주조",
+    "booth": "P10",
+    "region": "미야기현 이시마키시",
+    "product": "히타카미 특별준마이",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "特別純米"
+  },
+  {
+    "brewery": "히라코우주조",
+    "booth": "P10",
+    "region": "미야기현 이시마키시",
+    "product": "히타카미 호쥰카라구치 준마이긴죠 야스케",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸, 辛口"
+  },
+  {
+    "brewery": "히라코우주조",
+    "booth": "P10",
+    "region": "미야기현 이시마키시",
+    "product": "히타카미 블루 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "히라코우주조",
+    "booth": "P10",
+    "region": "미야기현 이시마키시",
+    "product": "히타카미 준마이다이긴죠 야스케 투명효탄",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "히라코우주조",
+    "booth": "P10",
+    "region": "미야기현 이시마키시",
+    "product": "히타카미 나카도리 다이긴죠 가치이로효탄",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 4,
+    "note": "大吟醸"
+  },
+  {
+    "brewery": "히라코우주조",
+    "booth": "P10",
+    "region": "미야기현 이시마키시",
+    "product": "히타카미 나카도리 준마이다이긴죠 블랙효탄",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "오누마주조점",
+    "booth": "P09",
+    "region": "미야기현 무라다마을",
+    "product": "겐콘이치 준마이 우스니고리 나마",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米, 生, Sparkling/にごり"
+  },
+  {
+    "brewery": "오누마주조점",
+    "booth": "P09",
+    "region": "미야기현 무라다마을",
+    "product": "겐콘이치 준마이 신리키",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "오누마주조점",
+    "booth": "P09",
+    "region": "미야기현 무라다마을",
+    "product": "겐콘이치 죠네츠준마이긴죠 겐슈",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "오누마주조점",
+    "booth": "P09",
+    "region": "미야기현 무라다마을",
+    "product": "겐콘이치 준마이긴죠 긴노이로하",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "오누마주조점",
+    "booth": "P09",
+    "region": "미야기현 무라다마을",
+    "product": "겐콘이치 준마이다긴죠 오마치",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "오누마주조점",
+    "booth": "P09",
+    "region": "미야기현 무라다마을",
+    "product": "카타카나 겐콘이치 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "야마츄혼케주조",
+    "booth": "P04",
+    "region": "아이치현 아이사이시",
+    "product": "기쿄에니시",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 8,
+    "note": "桔梗 縁 義侠 純米"
+  },
+  {
+    "brewery": "야마츄혼케주조",
+    "booth": "P04",
+    "region": "아이치현 아이사이시",
+    "product": "기쿄준마이긴죠겐슈50",
+    "class": "醇 Jun",
+    "aroma": 7,
+    "richness": 9,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "야마츄혼케주조",
+    "booth": "P04",
+    "region": "아이치현 아이사이시",
+    "product": "기쿄 토모가라",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 8,
+    "note": "桔梗 共柄 純米"
+  },
+  {
+    "brewery": "야마츄혼케주조",
+    "booth": "P04",
+    "region": "아이치현 아이사이시",
+    "product": "기쿄 카가리비",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 8,
+    "note": "桔梗 篝火 純米吟醸"
+  },
+  {
+    "brewery": "야마츄혼케주조",
+    "booth": "P04",
+    "region": "아이치현 아이사이시",
+    "product": "기쿄 요로코비",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 8,
+    "note": "桔梗 慶び 純米"
+  },
+  {
+    "brewery": "야마츄혼케주조",
+    "booth": "P04",
+    "region": "아이치현 아이사이시",
+    "product": "기쿄 타헤",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 8,
+    "note": "桔梗 多兵衛 純米"
+  },
+  {
+    "brewery": "야마츄혼케주조",
+    "booth": "P04",
+    "region": "아이치현 아이사이시",
+    "product": "기쿄 2001-40 (2001년 양조)",
+    "class": "熟 Juku",
+    "aroma": 8,
+    "richness": 9,
+    "note": "桔梗 2001 BY 40% 25년 숙성"
+  },
+  {
+    "brewery": "하치노헤주조",
+    "booth": "P03",
+    "region": "아오모리현 하키노헤시",
+    "product": "핫센 우라라",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 5,
+    "note": "八仙 麗(うらら) 純米吟醸"
+  },
+  {
+    "brewery": "하치노헤주조",
+    "booth": "P03",
+    "region": "아오모리현 하키노헤시",
+    "product": "무츠핫센 이사리비 특별준마이",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 7,
+    "note": "特別純米"
+  },
+  {
+    "brewery": "하치노헤주조",
+    "booth": "P03",
+    "region": "아오모리현 하키노헤시",
+    "product": "무츠핫센 레드라벨 특별준마이",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 7,
+    "note": "特別純米"
+  },
+  {
+    "brewery": "하치노헤주조",
+    "booth": "P03",
+    "region": "아오모리현 하키노헤시",
+    "product": "무츠핫센 핑크라벨 긴죠 히이레",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 4,
+    "note": "吟醸"
+  },
+  {
+    "brewery": "하치노헤주조",
+    "booth": "P03",
+    "region": "아오모리현 하키노헤시",
+    "product": "무츠핫센 하나오모이50 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "하치노헤주조",
+    "booth": "P03",
+    "region": "아오모리현 하키노헤시",
+    "product": "무츠핫센 실버라벨 긴죠 아라바시리",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 4,
+    "note": "吟醸"
+  },
+  {
+    "brewery": "하치노헤주조",
+    "booth": "P03",
+    "region": "아오모리현 하키노헤시",
+    "product": "핫센 블라쥬",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 5,
+    "note": "八仙 Blasie 純米吟醸 nama"
+  },
+  {
+    "brewery": "쵸슈주조",
+    "booth": "P02",
+    "region": "야마구치현 시모노세키시",
+    "product": "텐비 토쿠베츠준마이(쿠로텐)",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 7,
+    "note": "特別純米"
+  },
+  {
+    "brewery": "쵸슈주조",
+    "booth": "P02",
+    "region": "야마구치현 시모노세키시",
+    "product": "텐비 준마이긴죠 (시로텐)",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "쵸슈주조",
+    "booth": "P02",
+    "region": "야마구치현 시모노세키시",
+    "product": "텐비 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "히라이즈미혼포",
+    "booth": "P01",
+    "region": "아키타시 니카호시",
+    "product": "포시즌 우스니고리",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "飛良泉 四季 うすにごり"
+  },
+  {
+    "brewery": "히라이즈미혼포",
+    "booth": "P01",
+    "region": "아키타시 니카호시",
+    "product": "야마하이 준마이 마루히",
+    "class": "醇 Jun",
+    "aroma": 4,
+    "richness": 10,
+    "note": "純米, 生酛/山廃"
+  },
+  {
+    "brewery": "히라이즈미혼포",
+    "booth": "P01",
+    "region": "아키타시 니카호시",
+    "product": "히텐 히나",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "飛囀 HINA 山廃純米吟醸"
+  },
+  {
+    "brewery": "히라이즈미혼포",
+    "booth": "P01",
+    "region": "아키타시 니카호시",
+    "product": "히텐 하쿠쵸",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "飛囀 白鳥 山廃純米吟醸"
+  },
+  {
+    "brewery": "히라이즈미혼포",
+    "booth": "P01",
+    "region": "아키타시 니카호시",
+    "product": "히텐 치도리 나마",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "生"
+  },
+  {
+    "brewery": "이와테메이죠",
+    "booth": "L02",
+    "region": "이와테현 오슈시",
+    "product": "오쿠로쿠 토쿠베츠 준마이 키모토 \"Lotus\"",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 9,
+    "note": "特別純米, 生酛/山廃"
+  },
+  {
+    "brewery": "이와테메이죠",
+    "booth": "L02",
+    "region": "이와테현 오슈시",
+    "product": "오쿠로쿠 토쿠베츠 준마이 키모토 \"Unite\"",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 9,
+    "note": "特別純米, 生酛/山廃"
+  },
+  {
+    "brewery": "이와테메이죠",
+    "booth": "L02",
+    "region": "이와테현 오슈시",
+    "product": "오쿠로쿠 토쿠베츠 준마이 키모토 \"White Beach\"",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 9,
+    "note": "特別純米, 生酛/山廃"
+  },
+  {
+    "brewery": "CR트레이딩",
+    "booth": "L03",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "이비 화이트",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 5,
+    "note": "CR 유통"
+  },
+  {
+    "brewery": "CR트레이딩",
+    "booth": "L03",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "킨스즈메 플래티넘",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 5,
+    "note": "CR 유통"
+  },
+  {
+    "brewery": "CR트레이딩",
+    "booth": "L03",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "킨스즈메 히쇼 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 7,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "CR트레이딩",
+    "booth": "L03",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "킨스즈메 준마이긴죠 시보리타테",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 6,
+    "note": "純米吟醸, しぼりたて"
+  },
+  {
+    "brewery": "CR트레이딩",
+    "booth": "L03",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "센스케 준마이다이긴죠 무로카나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 9,
+    "note": "純米大吟醸, 無濾過, 生原酒, 生"
+  },
+  {
+    "brewery": "CR트레이딩",
+    "booth": "L03",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "코센 준마이 무로카나마자케겐슈 효온",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 9,
+    "note": "純米, 無濾過, 生"
+  },
+  {
+    "brewery": "CR트레이딩",
+    "booth": "L03",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "분카진 카라구치 준마이",
+    "class": "醇 Jun",
+    "aroma": 4,
+    "richness": 8,
+    "note": "純米, 辛口"
+  },
+  {
+    "brewery": "CR트레이딩",
+    "booth": "L03",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "분카진 준마이긴죠 리즈르",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 7,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "CR트레이딩",
+    "booth": "L03",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "조요 준마이65",
+    "class": "醇 Jun",
+    "aroma": 4,
+    "richness": 8,
+    "note": "純米"
+  },
+  {
+    "brewery": "CR트레이딩",
+    "booth": "L03",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "혼킨 준마이슈",
+    "class": "醇 Jun",
+    "aroma": 4,
+    "richness": 8,
+    "note": "純米"
+  },
+  {
+    "brewery": "CR트레이딩",
+    "booth": "L03",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "혼킨 슷핀 타이치",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 5,
+    "note": "CR 유통"
+  },
+  {
+    "brewery": "CR트레이딩",
+    "booth": "L03",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "이즈미히메 유즈",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "유즈 리큐어"
+  },
+  {
+    "brewery": "CR트레이딩",
+    "booth": "L03",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "이즈미히메 레몬",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 4,
+    "note": "레몬 리큐어"
+  },
+  {
+    "brewery": "CR트레이딩",
+    "booth": "L04",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "이사다이센",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "쇼츄"
+  },
+  {
+    "brewery": "CR트레이딩",
+    "booth": "L04",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "로우",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "쇼츄"
+  },
+  {
+    "brewery": "CR트레이딩",
+    "booth": "L04",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "야키이모 쿠로세",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "焼芋 黒瀬"
+  },
+  {
+    "brewery": "CR트레이딩",
+    "booth": "L04",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "베니산고",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "紅珊瑚 芋焼酎"
+  },
+  {
+    "brewery": "CR트레이딩",
+    "booth": "L04",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "미야코자쿠라",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "芋焼酎"
+  },
+  {
+    "brewery": "CR트레이딩",
+    "booth": "L04",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "엔마",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "閻魔 麦焼酎"
+  },
+  {
+    "brewery": "CR트레이딩",
+    "booth": "L04",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "렌토",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "れんと 黒糖焼酎"
+  },
+  {
+    "brewery": "CR트레이딩",
+    "booth": "L04",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "컬러풀",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 6,
+    "note": "カラフル"
+  },
+  {
+    "brewery": "CR트레이딩",
+    "booth": "L04",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "미타케",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "焼酎"
+  },
+  {
+    "brewery": "CR트레이딩",
+    "booth": "L04",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "케이코우토나루모",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "鶏口となるも 芋焼酎"
+  },
+  {
+    "brewery": "마치다슈조텐",
+    "booth": "P05",
+    "region": "군마현",
+    "product": "마치다슈조 준마이긴죠55 오마치 지카구미",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "마치다슈조텐",
+    "booth": "P05",
+    "region": "군마현",
+    "product": "마치다슈조 준마이긴죠55 야마다니시키 지카구미",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "마치다슈조텐",
+    "booth": "P05",
+    "region": "군마현",
+    "product": "마치다슈조 토쿠베츠준마이55 미야마니시키",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "特別純米"
+  },
+  {
+    "brewery": "마치다슈조텐",
+    "booth": "P05",
+    "region": "군마현",
+    "product": "마치다슈조 토쿠베츠준마이55 고햐쿠만고쿠",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "特別純米"
+  },
+  {
+    "brewery": "마치다슈조텐",
+    "booth": "P05",
+    "region": "군마현",
+    "product": "마치다슈조 준마이다이긴죠 프리미엄",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "나카시마야슈죠",
+    "booth": "P06",
+    "region": "야마구치현",
+    "product": "나카시마야 준마이긴죠 무로카나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 8,
+    "note": "純米吟醸, 無濾過, 生原酒, 生"
+  },
+  {
+    "brewery": "나카시마야슈죠",
+    "booth": "P06",
+    "region": "야마구치현",
+    "product": "나카시마야 후타모모치 무로카나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 7,
+    "note": "無濾過, 生原酒, 生"
+  },
+  {
+    "brewery": "나카시마야슈죠",
+    "booth": "P06",
+    "region": "야마구치현",
+    "product": "나카시마야 하루츠게슈",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 6,
+    "note": "中島屋 春告酒"
+  },
+  {
+    "brewery": "나카시마야슈죠",
+    "booth": "P06",
+    "region": "야마구치현",
+    "product": "나카시마야 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "야기슈조부",
+    "booth": "P07",
+    "region": "에히메현",
+    "product": "야마탄마사무네 재즈 브루",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 5,
+    "note": "山丹正宗 Jazz Brew"
+  },
+  {
+    "brewery": "야기슈조부",
+    "booth": "P07",
+    "region": "에히메현",
+    "product": "야마탄마사무네 시즈쿠히메 준마이긴죠",
+    "class": "薰 Kun",
+    "aroma": 10,
+    "richness": 6,
+    "note": "純米吟醸, 雫取り"
+  },
+  {
+    "brewery": "야기슈조부",
+    "booth": "P07",
+    "region": "에히메현",
+    "product": "야마탄마사무네 준마이 마츠야마미이",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "야기슈조부",
+    "booth": "P07",
+    "region": "에히메현",
+    "product": "야마탄마사무네 혼죠조 시마나미",
+    "class": "爽 Sou",
+    "aroma": 5,
+    "richness": 4,
+    "note": "本醸造"
+  },
+  {
+    "brewery": "요시다슈죠",
+    "booth": "P08",
+    "region": "후쿠이현",
+    "product": "에헤지 하쿠류",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "吉田蔵 u 白龍"
+  },
+  {
+    "brewery": "요시다슈죠",
+    "booth": "P08",
+    "region": "후쿠이현",
+    "product": "에헤지 하쿠류 TOAST",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "吉田蔵 TOAST"
+  },
+  {
+    "brewery": "요시다슈죠",
+    "booth": "P08",
+    "region": "후쿠이현",
+    "product": "에헤지 하쿠류 RICH",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "吉田蔵 RICH 山廃"
+  },
+  {
+    "brewery": "요시다슈죠",
+    "booth": "P08",
+    "region": "후쿠이현",
+    "product": "에헤지 하쿠류 JOY",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 5,
+    "note": "吉田蔵 JOY"
+  },
+  {
+    "brewery": "요시다슈죠",
+    "booth": "P08",
+    "region": "후쿠이현",
+    "product": "에헤지 하쿠류 EDGE",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "吉田蔵 EDGE"
+  },
+  {
+    "brewery": "류진슈조",
+    "booth": "P13",
+    "region": "군마현",
+    "product": "오제노유키도케 준마이다이긴죠 가쿠시자케",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "류진슈조",
+    "booth": "P13",
+    "region": "군마현",
+    "product": "오제노유키도케 사카나우마이 준마이",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "류진슈조",
+    "booth": "P13",
+    "region": "군마현",
+    "product": "류진 카라구치 준마이",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "純米, 辛口"
+  },
+  {
+    "brewery": "류진슈조",
+    "booth": "P13",
+    "region": "군마현",
+    "product": "류진 준마이다이긴죠 오프닝액트",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "류진슈조",
+    "booth": "P13",
+    "region": "군마현",
+    "product": "준마이다이긴죠 오제유키다루마",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "이이누마메이죠",
+    "booth": "P14",
+    "region": "토치기현",
+    "product": "스가타 준마이긴죠 겐슈 블랙임팩트",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "이이누마메이죠",
+    "booth": "P14",
+    "region": "토치기현",
+    "product": "스가타 준마이긴죠 무로카나마겐슈 오마치",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 8,
+    "note": "純米吟醸, 無濾過, 生原酒, 生"
+  },
+  {
+    "brewery": "이이누마메이죠",
+    "booth": "P14",
+    "region": "토치기현",
+    "product": "Flying Sugata",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "Flying Sugata 純米大吟醸"
+  },
+  {
+    "brewery": "이이누마메이죠",
+    "booth": "P14",
+    "region": "토치기현",
+    "product": "스가타 준마이긴죠 하레스가타",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "카네미츠슈죠",
+    "booth": "P15",
+    "region": "히로시마현",
+    "product": "카모킨슈 준마이다이긴죠 40",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "카네미츠슈죠",
+    "booth": "P15",
+    "region": "히로시마현",
+    "product": "카모킨슈 토쿠베츠준마이 13",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "特別純米"
+  },
+  {
+    "brewery": "카네미츠슈죠",
+    "booth": "P15",
+    "region": "히로시마현",
+    "product": "카모킨슈 카라구치 토쿠베츠준마이",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "特別純米, 辛口"
+  },
+  {
+    "brewery": "카네미츠슈죠",
+    "booth": "P15",
+    "region": "히로시마현",
+    "product": "카모킨슈 사쿠라후부키 토쿠베츠준마이 우스니고리 나마",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "特別純米, 生, Sparkling/にごり"
+  },
+  {
+    "brewery": "카네미츠슈죠",
+    "booth": "P15",
+    "region": "히로시마현",
+    "product": "카모킨슈 준마이 시보리타테",
+    "class": "醇 Jun",
+    "aroma": 4,
+    "richness": 6,
+    "note": "純米, しぼりたて"
+  },
+  {
+    "brewery": "산요하이슈죠",
+    "booth": "M11",
+    "region": "효고현",
+    "product": "반슈잇콘 준마이 초카라구치",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "純米, 辛口"
+  },
+  {
+    "brewery": "산요하이슈죠",
+    "booth": "M11",
+    "region": "효고현",
+    "product": "반슈잇콘 준마이긴죠 아이야마",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "산요하이슈죠",
+    "booth": "M11",
+    "region": "효고현",
+    "product": "반슈잇콘 준마이긴죠 스프링 샤인",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "산요하이슈죠",
+    "booth": "M11",
+    "region": "효고현",
+    "product": "반슈잇콘 준마이긴죠 야마다니시키",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "산요하이슈죠",
+    "booth": "M11",
+    "region": "효고현",
+    "product": "반슈잇콘 준마이긴죠 야마다호",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "아베주조",
+    "booth": "M12",
+    "region": "니이가타현",
+    "product": "아베 블랙",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 7,
+    "note": "あべ Black 純米吟醸 生原酒"
+  },
+  {
+    "brewery": "아베주조",
+    "booth": "M12",
+    "region": "니이가타현",
+    "product": "아베 실버",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "あべ Silver 純米吟醸 火入 sweet"
+  },
+  {
+    "brewery": "아베주조",
+    "booth": "M12",
+    "region": "니이가타현",
+    "product": "아베 옐로우",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 6,
+    "note": "あべ Yellow 一本〆 純米吟醸 crisp"
+  },
+  {
+    "brewery": "아베주조",
+    "booth": "M12",
+    "region": "니이가타현",
+    "product": "아베 핑크",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "あべ Pink たかね錦 peach/apple aroma"
+  },
+  {
+    "brewery": "아베주조",
+    "booth": "M12",
+    "region": "니이가타현",
+    "product": "아베 그린",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 7,
+    "note": "あべ Green 純米吟醸 生原酒 おりがらみ"
+  },
+  {
+    "brewery": "아베주조",
+    "booth": "M12",
+    "region": "니이가타현",
+    "product": "사자나미",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "さざなみ 純米生原酒"
+  },
+  {
+    "brewery": "아베주조",
+    "booth": "M12",
+    "region": "니이가타현",
+    "product": "레굴루스",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 7,
+    "note": "Regulus 한정 high-end"
+  },
+  {
+    "brewery": "아베주조",
+    "booth": "M12",
+    "region": "니이가타현",
+    "product": "포말하우트",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 7,
+    "note": "Fomalhaut 한정"
+  },
+  {
+    "brewery": "아베주조",
+    "booth": "M12",
+    "region": "니이가타현",
+    "product": "베가",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 7,
+    "note": "Vega 한정"
+  },
+  {
+    "brewery": "하기노슈조",
+    "booth": "Q01",
+    "region": "미야기현",
+    "product": "히와타 키모토 준마이다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 8,
+    "note": "純米大吟醸, 生酛/山廃"
+  },
+  {
+    "brewery": "하기노슈조",
+    "booth": "Q01",
+    "region": "미야기현",
+    "product": "하기노츠루 준마이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "하기노슈조",
+    "booth": "Q01",
+    "region": "미야기현",
+    "product": "하기노츠루 카라구치 토쿠베츠준마이",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "特別純米, 辛口"
+  },
+  {
+    "brewery": "하기노슈조",
+    "booth": "Q01",
+    "region": "미야기현",
+    "product": "히와타 키모토 준마이",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 9,
+    "note": "純米, 生酛/山廃"
+  },
+  {
+    "brewery": "하기노슈조",
+    "booth": "Q01",
+    "region": "미야기현",
+    "product": "하기노츠루 준마이긴죠 베츠시코미 나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 7,
+    "note": "純米吟醸, 生原酒, 生"
+  },
+  {
+    "brewery": "오야타카시슈조",
+    "booth": "Q02",
+    "region": "가나가와현",
+    "product": "자루소호라이 준마이긴죠 퀸 나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 7,
+    "note": "純米吟醸, 生原酒, 生"
+  },
+  {
+    "brewery": "오야타카시슈조",
+    "booth": "Q02",
+    "region": "가나가와현",
+    "product": "자루소호라이 준마이긴죠 오링고쿠다사이",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "오야타카시슈조",
+    "booth": "Q02",
+    "region": "가나가와현",
+    "product": "자루소호라이 토쿠베츠준마이 데와산산",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "特別純米"
+  },
+  {
+    "brewery": "오야타카시슈조",
+    "booth": "Q02",
+    "region": "가나가와현",
+    "product": "자루소호라이 준마이 그린라벨",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "쥬하치자카리슈조",
+    "booth": "Q03",
+    "region": "오카야마현",
+    "product": "타카지 준마이다이긴죠 아사히 무로카나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 8,
+    "note": "純米大吟醸, 無濾過, 生原酒, 生"
+  },
+  {
+    "brewery": "쥬하치자카리슈조",
+    "booth": "Q03",
+    "region": "오카야마현",
+    "product": "쥬하치자카리 아사히 준마이다이긴죠 무로카나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 8,
+    "note": "純米大吟醸, 無濾過, 生原酒, 生"
+  },
+  {
+    "brewery": "쥬하치자카리슈조",
+    "booth": "Q03",
+    "region": "오카야마현",
+    "product": "쥬하치자카리 미야코 준마이긴죠 무로카나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 8,
+    "note": "純米吟醸, 無濾過, 生原酒, 生"
+  },
+  {
+    "brewery": "쥬하치자카리슈조",
+    "booth": "Q03",
+    "region": "오카야마현",
+    "product": "쥬하치자카리 에이스 켓",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 5,
+    "note": "十八盛 Ace Get"
+  },
+  {
+    "brewery": "와타나베슈조텐",
+    "booth": "Q04",
+    "region": "기후현",
+    "product": "히다 호라이 죠센",
+    "class": "爽 Sou",
+    "aroma": 5,
+    "richness": 5,
+    "note": "飛騨 蓬莱 上撰"
+  },
+  {
+    "brewery": "와타나베슈조텐",
+    "booth": "Q04",
+    "region": "기후현",
+    "product": "호라이 준마이긴죠 카덴테즈쿠리",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 7,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "와타나베슈조텐",
+    "booth": "Q04",
+    "region": "기후현",
+    "product": "더블유 준마이 아이야마",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 8,
+    "note": "純米"
+  },
+  {
+    "brewery": "와타나베슈조텐",
+    "booth": "Q04",
+    "region": "기후현",
+    "product": "더블유 준마이 야마다니시키",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 8,
+    "note": "純米"
+  },
+  {
+    "brewery": "와타나베슈조텐",
+    "booth": "Q04",
+    "region": "기후현",
+    "product": "호라이 쿠라모토노카쿠시자케",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "蓬莱 蔵元のかくし酒 限定"
+  },
+  {
+    "brewery": "와타나베슈조텐",
+    "booth": "Q04",
+    "region": "기후현",
+    "product": "코마치 사쿠라",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "小町桜 純米吟醸"
+  },
+  {
+    "brewery": "와타나베슈조텐",
+    "booth": "Q04",
+    "region": "기후현",
+    "product": "더블유 준마이 아카이와오마치",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 8,
+    "note": "純米"
+  },
+  {
+    "brewery": "하마다슈죠",
+    "booth": "Q05",
+    "region": "가고시마현",
+    "product": "적토마(세키토바)",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "赤兎馬 芋焼酎"
+  },
+  {
+    "brewery": "하마다슈죠",
+    "booth": "Q05",
+    "region": "가고시마현",
+    "product": "적토마(세키토바) 무라사키",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "赤兎馬 紫"
+  },
+  {
+    "brewery": "하마다슈죠",
+    "booth": "Q05",
+    "region": "가고시마현",
+    "product": "적토마(세키토바) 타마아카네",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "赤兎馬 タマアカネ"
+  },
+  {
+    "brewery": "하마다슈죠",
+    "booth": "Q05",
+    "region": "가고시마현",
+    "product": "우카제",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "芋焼酎"
+  },
+  {
+    "brewery": "하마다슈죠",
+    "booth": "Q05",
+    "region": "가고시마현",
+    "product": "칠그린",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 6,
+    "note": "芋焼酎"
+  },
+  {
+    "brewery": "하마다슈죠",
+    "booth": "Q05",
+    "region": "가고시마현",
+    "product": "삿슈 타마시",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "薩州 魂"
+  },
+  {
+    "brewery": "하마다슈죠",
+    "booth": "Q05",
+    "region": "가고시마현",
+    "product": "다이야메",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 6,
+    "note": "ダイヤメ 前割り"
+  },
+  {
+    "brewery": "하마다슈죠",
+    "booth": "Q05",
+    "region": "가고시마현",
+    "product": "적토마(세키토바) 블루",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "赤兎馬 Blue"
+  },
+  {
+    "brewery": "하마다슈죠",
+    "booth": "Q05",
+    "region": "가고시마현",
+    "product": "적토마(세키토바) 말차",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "赤兎馬 抹茶"
+  },
+  {
+    "brewery": "하마다슈죠",
+    "booth": "Q05",
+    "region": "가고시마현",
+    "product": "칠그린 2",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 6,
+    "note": "芋焼酎"
+  },
+  {
+    "brewery": "하마다슈죠",
+    "booth": "Q05",
+    "region": "가고시마현",
+    "product": "카쿠시구라",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "かくし蔵 芋焼酎"
+  },
+  {
+    "brewery": "오쿠치슈조",
+    "booth": "Q06",
+    "region": "가고시마현",
+    "product": "쿠로이사니시키",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "黒伊佐錦 芋焼酎"
+  },
+  {
+    "brewery": "오쿠치슈조",
+    "booth": "Q06",
+    "region": "가고시마현",
+    "product": "이사코마치",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "伊佐小町"
+  },
+  {
+    "brewery": "오쿠치슈조",
+    "booth": "Q06",
+    "region": "가고시마현",
+    "product": "쿠로이사니시키 겐슈",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 8,
+    "note": "黒伊佐錦 原酒"
+  },
+  {
+    "brewery": "토노이케슈죠텐",
+    "booth": "Q07",
+    "region": "토치기현",
+    "product": "보 준마이다이긴죠 오마치",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "토노이케슈죠텐",
+    "booth": "Q07",
+    "region": "토치기현",
+    "product": "보 토쿠베츠준마이 미야마니시키",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "特別純米"
+  },
+  {
+    "brewery": "토노이케슈죠텐",
+    "booth": "Q07",
+    "region": "토치기현",
+    "product": "보 토쿠베츠준마이 스이세이 무로카나마겐슈",
+    "class": "醇 Jun",
+    "aroma": 7,
+    "richness": 9,
+    "note": "特別純米, 無濾過, 生原酒, 生"
+  },
+  {
+    "brewery": "토노이케슈죠텐",
+    "booth": "Q07",
+    "region": "토치기현",
+    "product": "보 준마이긴죠 히토고코치",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "키쿠노사토슈조",
+    "booth": "Q08",
+    "region": "토치기현",
+    "product": "다이나 초카라구치 준마이",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "純米, 辛口"
+  },
+  {
+    "brewery": "키쿠노사토슈조",
+    "booth": "Q08",
+    "region": "토치기현",
+    "product": "다이나 준마이긴죠 나스고햐쿠만고쿠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "키쿠노사토슈조",
+    "booth": "Q08",
+    "region": "토치기현",
+    "product": "다이나 준마이긴죠 무가아츠시보리 무로카나마",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 7,
+    "note": "純米吟醸, 無濾過, 生"
+  },
+  {
+    "brewery": "키쿠노사토슈조",
+    "booth": "Q08",
+    "region": "토치기현",
+    "product": "다이나 준마이긴죠 유메사사라 나마",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米吟醸, 生"
+  },
+  {
+    "brewery": "미야오슈조",
+    "booth": "Q09",
+    "region": "니이가타현",
+    "product": "시메하리츠루 다이긴죠 킨 라벨",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 4,
+    "note": "大吟醸"
+  },
+  {
+    "brewery": "미야오슈조",
+    "booth": "Q09",
+    "region": "니이가타현",
+    "product": "시메하리츠루 준마이긴죠 준",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "미야오슈조",
+    "booth": "Q09",
+    "region": "니이가타현",
+    "product": "시메하리츠루 혼죠조 츠키",
+    "class": "爽 Sou",
+    "aroma": 5,
+    "richness": 4,
+    "note": "本醸造"
+  },
+  {
+    "brewery": "미야오슈조",
+    "booth": "Q09",
+    "region": "니이가타현",
+    "product": "시메하리츠루 시보리타테 나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 5,
+    "note": "生原酒, 生, しぼりたて"
+  },
+  {
+    "brewery": "미야오슈조",
+    "booth": "Q09",
+    "region": "니이가타현",
+    "product": "시메하리츠루 준마이긴죠 하루시보리 나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 7,
+    "note": "純米吟醸, 生原酒, 生"
+  },
+  {
+    "brewery": "토미카와슈조텐",
+    "booth": "Q10",
+    "region": "토치기현",
+    "product": "츄아이 카라구치 준마이 무로카나마겐슈",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 9,
+    "note": "純米, 無濾過, 生原酒, 生, 辛口"
+  },
+  {
+    "brewery": "토미카와슈조텐",
+    "booth": "Q10",
+    "region": "토치기현",
+    "product": "츄아이 나카도리 준마이긴죠 유메사사라",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "토미카와슈조텐",
+    "booth": "Q10",
+    "region": "토치기현",
+    "product": "츄아이 카라구치 준마이 아라바시리",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "純米, 辛口"
+  },
+  {
+    "brewery": "토미카와슈조텐",
+    "booth": "Q10",
+    "region": "토치기현",
+    "product": "츄아이 준마이긴죠 무로카나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 8,
+    "note": "純米吟醸, 無濾過, 生原酒, 生"
+  },
+  {
+    "brewery": "후미기쿠슈죠",
+    "booth": "Q11",
+    "region": "토야마현",
+    "product": "하네야 다이긴죠",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 4,
+    "note": "大吟醸"
+  },
+  {
+    "brewery": "후미기쿠슈죠",
+    "booth": "Q11",
+    "region": "토야마현",
+    "product": "하네야 준마이다이긴죠 츠바사",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米大吟醸"
+  },
+  {
+    "brewery": "후미기쿠슈죠",
+    "booth": "Q11",
+    "region": "토야마현",
+    "product": "하네야 준마이긴죠 키라비 나마겐슈",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 7,
+    "note": "純米吟醸, 生原酒, 生"
+  },
+  {
+    "brewery": "후미기쿠슈죠",
+    "booth": "Q11",
+    "region": "토야마현",
+    "product": "하네야 준마이",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "야마노고토부키슈죠",
+    "booth": "Q12",
+    "region": "후쿠오카현",
+    "product": "야마노고토부키 토쿠베츠준마이 야마다니시키",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "特別純米"
+  },
+  {
+    "brewery": "야마노고토부키슈죠",
+    "booth": "Q12",
+    "region": "후쿠오카현",
+    "product": "야마노고토부키 준마이긴죠 오마치 13",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "야마노고토부키슈죠",
+    "booth": "Q12",
+    "region": "후쿠오카현",
+    "product": "재패니스사케 야마노고토부키 프릭스1",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "山の壽 PRIX1"
+  },
+  {
+    "brewery": "야마노고토부키슈죠",
+    "booth": "Q12",
+    "region": "후쿠오카현",
+    "product": "재패니스사케 야마노고토부키 프릭스2",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "山の壽 PRIX2"
+  },
+  {
+    "brewery": "야마노고토부키슈죠",
+    "booth": "Q12",
+    "region": "후쿠오카현",
+    "product": "재패니즈사케 야마노고토부키 하루노히미츠",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 5,
+    "note": "山の壽 春の秘密"
+  },
+  {
+    "brewery": "야마노고토부키슈죠",
+    "booth": "Q12",
+    "region": "후쿠오카현",
+    "product": "재패니즈사케 야마노고토부키 윈터 세션",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 6,
+    "note": "山の壽 Winter Session"
+  },
+  {
+    "brewery": "토코로슈조",
+    "booth": "Q13",
+    "region": "기후현",
+    "product": "보우지마야 준마이 무로카나마겐슈",
+    "class": "醇 Jun",
+    "aroma": 6,
+    "richness": 9,
+    "note": "純米, 無濾過, 生原酒, 生"
+  },
+  {
+    "brewery": "토코로슈조",
+    "booth": "Q13",
+    "region": "기후현",
+    "product": "보우지마야 준마이긴죠 고햐쿠만고쿠 나마자케",
+    "class": "薰 Kun",
+    "aroma": 9,
+    "richness": 6,
+    "note": "純米吟醸, 生"
+  },
+  {
+    "brewery": "토코로슈조",
+    "booth": "Q13",
+    "region": "기후현",
+    "product": "보우지마야 토코로 블랙 고햐쿠만고쿠",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 6,
+    "note": "房島屋 ところ Black 五百万石"
+  },
+  {
+    "brewery": "토코로슈조",
+    "booth": "Q13",
+    "region": "기후현",
+    "product": "보우지마야 준마이 시로코지",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "純米"
+  },
+  {
+    "brewery": "신타니슈조",
+    "booth": "Q14",
+    "region": "야마구치현",
+    "product": "와카무스메 츠키쿠사 토쿠베츠준마이",
+    "class": "薰 Kun",
+    "aroma": 6,
+    "richness": 7,
+    "note": "特別純米"
+  },
+  {
+    "brewery": "신타니슈조",
+    "booth": "Q14",
+    "region": "야마구치현",
+    "product": "와카무스메 하나타치바나 준마이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "신타니슈조",
+    "booth": "Q14",
+    "region": "야마구치현",
+    "product": "와카무스메 보탄 준마이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "신타니슈조",
+    "booth": "Q14",
+    "region": "야마구치현",
+    "product": "와카무스메 쥬니히소쿠 준마이긴죠",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 6,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "토요나가슈죠",
+    "booth": "R01",
+    "region": "쿠마모토현",
+    "product": "무기시루",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 6,
+    "note": "麦汁 麦焼酎"
+  },
+  {
+    "brewery": "토요나가슈죠",
+    "booth": "R01",
+    "region": "쿠마모토현",
+    "product": "코하쿠 무기시루",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "琥珀 麦汁"
+  },
+  {
+    "brewery": "토요나가슈죠",
+    "booth": "R01",
+    "region": "쿠마모토현",
+    "product": "신콜라",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 5,
+    "note": "新コーラ"
+  },
+  {
+    "brewery": "오치아이 슈조장",
+    "booth": "R02",
+    "region": "미야자키현",
+    "product": "카에다",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 6,
+    "note": "焼酎"
+  },
+  {
+    "brewery": "오치아이 슈조장",
+    "booth": "R02",
+    "region": "미야자키현",
+    "product": "카제노 후쿠로",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 6,
+    "note": "焼酎"
+  },
+  {
+    "brewery": "오치아이 슈조장",
+    "booth": "R02",
+    "region": "미야자키현",
+    "product": "카가미즈 진저",
+    "class": "Other",
+    "aroma": 4,
+    "richness": 5,
+    "note": "焼酎 진저"
+  },
+  {
+    "brewery": "쇼츄리퍼블릭",
+    "booth": "R02",
+    "region": "",
+    "product": "말차캣",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 5,
+    "note": "焼酎+말차"
+  },
+  {
+    "brewery": "쇼츄리퍼블릭",
+    "booth": "R02",
+    "region": "",
+    "product": "롱페퍼 크레인",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 5,
+    "note": "焼酎+페퍼"
+  },
+  {
+    "brewery": "쇼츄리퍼블릭",
+    "booth": "R02",
+    "region": "",
+    "product": "스위트 포테이토 로빈",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 6,
+    "note": "芋焼酎"
+  },
+  {
+    "brewery": "쇼츄리퍼블릭",
+    "booth": "R02",
+    "region": "",
+    "product": "발리 버니",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 6,
+    "note": "麦焼酎"
+  },
+  {
+    "brewery": "타카자와 슈조장",
+    "booth": "R03",
+    "region": "토야마현",
+    "product": "토요카 준마이슈",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 8,
+    "note": "純米"
+  },
+  {
+    "brewery": "타카자와 슈조장",
+    "booth": "R03",
+    "region": "토야마현",
+    "product": "토요카 준마이긴죠 히토고코치",
+    "class": "薰 Kun",
+    "aroma": 8,
+    "richness": 7,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "이치노야",
+    "booth": "R03",
+    "region": "나가노현",
+    "product": "류스이센 키모토13 미야마니시키",
+    "class": "醇 Jun",
+    "aroma": 5,
+    "richness": 7,
+    "note": "生酛/山廃"
+  },
+  {
+    "brewery": "이치노야",
+    "booth": "R03",
+    "region": "나가노현",
+    "product": "류스이센 효준스이",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 5,
+    "note": "流水船"
+  },
+  {
+    "brewery": "잇본기쿠보혼텐",
+    "booth": "R04",
+    "region": "후쿠이현",
+    "product": "덴신 유키 준마이긴죠",
+    "class": "薰 Kun",
+    "aroma": 7,
+    "richness": 8,
+    "note": "純米吟醸"
+  },
+  {
+    "brewery": "잇본기쿠보혼텐",
+    "booth": "R04",
+    "region": "후쿠이현",
+    "product": "덴신 이네 준마이",
+    "class": "醇 Jun",
+    "aroma": 4,
+    "richness": 9,
+    "note": "純米"
+  },
+  {
+    "brewery": "잇본기쿠보혼텐",
+    "booth": "R04",
+    "region": "후쿠이현",
+    "product": "덴신 츠치 혼죠조",
+    "class": "醇 Jun",
+    "aroma": 4,
+    "richness": 6,
+    "note": "本醸造"
+  },
+  {
+    "brewery": "잇본기쿠보혼텐",
+    "booth": "R04",
+    "region": "후쿠이현",
+    "product": "잇본기 나마쵸조",
+    "class": "Other",
+    "aroma": 6,
+    "richness": 7,
+    "note": "生"
+  },
+  {
+    "brewery": "잇본기쿠보혼텐",
+    "booth": "R04",
+    "region": "후쿠이현",
+    "product": "긴코바이 한야토",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 7,
+    "note": "銀紅梅 半夜兎 焼酎"
+  },
+  {
+    "brewery": "닛카프론티어",
+    "booth": "U01",
+    "region": "",
+    "product": "닛카 프론티어",
+    "class": "Other",
+    "aroma": 7,
+    "richness": 7,
+    "note": "NIKKA Frontier 위스키"
+  },
+  {
+    "brewery": "닛카프론티어",
+    "booth": "U01",
+    "region": "",
+    "product": "요이치 싱글몰트",
+    "class": "Other",
+    "aroma": 8,
+    "richness": 8,
+    "note": "Yoichi Single Malt"
+  },
+  {
+    "brewery": "닛카프론티어",
+    "booth": "U01",
+    "region": "",
+    "product": "미야기쿄 싱글몰트",
+    "class": "Other",
+    "aroma": 8,
+    "richness": 8,
+    "note": "Miyagikyo Single Malt"
+  },
+  {
+    "brewery": "닛카프론티어",
+    "booth": "U01",
+    "region": "",
+    "product": "타케츠루 퓨어몰트",
+    "class": "Other",
+    "aroma": 8,
+    "richness": 8,
+    "note": "Taketsuru Pure Malt"
+  },
+  {
+    "brewery": "에비스 맥주",
+    "booth": "U12",
+    "region": "",
+    "product": "에비스(YEBISU) 맥주",
+    "class": "Other",
+    "aroma": 5,
+    "richness": 5,
+    "note": "Other"
+  }
+]

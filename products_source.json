@@ -1,0 +1,4148 @@
+[
+  {
+    "booth": "A03",
+    "brewery": "고쿠류주조",
+    "region": "후쿠이현",
+    "product": "쿠즈류 준마이"
+  },
+  {
+    "booth": "A03",
+    "brewery": "고쿠류주조",
+    "region": "후쿠이현",
+    "product": "쿠즈류 키죠슈"
+  },
+  {
+    "booth": "A03",
+    "brewery": "고쿠류주조",
+    "region": "후쿠이현",
+    "product": "고쿠류 잇쵸라이 준긴"
+  },
+  {
+    "booth": "A03",
+    "brewery": "고쿠류주조",
+    "region": "후쿠이현",
+    "product": "고쿠류 다이긴죠 Crystal Dragon"
+  },
+  {
+    "booth": "A03",
+    "brewery": "고쿠류주조",
+    "region": "후쿠이현",
+    "product": "고쿠류 다이긴죠"
+  },
+  {
+    "booth": "A03",
+    "brewery": "고쿠류주조",
+    "region": "후쿠이현",
+    "product": "고쿠류 준마이다이긴죠"
+  },
+  {
+    "booth": "A03",
+    "brewery": "고쿠류주조",
+    "region": "후쿠이현",
+    "product": "고쿠류 AWA 죠"
+  },
+  {
+    "booth": "A04",
+    "brewery": "데와자쿠라주조",
+    "region": "야마가타현",
+    "product": "데와자쿠라 유키메가미"
+  },
+  {
+    "booth": "A04",
+    "brewery": "데와자쿠라주조",
+    "region": "야마가타현",
+    "product": "데와자쿠라 준마이긴죠"
+  },
+  {
+    "booth": "A04",
+    "brewery": "데와자쿠라주조",
+    "region": "야마가타현",
+    "product": "유키만만 빙점하 5년 숙성중"
+  },
+  {
+    "booth": "A04",
+    "brewery": "데와자쿠라주조",
+    "region": "야마가타현",
+    "product": "데와자쿠라 토로케루 라프랑스"
+  },
+  {
+    "booth": "A04",
+    "brewery": "데와자쿠라주조",
+    "region": "야마가타현",
+    "product": "데와자쿠리 잇코 혼나마"
+  },
+  {
+    "booth": "A05",
+    "brewery": "이시모토주조",
+    "region": "니가타현",
+    "product": "코시노칸바이 벳센"
+  },
+  {
+    "booth": "A05",
+    "brewery": "이시모토주조",
+    "region": "니가타현",
+    "product": "코시노칸바이 사이"
+  },
+  {
+    "booth": "A05",
+    "brewery": "이시모토주조",
+    "region": "니가타현",
+    "product": "코시노칸바이 아마네"
+  },
+  {
+    "booth": "A05",
+    "brewery": "이시모토주조",
+    "region": "니가타현",
+    "product": "코시노칸바이 세이슈"
+  },
+  {
+    "booth": "A05",
+    "brewery": "이시모토주조",
+    "region": "니가타현",
+    "product": "코시노칸바이 초토쿠센"
+  },
+  {
+    "booth": "A05",
+    "brewery": "이시모토주조",
+    "region": "니가타현",
+    "product": "코시노칸바이 라군"
+  },
+  {
+    "booth": "A06",
+    "brewery": "코시메이조주식회사",
+    "region": "니가타현",
+    "product": "야마시로야 1st Class"
+  },
+  {
+    "booth": "A06",
+    "brewery": "코시메이조주식회사",
+    "region": "니가타현",
+    "product": "야마시로야 에이케이"
+  },
+  {
+    "booth": "A06",
+    "brewery": "코시메이조주식회사",
+    "region": "니가타현",
+    "product": "야마시로야 루스이"
+  },
+  {
+    "booth": "A06",
+    "brewery": "코시메이조주식회사",
+    "region": "니가타현",
+    "product": "야마시로야 가호"
+  },
+  {
+    "booth": "A06",
+    "brewery": "코시메이조주식회사",
+    "region": "니가타현",
+    "product": "야마시로야 후우가"
+  },
+  {
+    "booth": "A07",
+    "brewery": "이네토아가베",
+    "region": "아키타현",
+    "product": "코우슈 하나카제"
+  },
+  {
+    "booth": "A08",
+    "brewery": "㈜니혼슈코리아 시음부스",
+    "region": "서울특별시 성동구 성수일로 4길 25 서울숲 코오롱 디지털타워 B101",
+    "product": "테도리카와 준마이긴죠"
+  },
+  {
+    "booth": "A08",
+    "brewery": "㈜니혼슈코리아 시음부스",
+    "region": "서울특별시 성동구 성수일로 4길 25 서울숲 코오롱 디지털타워 B101",
+    "product": "마쵸 준마이 오마치80"
+  },
+  {
+    "booth": "A08",
+    "brewery": "㈜니혼슈코리아 시음부스",
+    "region": "서울특별시 성동구 성수일로 4길 25 서울숲 코오롱 디지털타워 B101",
+    "product": "마쵸 준마이 아이야마80"
+  },
+  {
+    "booth": "A08",
+    "brewery": "㈜니혼슈코리아 시음부스",
+    "region": "서울특별시 성동구 성수일로 4길 25 서울숲 코오롱 디지털타워 B101",
+    "product": "블랙잭"
+  },
+  {
+    "booth": "A08",
+    "brewery": "㈜니혼슈코리아 시음부스",
+    "region": "서울특별시 성동구 성수일로 4길 25 서울숲 코오롱 디지털타워 B101",
+    "product": "산칸 오마치 준마이 무로카나마겐슈"
+  },
+  {
+    "booth": "A08",
+    "brewery": "㈜니혼슈코리아 시음부스",
+    "region": "서울특별시 성동구 성수일로 4길 25 서울숲 코오롱 디지털타워 B101",
+    "product": "닷사이 소노사키에"
+  },
+  {
+    "booth": "A08",
+    "brewery": "㈜니혼슈코리아 시음부스",
+    "region": "서울특별시 성동구 성수일로 4길 25 서울숲 코오롱 디지털타워 B101",
+    "product": "추구"
+  },
+  {
+    "booth": "A08",
+    "brewery": "㈜니혼슈코리아 시음부스",
+    "region": "서울특별시 성동구 성수일로 4길 25 서울숲 코오롱 디지털타워 B101",
+    "product": "고쿠류 준마이다이긴죠"
+  },
+  {
+    "booth": "A08",
+    "brewery": "㈜니혼슈코리아 시음부스",
+    "region": "서울특별시 성동구 성수일로 4길 25 서울숲 코오롱 디지털타워 B101",
+    "product": "고쿠류 AWA 죠"
+  },
+  {
+    "booth": "A09",
+    "brewery": "니혼세이슈",
+    "region": "홋카이도",
+    "product": "치토세츠루 준마이다이긴죠 스이세이"
+  },
+  {
+    "booth": "A09",
+    "brewery": "니혼세이슈",
+    "region": "홋카이도",
+    "product": "치토세츠루 준마이슈"
+  },
+  {
+    "booth": "A10",
+    "brewery": "고쵸다주조",
+    "region": "사가현",
+    "product": "아즈마이치 준마이다이긴죠"
+  },
+  {
+    "booth": "A10",
+    "brewery": "고쵸다주조",
+    "region": "사가현",
+    "product": "아즈마이치 준마이긴죠 하쿠츠루니시키"
+  },
+  {
+    "booth": "A10",
+    "brewery": "고쵸다주조",
+    "region": "사가현",
+    "product": "아즈마이치 준마이긴죠 야마다니시키"
+  },
+  {
+    "booth": "A11",
+    "brewery": "하츠카메양조",
+    "region": "시즈오카현",
+    "product": "하츠카메 준마이긴죠 카라카라벳삥"
+  },
+  {
+    "booth": "A11",
+    "brewery": "하츠카메양조",
+    "region": "시즈오카현",
+    "product": "하츠카메 준마이긴죠 토죠야마다니시키"
+  },
+  {
+    "booth": "A11",
+    "brewery": "하츠카메양조",
+    "region": "시즈오카현",
+    "product": "하츠카메 토쿠베츠준마이"
+  },
+  {
+    "booth": "A11",
+    "brewery": "이소지만주조",
+    "region": "시즈오카현",
+    "product": "이소지만 준마이다이긴죠"
+  },
+  {
+    "booth": "A11",
+    "brewery": "이소지만주조",
+    "region": "시즈오카현",
+    "product": "이소지만 준마이긴죠 야마다니시키"
+  },
+  {
+    "booth": "A11",
+    "brewery": "이소지만주조",
+    "region": "시즈오카현",
+    "product": "이소지만 토쿠베츠준마이 오마치53"
+  },
+  {
+    "booth": "A12",
+    "brewery": "아이하라주조",
+    "region": "히로시마현",
+    "product": "우고노츠키 토쿠베츠준마이 야마다니시키"
+  },
+  {
+    "booth": "A12",
+    "brewery": "아이하라주조",
+    "region": "히로시마현",
+    "product": "우고노츠키 준마이다이긴죠 핫탄니시키"
+  },
+  {
+    "booth": "A12",
+    "brewery": "텐료하이주조",
+    "region": "니가타현",
+    "product": "우타시로 릿카"
+  },
+  {
+    "booth": "A12",
+    "brewery": "텐료하이주조",
+    "region": "니가타현",
+    "product": "우타시로 즈이카"
+  },
+  {
+    "booth": "A12",
+    "brewery": "텐료하이주조",
+    "region": "니가타현",
+    "product": "우타시로 히요리"
+  },
+  {
+    "booth": "A12",
+    "brewery": "텐료하이주조",
+    "region": "니가타현",
+    "product": "우타시로 겟카"
+  },
+  {
+    "booth": "A12",
+    "brewery": "텐료하이주조",
+    "region": "니가타현",
+    "product": "우타시로 나루카미"
+  },
+  {
+    "booth": "A13",
+    "brewery": "코이즈미주조",
+    "region": "치바현",
+    "product": "토카이 자카리 준마이긴죠 나노하나"
+  },
+  {
+    "booth": "A13",
+    "brewery": "코이즈미주조",
+    "region": "치바현",
+    "product": "토카이 자카리 준마이긴죠 지샤덴 후사노마이"
+  },
+  {
+    "booth": "A13",
+    "brewery": "코이즈미주조",
+    "region": "치바현",
+    "product": "토카이 자카리 토쿠베츠준마이 야마다니시키"
+  },
+  {
+    "booth": "A13",
+    "brewery": "오모야주조",
+    "region": "나가사키현",
+    "product": "요코야마 고쥬 준마이다이긴죠 블랙"
+  },
+  {
+    "booth": "A13",
+    "brewery": "오모야주조",
+    "region": "나가사키현",
+    "product": "요코야마 준마이긴죠 SILVER 초카라 7"
+  },
+  {
+    "booth": "A13",
+    "brewery": "오모야주조",
+    "region": "나가사키현",
+    "product": "요코야마 준마이긴죠 SILVER 7"
+  },
+  {
+    "booth": "A13",
+    "brewery": "오모야주조",
+    "region": "나가사키현",
+    "product": "친구 블랙라벨"
+  },
+  {
+    "booth": "A14",
+    "brewery": "후지이양조",
+    "region": "오이타현",
+    "product": "무기쇼츄 토쿠조 타이메이"
+  },
+  {
+    "booth": "A14",
+    "brewery": "요쓰야주조",
+    "region": "오이타현",
+    "product": "무기쇼츄 카네하치"
+  },
+  {
+    "booth": "B03",
+    "brewery": "스미카와주조장",
+    "region": "야마구치현",
+    "product": "토요비진 준마이다이긴죠 이치방마토이"
+  },
+  {
+    "booth": "B03",
+    "brewery": "스미카와주조장",
+    "region": "야마구치현",
+    "product": "토요비진 준도이치즈"
+  },
+  {
+    "booth": "B03",
+    "brewery": "스미카와주조장",
+    "region": "야마구치현",
+    "product": "토요비진 준마이긴죠 오오카라구치"
+  },
+  {
+    "booth": "B03",
+    "brewery": "센킨",
+    "region": "도치기현",
+    "product": "카쿠메이 센킨 잇세이"
+  },
+  {
+    "booth": "B03",
+    "brewery": "센킨",
+    "region": "도치기현",
+    "product": "센킨 모던"
+  },
+  {
+    "booth": "B03",
+    "brewery": "이마니시주조",
+    "region": "나라현",
+    "product": "이마니시 준마이긴죠 아사히"
+  },
+  {
+    "booth": "B03",
+    "brewery": "카모니시키주조",
+    "region": "니가타현",
+    "product": "카모니시키 니후다자케 준마이다이긴죠 반슈야마다니시키"
+  },
+  {
+    "booth": "B03",
+    "brewery": "타사키주조",
+    "region": "가고시마현",
+    "product": "야키이모쇼츄 오니비"
+  },
+  {
+    "booth": "B03",
+    "brewery": "나가시마켄조",
+    "region": "가고시마현",
+    "product": "이모쇼츄 사츠마시마비진"
+  },
+  {
+    "booth": "B03",
+    "brewery": "야나기타주조",
+    "region": "미야자키현",
+    "product": "무기쇼츄 아오카게"
+  },
+  {
+    "booth": "B03",
+    "brewery": "야마모토주조",
+    "region": "가고시마현",
+    "product": "고다이 우메슈"
+  },
+  {
+    "booth": "B04",
+    "brewery": "히가주조",
+    "region": "오키나와현",
+    "product": "류큐아와모리 잔파 블랙"
+  },
+  {
+    "booth": "B04",
+    "brewery": "히가주조",
+    "region": "오키나와현",
+    "product": "류큐아와모리 잔파 화이트"
+  },
+  {
+    "booth": "B04",
+    "brewery": "히가주조",
+    "region": "오키나와현",
+    "product": "잔파 TAKASHIHO"
+  },
+  {
+    "booth": "B04",
+    "brewery": "히가주조",
+    "region": "오키나와현",
+    "product": "잔파 IMUGE."
+  },
+  {
+    "booth": "B04",
+    "brewery": "히가주조",
+    "region": "오키나와현",
+    "product": "류큐아와모리 잔파 프리미엄"
+  },
+  {
+    "booth": "B04",
+    "brewery": "히가주조",
+    "region": "오키나와현",
+    "product": "잔파 시쿠와사"
+  },
+  {
+    "booth": "B04",
+    "brewery": "히가주조",
+    "region": "오키나와현",
+    "product": "잔파 TORAKICHI"
+  },
+  {
+    "booth": "B05",
+    "brewery": "가토키치베쇼텐",
+    "region": "후쿠이현",
+    "product": "본 고쿠히조 다이긴죠"
+  },
+  {
+    "booth": "B05",
+    "brewery": "가토키치베쇼텐",
+    "region": "후쿠이현",
+    "product": "본 토쿠센 준마이다이긴죠"
+  },
+  {
+    "booth": "B05",
+    "brewery": "가토키치베쇼텐",
+    "region": "후쿠이현",
+    "product": "본 준마이 55"
+  },
+  {
+    "booth": "B05",
+    "brewery": "가토키치베쇼텐",
+    "region": "후쿠이현",
+    "product": "본 긴센 준마이다이긴죠"
+  },
+  {
+    "booth": "B05",
+    "brewery": "가토키치베쇼텐",
+    "region": "후쿠이현",
+    "product": "본 무로카 준마이다이긴죠 나마겐슈"
+  },
+  {
+    "booth": "B05",
+    "brewery": "가토키치베쇼텐",
+    "region": "후쿠이현",
+    "product": "본 골드 준마이다이긴죠"
+  },
+  {
+    "booth": "B05",
+    "brewery": "가토키치베쇼텐",
+    "region": "후쿠이현",
+    "product": "본 준스이 준마이다이긴죠"
+  },
+  {
+    "booth": "B07",
+    "brewery": "SODAWARI",
+    "region": "",
+    "product": "야마노고토부키 레몬"
+  },
+  {
+    "booth": "B07",
+    "brewery": "SODAWARI",
+    "region": "",
+    "product": "무토우"
+  },
+  {
+    "booth": "B07",
+    "brewery": "SODAWARI",
+    "region": "",
+    "product": "류노미키"
+  },
+  {
+    "booth": "B07",
+    "brewery": "SODAWARI",
+    "region": "",
+    "product": "에모티"
+  },
+  {
+    "booth": "B08",
+    "brewery": "사케노이치자",
+    "region": "후쿠오카현",
+    "product": "메로메로 모지코 바나나"
+  },
+  {
+    "booth": "B08",
+    "brewery": "사케노이치자",
+    "region": "후쿠오카현",
+    "product": "메로메로 홋카이도 멜론"
+  },
+  {
+    "booth": "B08",
+    "brewery": "사케노이치자",
+    "region": "후쿠오카현",
+    "product": "후시기노쿠니 노 카시스 시코쿠"
+  },
+  {
+    "booth": "B08",
+    "brewery": "사케노이치자",
+    "region": "후쿠오카현",
+    "product": "후시기노쿠니 노 카시스 아카조로에"
+  },
+  {
+    "booth": "B09",
+    "brewery": "미이노고토부키",
+    "region": "후쿠오카현",
+    "product": "미이노고토부키 쥰마이다이긴죠 아이야마"
+  },
+  {
+    "booth": "B09",
+    "brewery": "미이노고토부키",
+    "region": "후쿠오카현",
+    "product": "미이노고토부키 쥰마이다이긴죠 사케미라이"
+  },
+  {
+    "booth": "B09",
+    "brewery": "미이노고토부키",
+    "region": "후쿠오카현",
+    "product": "미이노고토부키 쥰마이긴죠+14 오카라구치나마"
+  },
+  {
+    "booth": "B09",
+    "brewery": "미이노고토부키",
+    "region": "후쿠오카현",
+    "product": "미이노고토부키 와인코보 쥰마이긴죠"
+  },
+  {
+    "booth": "B10",
+    "brewery": "하마카와쇼텐",
+    "region": "코우치현",
+    "product": "비죠후 쥰마이다이긴죠 히나"
+  },
+  {
+    "booth": "B10",
+    "brewery": "하마카와쇼텐",
+    "region": "코우치현",
+    "product": "비죠후 쥰마이다이긴죠 마이"
+  },
+  {
+    "booth": "B10",
+    "brewery": "하마카와쇼텐",
+    "region": "코우치현",
+    "product": "비죠후 쥰마이긴죠 셀24"
+  },
+  {
+    "booth": "B10",
+    "brewery": "하마카와쇼텐",
+    "region": "코우치현",
+    "product": "비죠후 폰 슈와"
+  },
+  {
+    "booth": "B11",
+    "brewery": "기타니시주조",
+    "region": "사이타마현",
+    "product": "사라 쥰마이긴죠"
+  },
+  {
+    "booth": "B11",
+    "brewery": "기타니시주조",
+    "region": "사이타마현",
+    "product": "사라 토쿠베츠 쥰마이 카스미 무로카나마겐슈"
+  },
+  {
+    "booth": "B11",
+    "brewery": "기타니시주조",
+    "region": "사이타마현",
+    "product": "사라 에스즈 나마즈메"
+  },
+  {
+    "booth": "B11",
+    "brewery": "기타니시주조",
+    "region": "사이타마현",
+    "product": "사라 펄즈 오브 듀"
+  },
+  {
+    "booth": "B12",
+    "brewery": "칸코바이주조",
+    "region": "미에현",
+    "product": "칸코바이 쥰마이 야마다니시키60"
+  },
+  {
+    "booth": "B12",
+    "brewery": "칸코바이주조",
+    "region": "미에현",
+    "product": "칸코바이 쥰마이긴죠 야마다니시키50"
+  },
+  {
+    "booth": "B12",
+    "brewery": "칸코바이주조",
+    "region": "미에현",
+    "product": "칸코바이 쥰마이긴죠 Plus 나마"
+  },
+  {
+    "booth": "B12",
+    "brewery": "칸코바이주조",
+    "region": "미에현",
+    "product": "칸코바이 쥰마이긴죠 토레세"
+  },
+  {
+    "booth": "D01",
+    "brewery": "겐비시주조",
+    "region": "효고현",
+    "product": "쵸토쿠센 고쿠죠 쿠로마츠 겐비시"
+  },
+  {
+    "booth": "D01",
+    "brewery": "겐비시주조",
+    "region": "효고현",
+    "product": "고쿠죠 쿠로마츠 겐비시"
+  },
+  {
+    "booth": "D01",
+    "brewery": "겐비시주조",
+    "region": "효고현",
+    "product": "미즈호 쿠로마츠 겐비시"
+  },
+  {
+    "booth": "D01",
+    "brewery": "겐비시주조",
+    "region": "효고현",
+    "product": "즈이쇼 쿠로마츠 겐비시"
+  },
+  {
+    "booth": "D02",
+    "brewery": "나카노주조",
+    "region": "오이타현",
+    "product": "치에비진 쥰마이"
+  },
+  {
+    "booth": "D02",
+    "brewery": "나카노주조",
+    "region": "오이타현",
+    "product": "치에비진 LOVE PINK"
+  },
+  {
+    "booth": "D02",
+    "brewery": "나카노주조",
+    "region": "오이타현",
+    "product": "키츠키 블랑 큐베 치에비진 生"
+  },
+  {
+    "booth": "D02",
+    "brewery": "나카노주조",
+    "region": "오이타현",
+    "product": "치에비진 Rouge Blanc"
+  },
+  {
+    "booth": "D02",
+    "brewery": "나카노주조",
+    "region": "오이타현",
+    "product": "치에비진 라팡 生"
+  },
+  {
+    "booth": "D02",
+    "brewery": "나카노주조",
+    "region": "오이타현",
+    "product": "치에비진 홍차 우메슈"
+  },
+  {
+    "booth": "D02",
+    "brewery": "나카노주조",
+    "region": "오이타현",
+    "product": "치에비진 에버그린"
+  },
+  {
+    "booth": "D03",
+    "brewery": "이와사키주조",
+    "region": "야마구치현",
+    "product": "초요후쿠무스메 쥰마이 무로카나마겐슈 지카구미 生"
+  },
+  {
+    "booth": "D03",
+    "brewery": "이와사키주조",
+    "region": "야마구치현",
+    "product": "쵸요후쿠무스메 야마다니시키 쥰마이 모모이로"
+  },
+  {
+    "booth": "D03",
+    "brewery": "이와사키주조",
+    "region": "야마구치현",
+    "product": "쵸요후쿠무스메 야마다니시키 쥰마이긴죠"
+  },
+  {
+    "booth": "D03",
+    "brewery": "이와사키주조",
+    "region": "야마구치현",
+    "product": "쵸요후쿠무스메 카라구치쥰마이슈 무로카나마겐슈 지카구미 生"
+  },
+  {
+    "booth": "D03",
+    "brewery": "이와사키주조",
+    "region": "야마구치현",
+    "product": "쵸요후쿠무스메 사이토노시즈쿠 카라구치 지카구미 히이레"
+  },
+  {
+    "booth": "D04",
+    "brewery": "즈이죠주조",
+    "region": "쿠마모토현",
+    "product": "호우쥰 쥰마이슈 즈이요"
+  },
+  {
+    "booth": "D04",
+    "brewery": "즈이죠주조",
+    "region": "쿠마모토현",
+    "product": "긴죠슈 킷쇼 즈이요"
+  },
+  {
+    "booth": "D04",
+    "brewery": "즈이죠주조",
+    "region": "쿠마모토현",
+    "product": "즈이요 나나나마 生"
+  },
+  {
+    "booth": "D04",
+    "brewery": "즈이죠주조",
+    "region": "쿠마모토현",
+    "product": "즈이요 혼카쿠 쇼추 준가 무기 28도"
+  },
+  {
+    "booth": "D04",
+    "brewery": "즈이죠주조",
+    "region": "쿠마모토현",
+    "product": "즈이요 혼카쿠 쇼추 준가 코메 28도"
+  },
+  {
+    "booth": "D05",
+    "brewery": "에미시키주조",
+    "region": "시가현",
+    "product": "에미시키 쥰마이다이긴죠 아카이이토 生"
+  },
+  {
+    "booth": "D05",
+    "brewery": "에미시키주조",
+    "region": "시가현",
+    "product": "에미시키 몬순 야마다니시키 키죠슈 生"
+  },
+  {
+    "booth": "D05",
+    "brewery": "에미시키주조",
+    "region": "시가현",
+    "product": "에미시키 토쿠베츠쥰마이 센세이션 블랙 生"
+  },
+  {
+    "booth": "D05",
+    "brewery": "에미시키주조",
+    "region": "시가현",
+    "product": "에미시키 토쿠베츠쥰마이 센세이션 화이트 生"
+  },
+  {
+    "booth": "D05",
+    "brewery": "에미시키주조",
+    "region": "시가현",
+    "product": "에미시키 토쿠베츠쥰마이 센세이션 블루 生"
+  },
+  {
+    "booth": "D05",
+    "brewery": "에미시키주조",
+    "region": "시가현",
+    "product": "에미시키 월드피스"
+  },
+  {
+    "booth": "D05",
+    "brewery": "에미시키주조",
+    "region": "시가현",
+    "product": "에미시키 퓨처리즘 쥰마이 이치고 메디테이션"
+  },
+  {
+    "booth": "D06",
+    "brewery": "혼다쇼텐",
+    "region": "효고현",
+    "product": "타츠리키 토쿠베츠 쥰마이 쥰마이88 코메코도부키"
+  },
+  {
+    "booth": "D06",
+    "brewery": "혼다쇼텐",
+    "region": "효고현",
+    "product": "타츠리키 쥰마이긴죠 드래곤 에피소드 2 生"
+  },
+  {
+    "booth": "D06",
+    "brewery": "혼다쇼텐",
+    "region": "효고현",
+    "product": "타츠리키 토쿠베츠 쥰마이 쿠라다시 신슈 生"
+  },
+  {
+    "booth": "D06",
+    "brewery": "혼다쇼텐",
+    "region": "효고현",
+    "product": "타츠리키 토쿠베츠 쥰마이 시보리타테 生"
+  },
+  {
+    "booth": "E01",
+    "brewery": "닷사이주조",
+    "region": "야마구치현",
+    "product": "닷사이 소노사키에"
+  },
+  {
+    "booth": "E01",
+    "brewery": "닷사이주조",
+    "region": "야마구치현",
+    "product": "닷사이 준마이다이긴죠 23 하야타"
+  },
+  {
+    "booth": "E01",
+    "brewery": "닷사이주조",
+    "region": "야마구치현",
+    "product": "닷사이 준마이다이긴죠 23"
+  },
+  {
+    "booth": "E01",
+    "brewery": "닷사이주조",
+    "region": "야마구치현",
+    "product": "닷사이 준마이다이긴죠 39"
+  },
+  {
+    "booth": "E01",
+    "brewery": "닷사이주조",
+    "region": "야마구치현",
+    "product": "닷사이 준마이다이긴죠 45"
+  },
+  {
+    "booth": "E01",
+    "brewery": "닷사이주조",
+    "region": "야마구치현",
+    "product": "닷사이 스파클링"
+  },
+  {
+    "booth": "E01",
+    "brewery": "닷사이주조",
+    "region": "야마구치현",
+    "product": "닷사이 쇼츄"
+  },
+  {
+    "booth": "E02",
+    "brewery": "샤타주조",
+    "region": "이시카와현",
+    "product": "텡구마이 야마하이준마이"
+  },
+  {
+    "booth": "E02",
+    "brewery": "샤타주조",
+    "region": "이시카와현",
+    "product": "텡구마이 준마이다이긴죠"
+  },
+  {
+    "booth": "E02",
+    "brewery": "샤타주조",
+    "region": "이시카와현",
+    "product": "고린 준마이"
+  },
+  {
+    "booth": "E02",
+    "brewery": "샤타주조",
+    "region": "이시카와현",
+    "product": "텡구마이 초가라구치 준마이"
+  },
+  {
+    "booth": "E03",
+    "brewery": "가모츠루주조",
+    "region": "히로시마현",
+    "product": "가모츠루 준마이 나마쵸조"
+  },
+  {
+    "booth": "E03",
+    "brewery": "가모츠루주조",
+    "region": "히로시마현",
+    "product": "가모츠루 잇테키뉴콘"
+  },
+  {
+    "booth": "E03",
+    "brewery": "가모츠루주조",
+    "region": "히로시마현",
+    "product": "가모츠루 골드 다이긴죠"
+  },
+  {
+    "booth": "E03",
+    "brewery": "가모츠루주조",
+    "region": "히로시마현",
+    "product": "가모츠루 소우가쿠"
+  },
+  {
+    "booth": "E03",
+    "brewery": "가모츠루주조",
+    "region": "히로시마현",
+    "product": "가모츠루 슈츄자이신 아카네 준마이 히로시마니시키"
+  },
+  {
+    "booth": "E04",
+    "brewery": "코마사주조",
+    "region": "가고시마현",
+    "product": "쿠라노시콘"
+  },
+  {
+    "booth": "E04",
+    "brewery": "코마사주조",
+    "region": "가고시마현",
+    "product": "코즈루 PINK GOLD"
+  },
+  {
+    "booth": "E04",
+    "brewery": "코마사주조",
+    "region": "가고시마현",
+    "product": "아카자루"
+  },
+  {
+    "booth": "E04",
+    "brewery": "코마사주조",
+    "region": "가고시마현",
+    "product": "사와전용 유즈레몬"
+  },
+  {
+    "booth": "E05",
+    "brewery": "킹양조",
+    "region": "효고현",
+    "product": "하나야구 준마이"
+  },
+  {
+    "booth": "E05",
+    "brewery": "킹양조",
+    "region": "효고현",
+    "product": "하나야구 준마이"
+  },
+  {
+    "booth": "E05",
+    "brewery": "킹양조",
+    "region": "효고현",
+    "product": "라무네 사와노모토진저 사와노모토"
+  },
+  {
+    "booth": "E05",
+    "brewery": "킹양조",
+    "region": "효고현",
+    "product": "시소 사와노모토"
+  },
+  {
+    "booth": "E05",
+    "brewery": "킹양조",
+    "region": "효고현",
+    "product": "콜라 사와노모토"
+  },
+  {
+    "booth": "E06",
+    "brewery": "아사히주조",
+    "region": "니가타현",
+    "product": "추구"
+  },
+  {
+    "booth": "E06",
+    "brewery": "아사히주조",
+    "region": "니가타현",
+    "product": "쿠보타 만주 자사효모 에디션"
+  },
+  {
+    "booth": "E06",
+    "brewery": "아사히주조",
+    "region": "니가타현",
+    "product": "쿠보타 준마이다이긴죠"
+  },
+  {
+    "booth": "E06",
+    "brewery": "아사히주조",
+    "region": "니가타현",
+    "product": "쿠보타 다이긴죠 겐슈"
+  },
+  {
+    "booth": "E06",
+    "brewery": "아사히주조",
+    "region": "니가타현",
+    "product": "쿠보타 스파클링"
+  },
+  {
+    "booth": "E06",
+    "brewery": "아사히주조",
+    "region": "니가타현",
+    "product": "쿠보타 센주 나마겐슈"
+  },
+  {
+    "booth": "E06",
+    "brewery": "아사히주조",
+    "region": "니가타현",
+    "product": "쿠보타 유즈"
+  },
+  {
+    "booth": "E07",
+    "brewery": "남부비진",
+    "region": "이와테현",
+    "product": "남부비진 심백 야마다니시키 준마이다이긴죠"
+  },
+  {
+    "booth": "E07",
+    "brewery": "남부비진",
+    "region": "이와테현",
+    "product": "남부비진 토쿠베츠준마이"
+  },
+  {
+    "booth": "E07",
+    "brewery": "남부비진",
+    "region": "이와테현",
+    "product": "남부비진 긴죠"
+  },
+  {
+    "booth": "E07",
+    "brewery": "남부비진",
+    "region": "이와테현",
+    "product": "남부비진 준마이다이긴죠 유이노카"
+  },
+  {
+    "booth": "E08",
+    "brewery": "오토코야마주조",
+    "region": "홋카이도",
+    "product": "오토코야마 준마이다이긴죠"
+  },
+  {
+    "booth": "E08",
+    "brewery": "오토코야마주조",
+    "region": "홋카이도",
+    "product": "오토코야마 기타노이나호 다이긴죠"
+  },
+  {
+    "booth": "E08",
+    "brewery": "오토코야마주조",
+    "region": "홋카이도",
+    "product": "오토코야마 스시부스터"
+  },
+  {
+    "booth": "E08",
+    "brewery": "오토코야마주조",
+    "region": "홋카이도",
+    "product": "오토코야마 하루노이자나이"
+  },
+  {
+    "booth": "E08",
+    "brewery": "오토코야마주조",
+    "region": "홋카이도",
+    "product": "오토코야마 아키노이로도리"
+  },
+  {
+    "booth": "E09",
+    "brewery": "메이리슈루이",
+    "region": "이바라키현",
+    "product": "타이야키"
+  },
+  {
+    "booth": "E09",
+    "brewery": "메이리슈루이",
+    "region": "이바라키현",
+    "product": "소노마마 멜론"
+  },
+  {
+    "booth": "E09",
+    "brewery": "메이리슈루이",
+    "region": "이바라키현",
+    "product": "소노마마 망고"
+  },
+  {
+    "booth": "E09",
+    "brewery": "메이리슈루이",
+    "region": "이바라키현",
+    "product": "소노마마 살구"
+  },
+  {
+    "booth": "E10",
+    "brewery": "다카라주조",
+    "region": "효고현",
+    "product": "스바루 나마죠조"
+  },
+  {
+    "booth": "E10",
+    "brewery": "다카라주조",
+    "region": "효고현",
+    "product": "미오"
+  },
+  {
+    "booth": "E10",
+    "brewery": "다카라주조",
+    "region": "효고현",
+    "product": "미오 클리어"
+  },
+  {
+    "booth": "E10",
+    "brewery": "다카라주조",
+    "region": "효고현",
+    "product": "다카라 시즈오카 미캉"
+  },
+  {
+    "booth": "E10",
+    "brewery": "다카라주조",
+    "region": "효고현",
+    "product": "다카라 시마네 샤인머스켓"
+  },
+  {
+    "booth": "E10",
+    "brewery": "다카라주조",
+    "region": "효고현",
+    "product": "다카라 야마나시 화이트피치"
+  },
+  {
+    "booth": "E10",
+    "brewery": "다카라주조",
+    "region": "효고현",
+    "product": "다카라 후라노 멜론"
+  },
+  {
+    "booth": "E11",
+    "brewery": "센다이이사와케 카츠야마주조",
+    "region": "센다이시",
+    "product": "카츠야마 다이아몬드 아카츠키"
+  },
+  {
+    "booth": "E11",
+    "brewery": "센다이이사와케 카츠야마주조",
+    "region": "센다이시",
+    "product": "카츠야마 아카츠키"
+  },
+  {
+    "booth": "E11",
+    "brewery": "센다이이사와케 카츠야마주조",
+    "region": "센다이시",
+    "product": "카츠야마 레이"
+  },
+  {
+    "booth": "E11",
+    "brewery": "센다이이사와케 카츠야마주조",
+    "region": "센다이시",
+    "product": "카츠야마 센쇼마사무네"
+  },
+  {
+    "booth": "E11",
+    "brewery": "센다이이사와케 카츠야마주조",
+    "region": "센다이시",
+    "product": "카츠야마 켄"
+  },
+  {
+    "booth": "E11",
+    "brewery": "센다이이사와케 카츠야마주조",
+    "region": "센다이시",
+    "product": "카츠야마 엔"
+  },
+  {
+    "booth": "E12",
+    "brewery": "니시노킨료",
+    "region": "카가와현",
+    "product": "킨료 키라메키 준마이다이긴죠"
+  },
+  {
+    "booth": "E12",
+    "brewery": "니시노킨료",
+    "region": "카가와현",
+    "product": "킨료 준마이다이긴죠 야마다니시키"
+  },
+  {
+    "booth": "E12",
+    "brewery": "니시노킨료",
+    "region": "카가와현",
+    "product": "킨료 코이아이 준마이긴죠"
+  },
+  {
+    "booth": "E13",
+    "brewery": "키타야",
+    "region": "후쿠오카현",
+    "product": "키타야 고쿠조 다이긴죠"
+  },
+  {
+    "booth": "E13",
+    "brewery": "키타야",
+    "region": "후쿠오카현",
+    "product": "키타야 준마이다이긴죠 긴노사토"
+  },
+  {
+    "booth": "E13",
+    "brewery": "키타야",
+    "region": "후쿠오카현",
+    "product": "키타야 준마이긴죠 긴노사토"
+  },
+  {
+    "booth": "E13",
+    "brewery": "키타야",
+    "region": "후쿠오카현",
+    "product": "키타야 토쿠베츠준마이 유메잇콘"
+  },
+  {
+    "booth": "E13",
+    "brewery": "키타야",
+    "region": "후쿠오카현",
+    "product": "무기쇼츄 고쿠"
+  },
+  {
+    "booth": "E13",
+    "brewery": "키타야",
+    "region": "후쿠오카현",
+    "product": "이모쇼츄 진쿠"
+  },
+  {
+    "booth": "E14",
+    "brewery": "니시주조",
+    "region": "가고시마현",
+    "product": "텐부 준마이"
+  },
+  {
+    "booth": "E14",
+    "brewery": "니시주조",
+    "region": "가고시마현",
+    "product": "텐부 준마이긴죠"
+  },
+  {
+    "booth": "E14",
+    "brewery": "니시주조",
+    "region": "가고시마현",
+    "product": "텐부 준마이다이긴죠"
+  },
+  {
+    "booth": "E14",
+    "brewery": "니시주조",
+    "region": "가고시마현",
+    "product": "이모쇼츄 토미노 호우잔"
+  },
+  {
+    "booth": "E14",
+    "brewery": "니시주조",
+    "region": "가고시마현",
+    "product": "이모쇼츄 킷초 호우잔"
+  },
+  {
+    "booth": "E14",
+    "brewery": "니시주조",
+    "region": "가고시마현",
+    "product": "이모쇼츄 하쿠텐 호우잔"
+  },
+  {
+    "booth": "E14",
+    "brewery": "니시주조",
+    "region": "가고시마현",
+    "product": "이모쇼츄 호우잔 시로유타카"
+  },
+  {
+    "booth": "E14",
+    "brewery": "니시주조",
+    "region": "가고시마현",
+    "product": "무기쇼츄 히토츠부노무기"
+  },
+  {
+    "booth": "E14",
+    "brewery": "니시주조",
+    "region": "가고시마현",
+    "product": "이모쇼츄 텐시노유와쿠"
+  },
+  {
+    "booth": "E15",
+    "brewery": "히가시주조",
+    "region": "가고시마현",
+    "product": "이모쇼츄 나나쿠보"
+  },
+  {
+    "booth": "E15",
+    "brewery": "히가시주조",
+    "region": "가고시마현",
+    "product": "이모쇼츄 나나쿠보 이모이모사이사이"
+  },
+  {
+    "booth": "E15",
+    "brewery": "히가시주조",
+    "region": "가고시마현",
+    "product": "이모쇼츄 나나쿠보 고양이라벨"
+  },
+  {
+    "booth": "E15",
+    "brewery": "히가시주조",
+    "region": "가고시마현",
+    "product": "이모쇼츄 카츠 블루"
+  },
+  {
+    "booth": "E15",
+    "brewery": "히가시주조",
+    "region": "가고시마현",
+    "product": "이모쇼츄 카츠 레드"
+  },
+  {
+    "booth": "E16",
+    "brewery": "핫카이양조",
+    "region": "니가타현",
+    "product": "핫카이산 스파클링 아와 시로코우지"
+  },
+  {
+    "booth": "E16",
+    "brewery": "핫카이양조",
+    "region": "니가타현",
+    "product": "코메쇼츄 핫카이산 요로시쿠 센만 아루베시"
+  },
+  {
+    "booth": "E16",
+    "brewery": "핫카이양조",
+    "region": "니가타현",
+    "product": "핫카이산 세이슈"
+  },
+  {
+    "booth": "E16",
+    "brewery": "핫카이양조",
+    "region": "니가타현",
+    "product": "핫카이산 토쿠베츠준마이"
+  },
+  {
+    "booth": "E16",
+    "brewery": "핫카이양조",
+    "region": "니가타현",
+    "product": "핫카이산 코와구라 다이긴죠"
+  },
+  {
+    "booth": "E16",
+    "brewery": "핫카이양조",
+    "region": "니가타현",
+    "product": "핫카이산 다이긴죠 호리병"
+  },
+  {
+    "booth": "E16",
+    "brewery": "핫카이양조",
+    "region": "니가타현",
+    "product": "핫카이산 토쿠베츠혼죠조"
+  },
+  {
+    "booth": "E16",
+    "brewery": "핫카이양조",
+    "region": "니가타현",
+    "product": "핫카이산 에치코데소로 생주 블루라벨"
+  },
+  {
+    "booth": "E16",
+    "brewery": "핫카이양조",
+    "region": "니가타현",
+    "product": "핫카이산 준마이다이긴죠 유키무로 저장 3년"
+  },
+  {
+    "booth": "E16",
+    "brewery": "핫카이양조",
+    "region": "니가타현",
+    "product": "핫카이산 준마이다이긴죠"
+  },
+  {
+    "booth": "E17",
+    "brewery": "세키야주조",
+    "region": "아이치현",
+    "product": "호라이센 쿠우 준마이다이긴죠"
+  },
+  {
+    "booth": "E17",
+    "brewery": "세키야주조",
+    "region": "아이치현",
+    "product": "호라이센 비 준마이다이긴죠"
+  },
+  {
+    "booth": "E17",
+    "brewery": "세키야주조",
+    "region": "아이치현",
+    "product": "이치넨후도 유메산스이 토쿠베츠준마이"
+  },
+  {
+    "booth": "E17",
+    "brewery": "세키야주조",
+    "region": "아이치현",
+    "product": "호라이센 준마이 카스미즈키"
+  },
+  {
+    "booth": "E18",
+    "brewery": "이나타혼텐",
+    "region": "돗토리현",
+    "product": "이나타히메 준마이긴죠 고리키"
+  },
+  {
+    "booth": "E18",
+    "brewery": "이나타혼텐",
+    "region": "돗토리현",
+    "product": "이나타히메 혼죠조 나마겐슈"
+  },
+  {
+    "booth": "E18",
+    "brewery": "이나타혼텐",
+    "region": "돗토리현",
+    "product": "이나타히메 준마이긴죠 고리키 나마겐슈"
+  },
+  {
+    "booth": "E18",
+    "brewery": "이나타혼텐",
+    "region": "돗토리현",
+    "product": "이나타히메 준마이슈 나마겐슈"
+  },
+  {
+    "booth": "E19",
+    "brewery": "사이야주조",
+    "region": "아키타현",
+    "product": "유키노보우샤 준마이다이긴죠 제조번호주"
+  },
+  {
+    "booth": "E19",
+    "brewery": "사이야주조",
+    "region": "아키타현",
+    "product": "유키노보우샤 준마이긴죠 비슈노셋케이"
+  },
+  {
+    "booth": "E19",
+    "brewery": "사이야주조",
+    "region": "아키타현",
+    "product": "유키노보우샤 히덴야마하이 준마이긴죠"
+  },
+  {
+    "booth": "E19",
+    "brewery": "사이야주조",
+    "region": "아키타현",
+    "product": "유키노보우샤 준마이긴죠"
+  },
+  {
+    "booth": "E19",
+    "brewery": "사이야주조",
+    "region": "아키타현",
+    "product": "유키노보우샤 야마하이 준마이슈"
+  },
+  {
+    "booth": "E19",
+    "brewery": "사이야주조",
+    "region": "아키타현",
+    "product": "유키노보우샤 야마하이 혼죠조"
+  },
+  {
+    "booth": "E20",
+    "brewery": "후쿠치요주조",
+    "region": "사가현",
+    "product": "나베시마 다이긴죠"
+  },
+  {
+    "booth": "E20",
+    "brewery": "후쿠치요주조",
+    "region": "사가현",
+    "product": "나베시마 준마이다이긴죠 아이야마"
+  },
+  {
+    "booth": "E20",
+    "brewery": "후쿠치요주조",
+    "region": "사가현",
+    "product": "나베시마 준마이긴죠 야마다니시키"
+  },
+  {
+    "booth": "E20",
+    "brewery": "후쿠치요주조",
+    "region": "사가현",
+    "product": "나베시마 준마이긴죠 키타시즈쿠"
+  },
+  {
+    "booth": "E20",
+    "brewery": "후쿠치요주조",
+    "region": "사가현",
+    "product": "나베시마 토쿠베츠준마이"
+  },
+  {
+    "booth": "F01",
+    "brewery": "토코야마",
+    "region": "후쿠이현",
+    "product": "죠잔 쥰마이다이긴죠 아라이소 生"
+  },
+  {
+    "booth": "F01",
+    "brewery": "토코야마",
+    "region": "후쿠이현",
+    "product": "죠잔 쥰마이긴죠 겐타츠 生"
+  },
+  {
+    "booth": "F01",
+    "brewery": "토코야마",
+    "region": "후쿠이현",
+    "product": "죠잔 쥰마이다이긴죠 호우준 카라구치 키와미"
+  },
+  {
+    "booth": "F01",
+    "brewery": "토코야마",
+    "region": "후쿠이현",
+    "product": "죠잔 SPRARKLING 니고리 사케"
+  },
+  {
+    "booth": "F01",
+    "brewery": "토코야마",
+    "region": "후쿠이현",
+    "product": "죠잔 후나바하츠즈메 즈이이치"
+  },
+  {
+    "booth": "F02",
+    "brewery": "우메노야도 주조",
+    "region": "나라현",
+    "product": "우메노야도 아라고시 유즈슈"
+  },
+  {
+    "booth": "F02",
+    "brewery": "우메노야도 주조",
+    "region": "나라현",
+    "product": "우메노야도 아라고시 모모"
+  },
+  {
+    "booth": "F02",
+    "brewery": "우메노야도 주조",
+    "region": "나라현",
+    "product": "우메노야도 토마토"
+  },
+  {
+    "booth": "F02",
+    "brewery": "우메노야도 주조",
+    "region": "나라현",
+    "product": "우메노야도 시트러스위트 Citrusweet"
+  },
+  {
+    "booth": "F03",
+    "brewery": "카네다타마다주조",
+    "region": "아오모리현",
+    "product": "쥰마이긴죠 하나잇푸"
+  },
+  {
+    "booth": "F03",
+    "brewery": "카네다타마다주조",
+    "region": "아오모리현",
+    "product": "340"
+  },
+  {
+    "booth": "F04",
+    "brewery": "나가노 메이죠",
+    "region": "나가노현",
+    "product": "쥰마이다이긴죠 타나다 라그라스"
+  },
+  {
+    "booth": "F04",
+    "brewery": "나가노 메이죠",
+    "region": "나가노현",
+    "product": "쥰마이긴죠 모모이로 잉꼬"
+  },
+  {
+    "booth": "F04",
+    "brewery": "나가노 메이죠",
+    "region": "나가노현",
+    "product": "쥰마이긴죠 키세키레이 무로카나마겐슈"
+  },
+  {
+    "booth": "F04",
+    "brewery": "나가노 메이죠",
+    "region": "나가노현",
+    "product": "쥰마이긴죠 키세키키레이"
+  },
+  {
+    "booth": "F04",
+    "brewery": "나가노 메이죠",
+    "region": "나가노현",
+    "product": "쥰마이긴죠 타나다 시보리타테"
+  },
+  {
+    "booth": "F05",
+    "brewery": "이이누마혼케",
+    "region": "치바현",
+    "product": "키노에네 쥰마이 우마카라 미가키하치와리"
+  },
+  {
+    "booth": "F05",
+    "brewery": "이이누마혼케",
+    "region": "치바현",
+    "product": "키노에네 하나야카 타카미노카오리 쥰마이긴죠"
+  },
+  {
+    "booth": "F05",
+    "brewery": "이이누마혼케",
+    "region": "치바현",
+    "product": "시스이노요아케 쥰마이다이긴죠 生"
+  },
+  {
+    "booth": "F05",
+    "brewery": "이이누마혼케",
+    "region": "치바현",
+    "product": "키노에네 아키아가리"
+  },
+  {
+    "booth": "F06",
+    "brewery": "니카이도주조",
+    "region": "오이타현",
+    "product": "니카이도"
+  },
+  {
+    "booth": "F06",
+    "brewery": "니카이도주조",
+    "region": "오이타현",
+    "product": "니카이도 킷쵸무 25도 병"
+  },
+  {
+    "booth": "F07",
+    "brewery": "요시다주조",
+    "region": "시마네현",
+    "product": "갓산 쥰마이긴죠 나카도리지카구미 生"
+  },
+  {
+    "booth": "F07",
+    "brewery": "요시다주조",
+    "region": "시마네현",
+    "product": "갓산 호우준카라구치쥰마이 시보리타테 무로카나마겐슈 生"
+  },
+  {
+    "booth": "F07",
+    "brewery": "요시다주조",
+    "region": "시마네현",
+    "product": "갓산 토쿠베츠 쥰마이"
+  },
+  {
+    "booth": "F07",
+    "brewery": "요시다주조",
+    "region": "시마네현",
+    "product": "갓산 토쿠베츠 쥰마이 이즈모"
+  },
+  {
+    "booth": "F08",
+    "brewery": "배니오토메",
+    "region": "후쿠오카현",
+    "product": "캇파 큐센보우(와인효모)"
+  },
+  {
+    "booth": "F08",
+    "brewery": "배니오토메",
+    "region": "후쿠오카현",
+    "product": "캇파 큐센보우혼류"
+  },
+  {
+    "booth": "F08",
+    "brewery": "배니오토메",
+    "region": "후쿠오카현",
+    "product": "베니오토메 STANDARD25 에구치히사시VERVION"
+  },
+  {
+    "booth": "F08",
+    "brewery": "배니오토메",
+    "region": "후쿠오카현",
+    "product": "크롭엔크롭 쿠로 고마 리큐르"
+  },
+  {
+    "booth": "F09",
+    "brewery": "타츠우마",
+    "region": "효고현",
+    "product": "토쿠베츠 혼죠조 키쥬로"
+  },
+  {
+    "booth": "F09",
+    "brewery": "타츠우마",
+    "region": "효고현",
+    "product": "쿠로마츠 하쿠시카 쥰마이 다이긴죠"
+  },
+  {
+    "booth": "F09",
+    "brewery": "타츠우마",
+    "region": "효고현",
+    "product": "하쿠시카 호화 쥰마이다이긴죠 센넨주"
+  },
+  {
+    "booth": "F09",
+    "brewery": "타츠우마",
+    "region": "효고현",
+    "product": "하쿠시카 야마다니시키 카라구치 쥰마이 실크"
+  },
+  {
+    "booth": "F09",
+    "brewery": "타츠우마",
+    "region": "효고현",
+    "product": "하쿠시카 시보리타테"
+  },
+  {
+    "booth": "F10",
+    "brewery": "하나노마이주조",
+    "region": "시즈오카현",
+    "product": "하나노마이 쥰마이긴죠슈"
+  },
+  {
+    "booth": "F10",
+    "brewery": "하나노마이주조",
+    "region": "시즈오카현",
+    "product": "하나노마이쥰마이긴죠 카타나"
+  },
+  {
+    "booth": "F10",
+    "brewery": "하나노마이주조",
+    "region": "시즈오카현",
+    "product": "하나노마이 스파클링"
+  },
+  {
+    "booth": "F10",
+    "brewery": "하나노마이주조",
+    "region": "시즈오카현",
+    "product": "쥰마이긴죠 AKANE(아카네)"
+  },
+  {
+    "booth": "F11",
+    "brewery": "닷사이블루",
+    "region": "뉴욕",
+    "product": "닷사이 블루 타입 23"
+  },
+  {
+    "booth": "F11",
+    "brewery": "닷사이블루",
+    "region": "뉴욕",
+    "product": "닷사이 블루 타입 35"
+  },
+  {
+    "booth": "F11",
+    "brewery": "닷사이블루",
+    "region": "뉴욕",
+    "product": "닷사이 블루 타입 50"
+  },
+  {
+    "booth": "F11",
+    "brewery": "닷사이블루",
+    "region": "뉴욕",
+    "product": "닷사이 블루 타입 50 드라이(Dry)"
+  },
+  {
+    "booth": "F12",
+    "brewery": "치요무스비주조",
+    "region": "돗토리현",
+    "product": "치요무스비 쥰마이다이긴죠 야마다니시키50"
+  },
+  {
+    "booth": "F12",
+    "brewery": "치요무스비주조",
+    "region": "돗토리현",
+    "product": "치요무스비 히토키와 토쿠베츠쥰마이 나카도리 무로카겐슈나마"
+  },
+  {
+    "booth": "F12",
+    "brewery": "치요무스비주조",
+    "region": "돗토리현",
+    "product": "치요무스비 야키이모쇼츄 하마노이모타"
+  },
+  {
+    "booth": "F12",
+    "brewery": "치요무스비주조",
+    "region": "돗토리현",
+    "product": "치요무스비 애플리큐르"
+  },
+  {
+    "booth": "F12",
+    "brewery": "치요무스비주조",
+    "region": "돗토리현",
+    "product": "치요무스비 재패니즈 싱글 몰트 위스키 린타로(헤비챠캐스크)"
+  },
+  {
+    "booth": "F13",
+    "brewery": "나테주조점",
+    "region": "와카야마현",
+    "product": "쿠로우시 카라구치 쥰마이슈 레드"
+  },
+  {
+    "booth": "F13",
+    "brewery": "나테주조점",
+    "region": "와카야마현",
+    "product": "쿠로우시 쥰마이다이긴죠 오마치 나마겐슈"
+  },
+  {
+    "booth": "F13",
+    "brewery": "나테주조점",
+    "region": "와카야마현",
+    "product": "쥰마이슈 쿠로우시 나카도리무로카나마겐슈"
+  },
+  {
+    "booth": "F13",
+    "brewery": "나테주조점",
+    "region": "와카야마현",
+    "product": "쥰마이슈 쿠로우시 시보리타테"
+  },
+  {
+    "booth": "F14",
+    "brewery": "남부주조장",
+    "region": "후쿠이현",
+    "product": "하나가키 쥰마이슈"
+  },
+  {
+    "booth": "F14",
+    "brewery": "남부주조장",
+    "region": "후쿠이현",
+    "product": "하나가키 오우카 세이카이 쥰마이다이긴죠"
+  },
+  {
+    "booth": "F14",
+    "brewery": "남부주조장",
+    "region": "후쿠이현",
+    "product": "하나가키 BLEND in 쥰마이코슈"
+  },
+  {
+    "booth": "F14",
+    "brewery": "남부주조장",
+    "region": "후쿠이현",
+    "product": "하나가키 코시노시즈쿠 쥰마이무로카나마겐슈"
+  },
+  {
+    "booth": "F15",
+    "brewery": "텐잔주조",
+    "region": "사가현",
+    "product": "시치다 510"
+  },
+  {
+    "booth": "F15",
+    "brewery": "텐잔주조",
+    "region": "사가현",
+    "product": "시치다 쥰마이긴죠 오마치 무로카나마(생주)"
+  },
+  {
+    "booth": "F15",
+    "brewery": "텐잔주조",
+    "region": "사가현",
+    "product": "시치다 쥰마이긴죠 야마다니시키13"
+  },
+  {
+    "booth": "F15",
+    "brewery": "텐잔주조",
+    "region": "사가현",
+    "product": "시치다 나나와리고부미가키 슌요"
+  },
+  {
+    "booth": "F16",
+    "brewery": "사카타주조",
+    "region": "야마가타현",
+    "product": "죠키겐 쥰마이긴죠 초카라"
+  },
+  {
+    "booth": "F16",
+    "brewery": "사카타주조",
+    "region": "야마가타현",
+    "product": "죠키겐 쥰마이다이긴죠 야마다니시키50"
+  },
+  {
+    "booth": "F16",
+    "brewery": "사카타주조",
+    "region": "야마가타현",
+    "product": "죠키겐 쥰마이긴죠 산케이니시키 무로카나마겐슈"
+  },
+  {
+    "booth": "F16",
+    "brewery": "사카타주조",
+    "region": "야마가타현",
+    "product": "죠키겐 쥰마이다이긴죠 초카라"
+  },
+  {
+    "booth": "F17",
+    "brewery": "세이료주조주식회사",
+    "region": "에히메현",
+    "product": "이요카기야 쥰마이 무로카"
+  },
+  {
+    "booth": "F17",
+    "brewery": "세이료주조주식회사",
+    "region": "에히메현",
+    "product": "이요카기야 쥰마이긴죠 무로카"
+  },
+  {
+    "booth": "F17",
+    "brewery": "세이료주조주식회사",
+    "region": "에히메현",
+    "product": "세이료젠 토쿠베츠 쥰마이 나마 우라라카"
+  },
+  {
+    "booth": "F17",
+    "brewery": "세이료주조주식회사",
+    "region": "에히메현",
+    "product": "이요카기야 쥰마이긴죠 토시즈 오리가라미 나마"
+  },
+  {
+    "booth": "F18",
+    "brewery": "아오키주조",
+    "region": "니이가타현",
+    "product": "카쿠레이 쥰마이긴죠"
+  },
+  {
+    "booth": "F18",
+    "brewery": "아오키주조",
+    "region": "니이가타현",
+    "product": "카쿠레이 쥰마이"
+  },
+  {
+    "booth": "F18",
+    "brewery": "아오키주조",
+    "region": "니이가타현",
+    "product": "카쿠레이 코키무라사키"
+  },
+  {
+    "booth": "F18",
+    "brewery": "아오키주조",
+    "region": "니이가타현",
+    "product": "카쿠레이 긴죠 나마자케"
+  },
+  {
+    "booth": "F19",
+    "brewery": "도이주조장",
+    "region": "시즈오카현",
+    "product": "카이운 쥰마이다이긴죠"
+  },
+  {
+    "booth": "F19",
+    "brewery": "도이주조장",
+    "region": "시즈오카현",
+    "product": "카이운 무로카 쥰마이 아카이와오마치 나마자케"
+  },
+  {
+    "booth": "F19",
+    "brewery": "도이주조장",
+    "region": "시즈오카현",
+    "product": "카이운 마네키네코 히야즈메쥰마이(핑크라벨)"
+  },
+  {
+    "booth": "F19",
+    "brewery": "도이주조장",
+    "region": "시즈오카현",
+    "product": "카이운 이와이자케"
+  },
+  {
+    "booth": "F20",
+    "brewery": "아야키쿠주조",
+    "region": "카가와현",
+    "product": "아야키쿠 올리브 이스트 쥰마이 사케"
+  },
+  {
+    "booth": "F20",
+    "brewery": "아야키쿠주조",
+    "region": "카가와현",
+    "product": "아야키쿠 사누키올리브11"
+  },
+  {
+    "booth": "F20",
+    "brewery": "아야키쿠주조",
+    "region": "카가와현",
+    "product": "아야키쿠 올리브 이스트 쥰마이 나마"
+  },
+  {
+    "booth": "G02",
+    "brewery": "코바야시주조",
+    "region": "토치기현",
+    "product": "호오비덴 준마이다이긴죠 아카반"
+  },
+  {
+    "booth": "G02",
+    "brewery": "코바야시주조",
+    "region": "토치기현",
+    "product": "호오비덴 츠루기"
+  },
+  {
+    "booth": "G03",
+    "brewery": "츠치야주조점",
+    "region": "나가노현",
+    "product": "카메노우미 우마구치 준마이"
+  },
+  {
+    "booth": "G04",
+    "brewery": "스와미코츠루 주조장",
+    "region": "나가노현",
+    "product": "미코츠루 히토고코치"
+  },
+  {
+    "booth": "G05",
+    "brewery": "헤이와주조",
+    "region": "와카야마현",
+    "product": "킷도 준마이다이긴죠"
+  },
+  {
+    "booth": "G05",
+    "brewery": "헤이와주조",
+    "region": "와카야마현",
+    "product": "킷도 무료잔"
+  },
+  {
+    "booth": "G07",
+    "brewery": "이와세주조",
+    "region": "치바현",
+    "product": "이와노이 i240 준마이다이긴죠 고햐쿠만고쿠 무로카나마겐슈"
+  },
+  {
+    "booth": "G08",
+    "brewery": "시미즈 세이자부로쇼텐",
+    "region": "미에현",
+    "product": "자쿠 미야비노토모 나카도리"
+  },
+  {
+    "booth": "G08",
+    "brewery": "시미즈 세이자부로쇼텐",
+    "region": "미에현",
+    "product": "자쿠 호노토모"
+  },
+  {
+    "booth": "G09",
+    "brewery": "하야시혼텐",
+    "region": "기후현",
+    "product": "햐쿠쥬로 아카즈라 Extra Dry 준마이"
+  },
+  {
+    "booth": "G10",
+    "brewery": "키리시마쵸 증류소",
+    "region": "카고시마현",
+    "product": "아카루이노우손 (고구마)"
+  },
+  {
+    "booth": "G10",
+    "brewery": "키리시마쵸 증류소",
+    "region": "카고시마현",
+    "product": "아카루이노우손 실크 스위트 (고구마)"
+  },
+  {
+    "booth": "G11",
+    "brewery": "텐파이",
+    "region": "후쿠오카현",
+    "product": "크래프츠맨 타다 스패니시"
+  },
+  {
+    "booth": "G11",
+    "brewery": "텐파이",
+    "region": "후쿠오카현",
+    "product": "크래프츠맨 타다 키안티 브라운"
+  },
+  {
+    "booth": "G11",
+    "brewery": "텐파이",
+    "region": "후쿠오카현",
+    "product": "크래프츠맨 타다 2417"
+  },
+  {
+    "booth": "G11",
+    "brewery": "텐파이",
+    "region": "후쿠오카현",
+    "product": "크래프츠맨 타다 나츠코이"
+  },
+  {
+    "booth": "G11",
+    "brewery": "텐파이",
+    "region": "후쿠오카현",
+    "product": "Coffee Specialite"
+  },
+  {
+    "booth": "G11",
+    "brewery": "텐파이",
+    "region": "후쿠오카현",
+    "product": "Pepper Specialite"
+  },
+  {
+    "booth": "G12",
+    "brewery": "미치자쿠라주조",
+    "region": "홋카이도",
+    "product": "미치자쿠라 쥰마이다이긴죠 키타시즈쿠45"
+  },
+  {
+    "booth": "G12",
+    "brewery": "미치자쿠라주조",
+    "region": "홋카이도",
+    "product": "미치자쿠라 쥰마이다이긴죠 스이세이45"
+  },
+  {
+    "booth": "G12",
+    "brewery": "미치자쿠라주조",
+    "region": "홋카이도",
+    "product": "미치자쿠라 쥰마이 R Class"
+  },
+  {
+    "booth": "G12",
+    "brewery": "미치자쿠라주조",
+    "region": "홋카이도",
+    "product": "미치자쿠라 쥰마이긴죠 쿠즈류55 나마겐슈"
+  },
+  {
+    "booth": "G13",
+    "brewery": "라이후쿠주조",
+    "region": "이바라키현",
+    "product": "라이후쿠 쥰마이긴죠 아이야마"
+  },
+  {
+    "booth": "G13",
+    "brewery": "라이후쿠주조",
+    "region": "이바라키현",
+    "product": "라이후쿠 쥰마이슈 후쿠마루"
+  },
+  {
+    "booth": "G13",
+    "brewery": "라이후쿠주조",
+    "region": "이바라키현",
+    "product": "라이후쿠 엠 스페셜 에디션 퓨어"
+  },
+  {
+    "booth": "G13",
+    "brewery": "라이후쿠주조",
+    "region": "이바라키현",
+    "product": "라이후쿠 준마이 나마자케 사쿠라"
+  },
+  {
+    "booth": "G14",
+    "brewery": "후지주조",
+    "region": "시마네현",
+    "product": "이즈모후지 쥰마이긴죠 (야마다니시키50)"
+  },
+  {
+    "booth": "G14",
+    "brewery": "후지주조",
+    "region": "시마네현",
+    "product": "이즈모후지 쥰마이긴죠 초카라"
+  },
+  {
+    "booth": "G14",
+    "brewery": "후지주조",
+    "region": "시마네현",
+    "product": "이즈모후지 쥰마이"
+  },
+  {
+    "booth": "G14",
+    "brewery": "후지주조",
+    "region": "시마네현",
+    "product": "이즈모후지 토쿠베츠 쥰마이"
+  },
+  {
+    "booth": "G15",
+    "brewery": "니이자와양조점",
+    "region": "미야기현",
+    "product": "하쿠라쿠세이 쥰마이다이긴죠"
+  },
+  {
+    "booth": "G15",
+    "brewery": "니이자와양조점",
+    "region": "미야기현",
+    "product": "하쿠라쿠세이 쥰마이긴죠"
+  },
+  {
+    "booth": "G15",
+    "brewery": "니이자와양조점",
+    "region": "미야기현",
+    "product": "하쿠라쿠세이 토쿠베츠 쥰마이"
+  },
+  {
+    "booth": "G15",
+    "brewery": "니이자와양조점",
+    "region": "미야기현",
+    "product": "카오루코우챠슈"
+  },
+  {
+    "booth": "G16",
+    "brewery": "에시칼・스피리츠",
+    "region": "도쿄",
+    "product": "라스트 엘리시움"
+  },
+  {
+    "booth": "G16",
+    "brewery": "에시칼・스피리츠",
+    "region": "도쿄",
+    "product": "라스트 엘레강트"
+  },
+  {
+    "booth": "G16",
+    "brewery": "에시칼・스피리츠",
+    "region": "도쿄",
+    "product": "라스트 엔"
+  },
+  {
+    "booth": "G16",
+    "brewery": "에시칼・스피리츠",
+    "region": "도쿄",
+    "product": "교토 페퍼 에티크"
+  },
+  {
+    "booth": "G16",
+    "brewery": "에시칼・스피리츠",
+    "region": "도쿄",
+    "product": "카카오 에티크"
+  },
+  {
+    "booth": "G17",
+    "brewery": "야츠시카주조",
+    "region": "오이타현",
+    "product": "긴자노스즈메 시로코우지"
+  },
+  {
+    "booth": "G17",
+    "brewery": "야츠시카주조",
+    "region": "오이타현",
+    "product": "긴자노스즈메 코하쿠"
+  },
+  {
+    "booth": "G17",
+    "brewery": "야츠시카주조",
+    "region": "오이타현",
+    "product": "카보스슈"
+  },
+  {
+    "booth": "G17",
+    "brewery": "야츠시카주조",
+    "region": "오이타현",
+    "product": "긴자노스즈메 가스라이트"
+  },
+  {
+    "booth": "G18",
+    "brewery": "사케노카마쿠라",
+    "region": "와카야마현",
+    "product": "키슈우구이스야 타루지코미 우메슈"
+  },
+  {
+    "booth": "G18",
+    "brewery": "사케노카마쿠라",
+    "region": "와카야마현",
+    "product": "키슈우구이스야 쿠로우시지타테 우메슈(카라구치)"
+  },
+  {
+    "booth": "G18",
+    "brewery": "사케노카마쿠라",
+    "region": "와카야마현",
+    "product": "키슈 칸칸야 운슈미캉슈"
+  },
+  {
+    "booth": "G18",
+    "brewery": "사케노카마쿠라",
+    "region": "와카야마현",
+    "product": "키슈 우구이스야 코우챠 우메슈"
+  },
+  {
+    "booth": "G19",
+    "brewery": "사츠마무쏘",
+    "region": "가고시마현",
+    "product": "오토메자쿠라"
+  },
+  {
+    "booth": "G19",
+    "brewery": "사츠마무쏘",
+    "region": "가고시마현",
+    "product": "모구라"
+  },
+  {
+    "booth": "G19",
+    "brewery": "사츠마무쏘",
+    "region": "가고시마현",
+    "product": "이모노타루"
+  },
+  {
+    "booth": "G19",
+    "brewery": "사츠마무쏘",
+    "region": "가고시마현",
+    "product": "카엔잔 베니(군고구마소주)"
+  },
+  {
+    "booth": "G20",
+    "brewery": "신자토주조",
+    "region": "오키나와현",
+    "product": "류큐 골드"
+  },
+  {
+    "booth": "G20",
+    "brewery": "신자토주조",
+    "region": "오키나와현",
+    "product": "카리유시"
+  },
+  {
+    "booth": "G20",
+    "brewery": "신자토주조",
+    "region": "오키나와현",
+    "product": "싱글 몰트 위스키 류카 뉴 본 2025 이엑스 버번 캐스크"
+  },
+  {
+    "booth": "G20",
+    "brewery": "신자토주조",
+    "region": "오키나와현",
+    "product": "신자토 위스키"
+  },
+  {
+    "booth": "G20",
+    "brewery": "신자토주조",
+    "region": "오키나와현",
+    "product": "류카 싱글 몰트 재패니즈 위스키 2026 얼리 썸머(선예약상품)"
+  },
+  {
+    "booth": "H01",
+    "brewery": "아키타양조",
+    "region": "아키타현",
+    "product": "유키노비진 준마이긴죠 6호 효모 초카라"
+  },
+  {
+    "booth": "H01",
+    "brewery": "아키타양조",
+    "region": "아키타현",
+    "product": "유키노비진 준마이다이긴죠"
+  },
+  {
+    "booth": "H02",
+    "brewery": "야마모토주조점",
+    "region": "아키타현",
+    "product": "퓨어블랙 야마모토"
+  },
+  {
+    "booth": "H03",
+    "brewery": "미토베주조",
+    "region": "야마가타현",
+    "product": "야마가타마사무네 카라구치 준마이"
+  },
+  {
+    "booth": "H03",
+    "brewery": "미토베주조",
+    "region": "야마가타현",
+    "product": "시드르 마사무네 오우린"
+  },
+  {
+    "booth": "H04",
+    "brewery": "고토주조점",
+    "region": "야마가타현",
+    "product": "벤텐 준마이다이긴죠겐슈 오마치"
+  },
+  {
+    "booth": "H05",
+    "brewery": "신도주조점",
+    "region": "야마가타현",
+    "product": "가산류 고쿠게츠 시즈쿠도리"
+  },
+  {
+    "booth": "H05",
+    "brewery": "신도주조점",
+    "region": "야마가타현",
+    "product": "우라가산류 코우카"
+  },
+  {
+    "booth": "H06",
+    "brewery": "나가야마혼케주조장",
+    "region": "야마구치현",
+    "product": "준마이다이긴죠 도메누 타카"
+  },
+  {
+    "booth": "H06",
+    "brewery": "나가야마혼케주조장",
+    "region": "야마구치현",
+    "product": "타카 토쿠베츠준마이"
+  },
+  {
+    "booth": "H07",
+    "brewery": "아부노츠루주조",
+    "region": "야마구치현",
+    "product": "미요시 준마이다이긴죠 그린"
+  },
+  {
+    "booth": "H07",
+    "brewery": "아부노츠루주조",
+    "region": "야마구치현",
+    "product": "아부노츠루 카라구치 준마이긴죠"
+  },
+  {
+    "booth": "H08",
+    "brewery": "야오신주조",
+    "region": "야마구치현",
+    "product": "간기 준마이긴죠 무로카나마겐슈 노니"
+  },
+  {
+    "booth": "H08",
+    "brewery": "야오신주조",
+    "region": "야마구치현",
+    "product": "간기 준마이 무로카나마겐슈 노이치"
+  },
+  {
+    "booth": "H09",
+    "brewery": "우라자토주조점",
+    "region": "이바라키현",
+    "product": "우라자토 준마이긴죠 히타치니시키"
+  },
+  {
+    "booth": "H09",
+    "brewery": "우라자토주조점",
+    "region": "이바라키현",
+    "product": "우라자토 준마이슈"
+  },
+  {
+    "booth": "H10",
+    "brewery": "쿠메지마노쿠메센",
+    "region": "오키나와현",
+    "product": "쿠메지마노쿠메센 브라운"
+  },
+  {
+    "booth": "H10",
+    "brewery": "쿠메지마노쿠메센",
+    "region": "오키나와현",
+    "product": "오키나와 시콰사"
+  },
+  {
+    "booth": "H11",
+    "brewery": "슈호주조장",
+    "region": "야마가타현",
+    "product": "슈호 다이긴죠 초카라구치"
+  },
+  {
+    "booth": "H11",
+    "brewery": "슈호주조장",
+    "region": "야마가타현",
+    "product": "슈호 준마이긴죠 핫탄"
+  },
+  {
+    "booth": "H12",
+    "brewery": "록카센",
+    "region": "야마가타현",
+    "product": "야마호우시 바쿠라이 나마겐슈"
+  },
+  {
+    "booth": "H13",
+    "brewery": "코지마소우혼텐",
+    "region": "야마가타현",
+    "product": "토우코우 준마이긴죠겐슈"
+  },
+  {
+    "booth": "H13",
+    "brewery": "코지마소우혼텐",
+    "region": "야마가타현",
+    "product": "토우코우 준마이"
+  },
+  {
+    "booth": "H14",
+    "brewery": "키쿠노츠카사주조",
+    "region": "이와테현",
+    "product": "이노센트 40"
+  },
+  {
+    "booth": "H14",
+    "brewery": "키쿠노츠카사주조",
+    "region": "이와테현",
+    "product": "이노센트 50"
+  },
+  {
+    "booth": "H15",
+    "brewery": "아카부주조",
+    "region": "이와테현",
+    "product": "아카부 준마이긴죠"
+  },
+  {
+    "booth": "H15",
+    "brewery": "아카부주조",
+    "region": "이와테현",
+    "product": "아카부 준마이"
+  },
+  {
+    "booth": "H16",
+    "brewery": "카와자와주조",
+    "region": "코우치현",
+    "product": "야마니 쿠모가 자아구자아구"
+  },
+  {
+    "booth": "H17",
+    "brewery": "아리미츠주조장",
+    "region": "코우치현",
+    "product": "아키토라 준마이다이긴죠"
+  },
+  {
+    "booth": "H17",
+    "brewery": "아리미츠주조장",
+    "region": "코우치현",
+    "product": "아키토라 준마이"
+  },
+  {
+    "booth": "H19",
+    "brewery": "타카키주조",
+    "region": "코우치현",
+    "product": "토요노우메 준마이긴죠 요이요이"
+  },
+  {
+    "booth": "H19",
+    "brewery": "타카키주조",
+    "region": "코우치현",
+    "product": "토요노우메 CEL-24"
+  },
+  {
+    "booth": "H20",
+    "brewery": "카메이즈미주조",
+    "region": "코우치현",
+    "product": "카메이즈미 준마이긴죠 CEL-24"
+  },
+  {
+    "booth": "H20",
+    "brewery": "카메이즈미주조",
+    "region": "코우치현",
+    "product": "카메이즈미 준마이다이긴죠겐슈 CEL-24 야마다니시키"
+  },
+  {
+    "booth": "J01",
+    "brewery": "세토주조",
+    "region": "사가현",
+    "product": "아즈마쵸 무츠고로상 쿠로 준마이다이긴죠 무로카겐슈"
+  },
+  {
+    "booth": "J01",
+    "brewery": "세토주조",
+    "region": "사가현",
+    "product": "아즈마쵸 무츠고로상 하지메테"
+  },
+  {
+    "booth": "J02",
+    "brewery": "아즈마츠루주조",
+    "region": "사가현",
+    "product": "아즈마츠루 MOVIN'"
+  },
+  {
+    "booth": "J02",
+    "brewery": "아즈마츠루주조",
+    "region": "사가현",
+    "product": "아즈마츠루 The Origin"
+  },
+  {
+    "booth": "J03",
+    "brewery": "후쿠다주조",
+    "region": "나가사키현",
+    "product": "쟈가타라 오하루"
+  },
+  {
+    "booth": "J03",
+    "brewery": "후쿠다주조",
+    "region": "나가사키현",
+    "product": "후쿠우미 야마다니시키"
+  },
+  {
+    "booth": "J04",
+    "brewery": "타이요주조",
+    "region": "니가타현",
+    "product": "무소우 카라구치준마이"
+  },
+  {
+    "booth": "J05",
+    "brewery": "텐세이주조",
+    "region": "카고시마현",
+    "product": "케센토 하루카"
+  },
+  {
+    "booth": "J11",
+    "brewery": "센게츠주조",
+    "region": "쿠마모토현",
+    "product": "카와베 (쌀)"
+  },
+  {
+    "booth": "J11",
+    "brewery": "센게츠주조",
+    "region": "쿠마모토현",
+    "product": "타루 센게츠 (쌀/오크저장)"
+  },
+  {
+    "booth": "J12",
+    "brewery": "오토코야마혼텐",
+    "region": "미야기현",
+    "product": "소우텐덴 긴노이로하 카라구치준마이"
+  },
+  {
+    "booth": "J12",
+    "brewery": "오토코야마혼텐",
+    "region": "미야기현",
+    "product": "오토코야마 카라구치준마이"
+  },
+  {
+    "booth": "J13",
+    "brewery": "이마다주조혼텐",
+    "region": "히로시마현",
+    "product": "후쿠쵸 시후도 Seafood"
+  },
+  {
+    "booth": "J13",
+    "brewery": "이마다주조혼텐",
+    "region": "히로시마현",
+    "product": "후쿠쵸 스파클링 HAKUBI"
+  },
+  {
+    "booth": "J14",
+    "brewery": "고젠슈 츠지혼텐",
+    "region": "오카야마현",
+    "product": "고잰슈 1859"
+  },
+  {
+    "booth": "J14",
+    "brewery": "고젠슈 츠지혼텐",
+    "region": "오카야마현",
+    "product": "고젠슈 미마사카 준마이"
+  },
+  {
+    "booth": "J15",
+    "brewery": "오치주조",
+    "region": "오카야마현",
+    "product": "타이쇼노츠루 RISING 아사히"
+  },
+  {
+    "booth": "J15",
+    "brewery": "오치주조",
+    "region": "오카야마현",
+    "product": "타이쇼노츠루 나카도리"
+  },
+  {
+    "booth": "J16",
+    "brewery": "니시요시다주조",
+    "region": "후쿠오카현",
+    "product": "킨타로 (볶은보리)"
+  },
+  {
+    "booth": "J16",
+    "brewery": "니시요시다주조",
+    "region": "후쿠오카현",
+    "product": "츠쿠시 시로 (보리)"
+  },
+  {
+    "booth": "J17",
+    "brewery": "타카하시쇼텐",
+    "region": "후쿠오카현",
+    "product": "시게마스 긴노사토 준마이다이긴죠 50"
+  },
+  {
+    "booth": "J17",
+    "brewery": "타카하시쇼텐",
+    "region": "후쿠오카현",
+    "product": "시게마스 아카시소 준마이 우메슈"
+  },
+  {
+    "booth": "J18",
+    "brewery": "와카나미주조",
+    "region": "후쿠오카현",
+    "product": "와카나미 준마이긴죠"
+  },
+  {
+    "booth": "J18",
+    "brewery": "와카나미주조",
+    "region": "후쿠오카현",
+    "product": "와카나미 준마이"
+  },
+  {
+    "booth": "J19",
+    "brewery": "키쿠비진",
+    "region": "후쿠오카현",
+    "product": "우라 키쿠비진 토쿠베츠준마이 무로카나마"
+  },
+  {
+    "booth": "J19",
+    "brewery": "키쿠비진",
+    "region": "후쿠오카현",
+    "product": "키쿠비진 하나칸무리"
+  },
+  {
+    "booth": "J20",
+    "brewery": "리브롬",
+    "region": "후쿠오카현",
+    "product": "리브롬 민트"
+  },
+  {
+    "booth": "J20",
+    "brewery": "리브롬",
+    "region": "후쿠오카현",
+    "product": "리브롬 버베나"
+  },
+  {
+    "booth": "K01",
+    "brewery": "키타주조",
+    "region": "나라현",
+    "product": "미요키쿠 혼죠조 나마겐슈"
+  },
+  {
+    "booth": "K01",
+    "brewery": "키타주조",
+    "region": "나라현",
+    "product": "미요키쿠 혼죠조"
+  },
+  {
+    "booth": "K02",
+    "brewery": "유쵸주조",
+    "region": "나라현",
+    "product": "카제노모리 아키츠호 657"
+  },
+  {
+    "booth": "K02",
+    "brewery": "유쵸주조",
+    "region": "나라현",
+    "product": "카제노모리 알파 타입 2"
+  },
+  {
+    "booth": "K03",
+    "brewery": "미오야주조",
+    "region": "이시카와현",
+    "product": "유호 준마이"
+  },
+  {
+    "booth": "K03",
+    "brewery": "미오야주조",
+    "region": "이시카와현",
+    "product": "유호 키모토 준마이 햐쿠만고쿠노시로"
+  },
+  {
+    "booth": "K04",
+    "brewery": "니시야마주조장",
+    "region": "효고현",
+    "product": "로죠 하나아리 사라"
+  },
+  {
+    "booth": "K04",
+    "brewery": "니시야마주조장",
+    "region": "효고현",
+    "product": "탐바 미야마 시로부도"
+  },
+  {
+    "booth": "K05",
+    "brewery": "사와노츠루",
+    "region": "효고현",
+    "product": "사와노츠루 준마이"
+  },
+  {
+    "booth": "K05",
+    "brewery": "사와노츠루",
+    "region": "효고현",
+    "product": "사와노츠루 준마이슈 야마다니시키"
+  },
+  {
+    "booth": "M01",
+    "brewery": "사카야코리아",
+    "region": "서울시 성동구 한림말 5길 25\n(지하철역 : 3호선 옥수역 7번 출구에서 100M )",
+    "product": "신슈키레이 프리미엄골드 준마이다이긴죠 39"
+  },
+  {
+    "booth": "M01",
+    "brewery": "사카야코리아",
+    "region": "서울시 성동구 한림말 5길 25\n(지하철역 : 3호선 옥수역 7번 출구에서 100M )",
+    "product": "신슈키레이 미야마니시키 준마이다이긴죠 39"
+  },
+  {
+    "booth": "M01",
+    "brewery": "사카야코리아",
+    "region": "서울시 성동구 한림말 5길 25\n(지하철역 : 3호선 옥수역 7번 출구에서 100M )",
+    "product": "신슈키레이 킨몬니시키 준마이다이긴죠 39"
+  },
+  {
+    "booth": "M01",
+    "brewery": "사카야코리아",
+    "region": "서울시 성동구 한림말 5길 25\n(지하철역 : 3호선 옥수역 7번 출구에서 100M )",
+    "product": "와다치 크래프트맥주"
+  },
+  {
+    "booth": "M01",
+    "brewery": "사카야코리아",
+    "region": "서울시 성동구 한림말 5길 25\n(지하철역 : 3호선 옥수역 7번 출구에서 100M )",
+    "product": "와다치 화이트크래프트 맥주"
+  },
+  {
+    "booth": "M01",
+    "brewery": "사카야코리아",
+    "region": "서울시 성동구 한림말 5길 25\n(지하철역 : 3호선 옥수역 7번 출구에서 100M )",
+    "product": "하토마사무네 크리스탈 오브 스노우 준마이 나마"
+  },
+  {
+    "booth": "M01",
+    "brewery": "사카야코리아",
+    "region": "서울시 성동구 한림말 5길 25\n(지하철역 : 3호선 옥수역 7번 출구에서 100M )",
+    "product": "하토마사무네 특별준마이 하나후부키 지카구미 나마"
+  },
+  {
+    "booth": "M03",
+    "brewery": "스이센주조",
+    "region": "이와테현 리쿠젠타카다시",
+    "product": "타테가미 특별준마이 나마, 다이긴죠 스이센 블루"
+  },
+  {
+    "booth": "M03",
+    "brewery": "스이센주조",
+    "region": "이와테현 리쿠젠타카다시",
+    "product": "준마이긴죠 스이센 레드"
+  },
+  {
+    "booth": "M04",
+    "brewery": "텐쥬주조",
+    "region": "아키타현 유리혼죠시",
+    "product": "텐쥬 준마이"
+  },
+  {
+    "booth": "M04",
+    "brewery": "텐쥬주조",
+    "region": "아키타현 유리혼죠시",
+    "product": "초카이산 키모토준마이긴죠 초카이린도코보시코미"
+  },
+  {
+    "booth": "M04",
+    "brewery": "텐쥬주조",
+    "region": "아키타현 유리혼죠시",
+    "product": "초카이산 준마이다이긴죠"
+  },
+  {
+    "booth": "M04",
+    "brewery": "텐쥬주조",
+    "region": "아키타현 유리혼죠시",
+    "product": "초카이산 준마이다이긴죠 무로카나마겐슈"
+  },
+  {
+    "booth": "M05",
+    "brewery": "사쿠라가오주조",
+    "region": "이와테현 모리오카시",
+    "product": "히텐쇼 준마이다이긴죠"
+  },
+  {
+    "booth": "M05",
+    "brewery": "사쿠라가오주조",
+    "region": "이와테현 모리오카시",
+    "product": "은하철도의밤 준마이긴죠"
+  },
+  {
+    "booth": "M05",
+    "brewery": "사쿠라가오주조",
+    "region": "이와테현 모리오카시",
+    "product": "준마이 사카야"
+  },
+  {
+    "booth": "M06",
+    "brewery": "하마치도리주조",
+    "region": "이와테현 가마이시",
+    "product": "하마치도리 준마이긴죠 깅긴가 한정나마자케"
+  },
+  {
+    "booth": "M06",
+    "brewery": "하마치도리주조",
+    "region": "이와테현 가마이시",
+    "product": "겐스이 준마이긴죠"
+  },
+  {
+    "booth": "M06",
+    "brewery": "하마치도리주조",
+    "region": "이와테현 가마이시",
+    "product": "겐스이 준마이다이긴죠"
+  },
+  {
+    "booth": "M07",
+    "brewery": "야히코주조",
+    "region": "니이가타현 야히코무라",
+    "product": "폰슈볼"
+  },
+  {
+    "booth": "M07",
+    "brewery": "야히코주조",
+    "region": "니이가타현 야히코무라",
+    "product": "코운 준마이긴죠"
+  },
+  {
+    "booth": "M08",
+    "brewery": "아키타세이슈 주식회사",
+    "region": "아키타현 다이센시",
+    "product": "카리호 이치호즈미 준마이긴죠 (3년 빙온저장)"
+  },
+  {
+    "booth": "M08",
+    "brewery": "아키타세이슈 주식회사",
+    "region": "아키타현 다이센시",
+    "product": "야마토시즈쿠 미사토니시키 준마이긴죠"
+  },
+  {
+    "booth": "M08",
+    "brewery": "아키타세이슈 주식회사",
+    "region": "아키타현 다이센시",
+    "product": "야마코시즈쿠 준마이긴죠 유키노야마토"
+  },
+  {
+    "booth": "M08",
+    "brewery": "아키타세이슈 주식회사",
+    "region": "아키타현 다이센시",
+    "product": "데와츠루 준마이다이긴죠나마 사일런나잇"
+  },
+  {
+    "booth": "M10",
+    "brewery": "마츠세주조주식회사",
+    "region": "시가현 류오쵸",
+    "product": "마츠노츠카사 울티머스 다이긴죠 나카도리"
+  },
+  {
+    "booth": "M10",
+    "brewery": "마츠세주조주식회사",
+    "region": "시가현 류오쵸",
+    "product": "마츠노츠카사 준마이다이긴죠 아졸라35"
+  },
+  {
+    "booth": "M10",
+    "brewery": "마츠세주조주식회사",
+    "region": "시가현 류오쵸",
+    "product": "마츠노츠카사 준마이다이긴죠 아졸라 50"
+  },
+  {
+    "booth": "M10",
+    "brewery": "마츠세주조주식회사",
+    "region": "시가현 류오쵸",
+    "product": "마츠노츠카사 준마이"
+  },
+  {
+    "booth": "M10",
+    "brewery": "마츠세주조주식회사",
+    "region": "시가현 류오쵸",
+    "product": "마츠노츠카사 준마이긴죠 시보리다테 라쿠"
+  },
+  {
+    "booth": "P11",
+    "brewery": "에이쿤주조",
+    "region": "시즈오카현 시즈오카시",
+    "product": "미도리노에이쿤 준마이긴죠 무로카나마겐슈"
+  },
+  {
+    "booth": "P11",
+    "brewery": "에이쿤주조",
+    "region": "시즈오카현 시즈오카시",
+    "product": "무라사키노에이쿤 준마이긴죠 무로카나마겐슈"
+  },
+  {
+    "booth": "P11",
+    "brewery": "에이쿤주조",
+    "region": "시즈오카현 시즈오카시",
+    "product": "다이다이노에이쿤 준마이긴죠 무로카나마겐슈"
+  },
+  {
+    "booth": "P11",
+    "brewery": "에이쿤주조",
+    "region": "시즈오카현 시즈오카시",
+    "product": "에이쿤 준마이다이긴죠 와타리부네"
+  },
+  {
+    "booth": "P10",
+    "brewery": "히라코우주조",
+    "region": "미야기현 이시마키시",
+    "product": "히타카미 특별준마이"
+  },
+  {
+    "booth": "P10",
+    "brewery": "히라코우주조",
+    "region": "미야기현 이시마키시",
+    "product": "히타카미 호쥰카라구치 준마이긴죠 야스케"
+  },
+  {
+    "booth": "P10",
+    "brewery": "히라코우주조",
+    "region": "미야기현 이시마키시",
+    "product": "히타카미 블루 준마이다이긴죠"
+  },
+  {
+    "booth": "P10",
+    "brewery": "히라코우주조",
+    "region": "미야기현 이시마키시",
+    "product": "히타카미 준마이다이긴죠 야스케 투명효탄"
+  },
+  {
+    "booth": "P10",
+    "brewery": "히라코우주조",
+    "region": "미야기현 이시마키시",
+    "product": "히타카미 나카도리 다이긴죠 가치이로효탄"
+  },
+  {
+    "booth": "P10",
+    "brewery": "히라코우주조",
+    "region": "미야기현 이시마키시",
+    "product": "히타카미 나카도리 준마이다이긴죠 블랙효탄"
+  },
+  {
+    "booth": "P09",
+    "brewery": "오누마주조점",
+    "region": "미야기현 무라다마을",
+    "product": "겐콘이치 준마이 우스니고리 나마"
+  },
+  {
+    "booth": "P09",
+    "brewery": "오누마주조점",
+    "region": "미야기현 무라다마을",
+    "product": "겐콘이치 준마이 신리키"
+  },
+  {
+    "booth": "P09",
+    "brewery": "오누마주조점",
+    "region": "미야기현 무라다마을",
+    "product": "겐콘이치 죠네츠준마이긴죠 겐슈"
+  },
+  {
+    "booth": "P09",
+    "brewery": "오누마주조점",
+    "region": "미야기현 무라다마을",
+    "product": "겐콘이치 준마이긴죠 긴노이로하"
+  },
+  {
+    "booth": "P09",
+    "brewery": "오누마주조점",
+    "region": "미야기현 무라다마을",
+    "product": "겐콘이치 준마이다긴죠 오마치"
+  },
+  {
+    "booth": "P09",
+    "brewery": "오누마주조점",
+    "region": "미야기현 무라다마을",
+    "product": "카타카나 겐콘이치 준마이다이긴죠"
+  },
+  {
+    "booth": "P04",
+    "brewery": "야마츄혼케주조",
+    "region": "아이치현 아이사이시",
+    "product": "기쿄에니시"
+  },
+  {
+    "booth": "P04",
+    "brewery": "야마츄혼케주조",
+    "region": "아이치현 아이사이시",
+    "product": "기쿄준마이긴죠겐슈50"
+  },
+  {
+    "booth": "P04",
+    "brewery": "야마츄혼케주조",
+    "region": "아이치현 아이사이시",
+    "product": "기쿄 토모가라"
+  },
+  {
+    "booth": "P04",
+    "brewery": "야마츄혼케주조",
+    "region": "아이치현 아이사이시",
+    "product": "기쿄 카가리비"
+  },
+  {
+    "booth": "P04",
+    "brewery": "야마츄혼케주조",
+    "region": "아이치현 아이사이시",
+    "product": "기쿄 요로코비"
+  },
+  {
+    "booth": "P04",
+    "brewery": "야마츄혼케주조",
+    "region": "아이치현 아이사이시",
+    "product": "기쿄 타헤"
+  },
+  {
+    "booth": "P04",
+    "brewery": "야마츄혼케주조",
+    "region": "아이치현 아이사이시",
+    "product": "기쿄 2001-40 (2001년 양조)"
+  },
+  {
+    "booth": "P03",
+    "brewery": "하치노헤주조",
+    "region": "아오모리현 하키노헤시",
+    "product": "핫센 우라라"
+  },
+  {
+    "booth": "P03",
+    "brewery": "하치노헤주조",
+    "region": "아오모리현 하키노헤시",
+    "product": "무츠핫센 이사리비 특별준마이"
+  },
+  {
+    "booth": "P03",
+    "brewery": "하치노헤주조",
+    "region": "아오모리현 하키노헤시",
+    "product": "무츠핫센 레드라벨 특별준마이"
+  },
+  {
+    "booth": "P03",
+    "brewery": "하치노헤주조",
+    "region": "아오모리현 하키노헤시",
+    "product": "무츠핫센 핑크라벨 긴죠 히이레"
+  },
+  {
+    "booth": "P03",
+    "brewery": "하치노헤주조",
+    "region": "아오모리현 하키노헤시",
+    "product": "무츠핫센 하나오모이50 준마이다이긴죠"
+  },
+  {
+    "booth": "P03",
+    "brewery": "하치노헤주조",
+    "region": "아오모리현 하키노헤시",
+    "product": "무츠핫센 실버라벨 긴죠 아라바시리"
+  },
+  {
+    "booth": "P03",
+    "brewery": "하치노헤주조",
+    "region": "아오모리현 하키노헤시",
+    "product": "핫센 블라쥬"
+  },
+  {
+    "booth": "P02",
+    "brewery": "쵸슈주조",
+    "region": "야마구치현 시모노세키시",
+    "product": "텐비 토쿠베츠준마이(쿠로텐)"
+  },
+  {
+    "booth": "P02",
+    "brewery": "쵸슈주조",
+    "region": "야마구치현 시모노세키시",
+    "product": "텐비 준마이긴죠 (시로텐)"
+  },
+  {
+    "booth": "P02",
+    "brewery": "쵸슈주조",
+    "region": "야마구치현 시모노세키시",
+    "product": "텐비 준마이다이긴죠"
+  },
+  {
+    "booth": "P01",
+    "brewery": "히라이즈미혼포",
+    "region": "아키타시 니카호시",
+    "product": "포시즌 우스니고리"
+  },
+  {
+    "booth": "P01",
+    "brewery": "히라이즈미혼포",
+    "region": "아키타시 니카호시",
+    "product": "야마하이 준마이 마루히"
+  },
+  {
+    "booth": "P01",
+    "brewery": "히라이즈미혼포",
+    "region": "아키타시 니카호시",
+    "product": "히텐 히나"
+  },
+  {
+    "booth": "P01",
+    "brewery": "히라이즈미혼포",
+    "region": "아키타시 니카호시",
+    "product": "히텐 하쿠쵸"
+  },
+  {
+    "booth": "P01",
+    "brewery": "히라이즈미혼포",
+    "region": "아키타시 니카호시",
+    "product": "히텐 치도리 나마"
+  },
+  {
+    "booth": "L02",
+    "brewery": "이와테메이죠",
+    "region": "이와테현 오슈시",
+    "product": "오쿠로쿠 토쿠베츠 준마이 키모토 \"Lotus\""
+  },
+  {
+    "booth": "L02",
+    "brewery": "이와테메이죠",
+    "region": "이와테현 오슈시",
+    "product": "오쿠로쿠 토쿠베츠 준마이 키모토 \"Unite\""
+  },
+  {
+    "booth": "L02",
+    "brewery": "이와테메이죠",
+    "region": "이와테현 오슈시",
+    "product": "오쿠로쿠 토쿠베츠 준마이 키모토 \"White Beach\""
+  },
+  {
+    "booth": "L03",
+    "brewery": "CR트레이딩",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "이비 화이트"
+  },
+  {
+    "booth": "L03",
+    "brewery": "CR트레이딩",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "킨스즈메 플래티넘"
+  },
+  {
+    "booth": "L03",
+    "brewery": "CR트레이딩",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "킨스즈메 히쇼 준마이다이긴죠"
+  },
+  {
+    "booth": "L03",
+    "brewery": "CR트레이딩",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "킨스즈메 준마이긴죠 시보리타테"
+  },
+  {
+    "booth": "L03",
+    "brewery": "CR트레이딩",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "센스케 준마이다이긴죠 무로카나마겐슈"
+  },
+  {
+    "booth": "L03",
+    "brewery": "CR트레이딩",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "코센 준마이 무로카나마자케겐슈 효온"
+  },
+  {
+    "booth": "L03",
+    "brewery": "CR트레이딩",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "분카진 카라구치 준마이"
+  },
+  {
+    "booth": "L03",
+    "brewery": "CR트레이딩",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "분카진 준마이긴죠 리즈르"
+  },
+  {
+    "booth": "L03",
+    "brewery": "CR트레이딩",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "조요 준마이65"
+  },
+  {
+    "booth": "L03",
+    "brewery": "CR트레이딩",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "혼킨 준마이슈"
+  },
+  {
+    "booth": "L03",
+    "brewery": "CR트레이딩",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "혼킨 슷핀 타이치"
+  },
+  {
+    "booth": "L03",
+    "brewery": "CR트레이딩",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "이즈미히메 유즈"
+  },
+  {
+    "booth": "L03",
+    "brewery": "CR트레이딩",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "이즈미히메 레몬"
+  },
+  {
+    "booth": "L04",
+    "brewery": "CR트레이딩",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "이사다이센"
+  },
+  {
+    "booth": "L04",
+    "brewery": "CR트레이딩",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "로우"
+  },
+  {
+    "booth": "L04",
+    "brewery": "CR트레이딩",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "야키이모 쿠로세"
+  },
+  {
+    "booth": "L04",
+    "brewery": "CR트레이딩",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "베니산고"
+  },
+  {
+    "booth": "L04",
+    "brewery": "CR트레이딩",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "미야코자쿠라"
+  },
+  {
+    "booth": "L04",
+    "brewery": "CR트레이딩",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "엔마"
+  },
+  {
+    "booth": "L04",
+    "brewery": "CR트레이딩",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "렌토"
+  },
+  {
+    "booth": "L04",
+    "brewery": "CR트레이딩",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "컬러풀"
+  },
+  {
+    "booth": "L04",
+    "brewery": "CR트레이딩",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "미타케"
+  },
+  {
+    "booth": "L04",
+    "brewery": "CR트레이딩",
+    "region": "경기 남양주시 경강로124번길 25, 1층,2층",
+    "product": "케이코우토나루모"
+  },
+  {
+    "booth": "P05",
+    "brewery": "마치다슈조텐",
+    "region": "군마현",
+    "product": "마치다슈조 준마이긴죠55 오마치 지카구미"
+  },
+  {
+    "booth": "P05",
+    "brewery": "마치다슈조텐",
+    "region": "군마현",
+    "product": "마치다슈조 준마이긴죠55 야마다니시키 지카구미"
+  },
+  {
+    "booth": "P05",
+    "brewery": "마치다슈조텐",
+    "region": "군마현",
+    "product": "마치다슈조 토쿠베츠준마이55 미야마니시키"
+  },
+  {
+    "booth": "P05",
+    "brewery": "마치다슈조텐",
+    "region": "군마현",
+    "product": "마치다슈조 토쿠베츠준마이55 고햐쿠만고쿠"
+  },
+  {
+    "booth": "P05",
+    "brewery": "마치다슈조텐",
+    "region": "군마현",
+    "product": "마치다슈조 준마이다이긴죠 프리미엄"
+  },
+  {
+    "booth": "P06",
+    "brewery": "나카시마야슈죠",
+    "region": "야마구치현",
+    "product": "나카시마야 준마이긴죠 무로카나마겐슈"
+  },
+  {
+    "booth": "P06",
+    "brewery": "나카시마야슈죠",
+    "region": "야마구치현",
+    "product": "나카시마야 후타모모치 무로카나마겐슈"
+  },
+  {
+    "booth": "P06",
+    "brewery": "나카시마야슈죠",
+    "region": "야마구치현",
+    "product": "나카시마야 하루츠게슈"
+  },
+  {
+    "booth": "P06",
+    "brewery": "나카시마야슈죠",
+    "region": "야마구치현",
+    "product": "나카시마야 준마이다이긴죠"
+  },
+  {
+    "booth": "P07",
+    "brewery": "야기슈조부",
+    "region": "에히메현",
+    "product": "야마탄마사무네 재즈 브루"
+  },
+  {
+    "booth": "P07",
+    "brewery": "야기슈조부",
+    "region": "에히메현",
+    "product": "야마탄마사무네 시즈쿠히메 준마이긴죠"
+  },
+  {
+    "booth": "P07",
+    "brewery": "야기슈조부",
+    "region": "에히메현",
+    "product": "야마탄마사무네 준마이 마츠야마미이"
+  },
+  {
+    "booth": "P07",
+    "brewery": "야기슈조부",
+    "region": "에히메현",
+    "product": "야마탄마사무네 혼죠조 시마나미"
+  },
+  {
+    "booth": "P08",
+    "brewery": "요시다슈죠",
+    "region": "후쿠이현",
+    "product": "에헤지 하쿠류"
+  },
+  {
+    "booth": "P08",
+    "brewery": "요시다슈죠",
+    "region": "후쿠이현",
+    "product": "에헤지 하쿠류 TOAST"
+  },
+  {
+    "booth": "P08",
+    "brewery": "요시다슈죠",
+    "region": "후쿠이현",
+    "product": "에헤지 하쿠류 RICH"
+  },
+  {
+    "booth": "P08",
+    "brewery": "요시다슈죠",
+    "region": "후쿠이현",
+    "product": "에헤지 하쿠류 JOY"
+  },
+  {
+    "booth": "P08",
+    "brewery": "요시다슈죠",
+    "region": "후쿠이현",
+    "product": "에헤지 하쿠류 EDGE"
+  },
+  {
+    "booth": "P13",
+    "brewery": "류진슈조",
+    "region": "군마현",
+    "product": "오제노유키도케 준마이다이긴죠 가쿠시자케"
+  },
+  {
+    "booth": "P13",
+    "brewery": "류진슈조",
+    "region": "군마현",
+    "product": "오제노유키도케 사카나우마이 준마이"
+  },
+  {
+    "booth": "P13",
+    "brewery": "류진슈조",
+    "region": "군마현",
+    "product": "류진 카라구치 준마이"
+  },
+  {
+    "booth": "P13",
+    "brewery": "류진슈조",
+    "region": "군마현",
+    "product": "류진 준마이다이긴죠 오프닝액트"
+  },
+  {
+    "booth": "P13",
+    "brewery": "류진슈조",
+    "region": "군마현",
+    "product": "준마이다이긴죠 오제유키다루마"
+  },
+  {
+    "booth": "P14",
+    "brewery": "이이누마메이죠",
+    "region": "토치기현",
+    "product": "스가타 준마이긴죠 겐슈 블랙임팩트"
+  },
+  {
+    "booth": "P14",
+    "brewery": "이이누마메이죠",
+    "region": "토치기현",
+    "product": "스가타 준마이긴죠 무로카나마겐슈 오마치"
+  },
+  {
+    "booth": "P14",
+    "brewery": "이이누마메이죠",
+    "region": "토치기현",
+    "product": "Flying Sugata"
+  },
+  {
+    "booth": "P14",
+    "brewery": "이이누마메이죠",
+    "region": "토치기현",
+    "product": "스가타 준마이긴죠 하레스가타"
+  },
+  {
+    "booth": "P15",
+    "brewery": "카네미츠슈죠",
+    "region": "히로시마현",
+    "product": "카모킨슈 준마이다이긴죠 40"
+  },
+  {
+    "booth": "P15",
+    "brewery": "카네미츠슈죠",
+    "region": "히로시마현",
+    "product": "카모킨슈 토쿠베츠준마이 13"
+  },
+  {
+    "booth": "P15",
+    "brewery": "카네미츠슈죠",
+    "region": "히로시마현",
+    "product": "카모킨슈 카라구치 토쿠베츠준마이"
+  },
+  {
+    "booth": "P15",
+    "brewery": "카네미츠슈죠",
+    "region": "히로시마현",
+    "product": "카모킨슈 사쿠라후부키 토쿠베츠준마이 우스니고리 나마"
+  },
+  {
+    "booth": "P15",
+    "brewery": "카네미츠슈죠",
+    "region": "히로시마현",
+    "product": "카모킨슈 준마이 시보리타테"
+  },
+  {
+    "booth": "M11",
+    "brewery": "산요하이슈죠",
+    "region": "효고현",
+    "product": "반슈잇콘 준마이 초카라구치"
+  },
+  {
+    "booth": "M11",
+    "brewery": "산요하이슈죠",
+    "region": "효고현",
+    "product": "반슈잇콘 준마이긴죠 아이야마"
+  },
+  {
+    "booth": "M11",
+    "brewery": "산요하이슈죠",
+    "region": "효고현",
+    "product": "반슈잇콘 준마이긴죠 스프링 샤인"
+  },
+  {
+    "booth": "M11",
+    "brewery": "산요하이슈죠",
+    "region": "효고현",
+    "product": "반슈잇콘 준마이긴죠 야마다니시키"
+  },
+  {
+    "booth": "M11",
+    "brewery": "산요하이슈죠",
+    "region": "효고현",
+    "product": "반슈잇콘 준마이긴죠 야마다호"
+  },
+  {
+    "booth": "M12",
+    "brewery": "아베주조",
+    "region": "니이가타현",
+    "product": "아베 블랙"
+  },
+  {
+    "booth": "M12",
+    "brewery": "아베주조",
+    "region": "니이가타현",
+    "product": "아베 실버"
+  },
+  {
+    "booth": "M12",
+    "brewery": "아베주조",
+    "region": "니이가타현",
+    "product": "아베 옐로우"
+  },
+  {
+    "booth": "M12",
+    "brewery": "아베주조",
+    "region": "니이가타현",
+    "product": "아베 핑크"
+  },
+  {
+    "booth": "M12",
+    "brewery": "아베주조",
+    "region": "니이가타현",
+    "product": "아베 그린"
+  },
+  {
+    "booth": "M12",
+    "brewery": "아베주조",
+    "region": "니이가타현",
+    "product": "사자나미"
+  },
+  {
+    "booth": "M12",
+    "brewery": "아베주조",
+    "region": "니이가타현",
+    "product": "레굴루스"
+  },
+  {
+    "booth": "M12",
+    "brewery": "아베주조",
+    "region": "니이가타현",
+    "product": "포말하우트"
+  },
+  {
+    "booth": "M12",
+    "brewery": "아베주조",
+    "region": "니이가타현",
+    "product": "베가"
+  },
+  {
+    "booth": "Q01",
+    "brewery": "하기노슈조",
+    "region": "미야기현",
+    "product": "히와타 키모토 준마이다이긴죠"
+  },
+  {
+    "booth": "Q01",
+    "brewery": "하기노슈조",
+    "region": "미야기현",
+    "product": "하기노츠루 준마이긴죠"
+  },
+  {
+    "booth": "Q01",
+    "brewery": "하기노슈조",
+    "region": "미야기현",
+    "product": "하기노츠루 카라구치 토쿠베츠준마이"
+  },
+  {
+    "booth": "Q01",
+    "brewery": "하기노슈조",
+    "region": "미야기현",
+    "product": "히와타 키모토 준마이"
+  },
+  {
+    "booth": "Q01",
+    "brewery": "하기노슈조",
+    "region": "미야기현",
+    "product": "하기노츠루 준마이긴죠 베츠시코미 나마겐슈"
+  },
+  {
+    "booth": "Q02",
+    "brewery": "오야타카시슈조",
+    "region": "가나가와현",
+    "product": "자루소호라이 준마이긴죠 퀸 나마겐슈"
+  },
+  {
+    "booth": "Q02",
+    "brewery": "오야타카시슈조",
+    "region": "가나가와현",
+    "product": "자루소호라이 준마이긴죠 오링고쿠다사이"
+  },
+  {
+    "booth": "Q02",
+    "brewery": "오야타카시슈조",
+    "region": "가나가와현",
+    "product": "자루소호라이 토쿠베츠준마이 데와산산"
+  },
+  {
+    "booth": "Q02",
+    "brewery": "오야타카시슈조",
+    "region": "가나가와현",
+    "product": "자루소호라이 준마이 그린라벨"
+  },
+  {
+    "booth": "Q03",
+    "brewery": "쥬하치자카리슈조",
+    "region": "오카야마현",
+    "product": "타카지 준마이다이긴죠 아사히 무로카나마겐슈"
+  },
+  {
+    "booth": "Q03",
+    "brewery": "쥬하치자카리슈조",
+    "region": "오카야마현",
+    "product": "쥬하치자카리 아사히 준마이다이긴죠 무로카나마겐슈"
+  },
+  {
+    "booth": "Q03",
+    "brewery": "쥬하치자카리슈조",
+    "region": "오카야마현",
+    "product": "쥬하치자카리 미야코 준마이긴죠 무로카나마겐슈"
+  },
+  {
+    "booth": "Q03",
+    "brewery": "쥬하치자카리슈조",
+    "region": "오카야마현",
+    "product": "쥬하치자카리 에이스 켓"
+  },
+  {
+    "booth": "Q04",
+    "brewery": "와타나베슈조텐",
+    "region": "기후현",
+    "product": "히다 호라이 죠센"
+  },
+  {
+    "booth": "Q04",
+    "brewery": "와타나베슈조텐",
+    "region": "기후현",
+    "product": "호라이 준마이긴죠 카덴테즈쿠리"
+  },
+  {
+    "booth": "Q04",
+    "brewery": "와타나베슈조텐",
+    "region": "기후현",
+    "product": "더블유 준마이 아이야마"
+  },
+  {
+    "booth": "Q04",
+    "brewery": "와타나베슈조텐",
+    "region": "기후현",
+    "product": "더블유 준마이 야마다니시키"
+  },
+  {
+    "booth": "Q04",
+    "brewery": "와타나베슈조텐",
+    "region": "기후현",
+    "product": "호라이 쿠라모토노카쿠시자케"
+  },
+  {
+    "booth": "Q04",
+    "brewery": "와타나베슈조텐",
+    "region": "기후현",
+    "product": "코마치 사쿠라"
+  },
+  {
+    "booth": "Q04",
+    "brewery": "와타나베슈조텐",
+    "region": "기후현",
+    "product": "더블유 준마이 아카이와오마치"
+  },
+  {
+    "booth": "Q05",
+    "brewery": "하마다슈죠",
+    "region": "가고시마현",
+    "product": "적토마(세키토바)"
+  },
+  {
+    "booth": "Q05",
+    "brewery": "하마다슈죠",
+    "region": "가고시마현",
+    "product": "적토마(세키토바) 무라사키"
+  },
+  {
+    "booth": "Q05",
+    "brewery": "하마다슈죠",
+    "region": "가고시마현",
+    "product": "적토마(세키토바) 타마아카네"
+  },
+  {
+    "booth": "Q05",
+    "brewery": "하마다슈죠",
+    "region": "가고시마현",
+    "product": "우카제"
+  },
+  {
+    "booth": "Q05",
+    "brewery": "하마다슈죠",
+    "region": "가고시마현",
+    "product": "칠그린"
+  },
+  {
+    "booth": "Q05",
+    "brewery": "하마다슈죠",
+    "region": "가고시마현",
+    "product": "삿슈 타마시"
+  },
+  {
+    "booth": "Q05",
+    "brewery": "하마다슈죠",
+    "region": "가고시마현",
+    "product": "다이야메"
+  },
+  {
+    "booth": "Q05",
+    "brewery": "하마다슈죠",
+    "region": "가고시마현",
+    "product": "적토마(세키토바) 블루"
+  },
+  {
+    "booth": "Q05",
+    "brewery": "하마다슈죠",
+    "region": "가고시마현",
+    "product": "적토마(세키토바) 말차"
+  },
+  {
+    "booth": "Q05",
+    "brewery": "하마다슈죠",
+    "region": "가고시마현",
+    "product": "칠그린 2"
+  },
+  {
+    "booth": "Q05",
+    "brewery": "하마다슈죠",
+    "region": "가고시마현",
+    "product": "카쿠시구라"
+  },
+  {
+    "booth": "Q06",
+    "brewery": "오쿠치슈조",
+    "region": "가고시마현",
+    "product": "쿠로이사니시키"
+  },
+  {
+    "booth": "Q06",
+    "brewery": "오쿠치슈조",
+    "region": "가고시마현",
+    "product": "이사코마치"
+  },
+  {
+    "booth": "Q06",
+    "brewery": "오쿠치슈조",
+    "region": "가고시마현",
+    "product": "쿠로이사니시키 겐슈"
+  },
+  {
+    "booth": "Q07",
+    "brewery": "토노이케슈죠텐",
+    "region": "토치기현",
+    "product": "보 준마이다이긴죠 오마치"
+  },
+  {
+    "booth": "Q07",
+    "brewery": "토노이케슈죠텐",
+    "region": "토치기현",
+    "product": "보 토쿠베츠준마이 미야마니시키"
+  },
+  {
+    "booth": "Q07",
+    "brewery": "토노이케슈죠텐",
+    "region": "토치기현",
+    "product": "보 토쿠베츠준마이 스이세이 무로카나마겐슈"
+  },
+  {
+    "booth": "Q07",
+    "brewery": "토노이케슈죠텐",
+    "region": "토치기현",
+    "product": "보 준마이긴죠 히토고코치"
+  },
+  {
+    "booth": "Q08",
+    "brewery": "키쿠노사토슈조",
+    "region": "토치기현",
+    "product": "다이나 초카라구치 준마이"
+  },
+  {
+    "booth": "Q08",
+    "brewery": "키쿠노사토슈조",
+    "region": "토치기현",
+    "product": "다이나 준마이긴죠 나스고햐쿠만고쿠"
+  },
+  {
+    "booth": "Q08",
+    "brewery": "키쿠노사토슈조",
+    "region": "토치기현",
+    "product": "다이나 준마이긴죠 무가아츠시보리 무로카나마"
+  },
+  {
+    "booth": "Q08",
+    "brewery": "키쿠노사토슈조",
+    "region": "토치기현",
+    "product": "다이나 준마이긴죠 유메사사라 나마"
+  },
+  {
+    "booth": "Q09",
+    "brewery": "미야오슈조",
+    "region": "니이가타현",
+    "product": "시메하리츠루 다이긴죠 킨 라벨"
+  },
+  {
+    "booth": "Q09",
+    "brewery": "미야오슈조",
+    "region": "니이가타현",
+    "product": "시메하리츠루 준마이긴죠 준"
+  },
+  {
+    "booth": "Q09",
+    "brewery": "미야오슈조",
+    "region": "니이가타현",
+    "product": "시메하리츠루 혼죠조 츠키"
+  },
+  {
+    "booth": "Q09",
+    "brewery": "미야오슈조",
+    "region": "니이가타현",
+    "product": "시메하리츠루 시보리타테 나마겐슈"
+  },
+  {
+    "booth": "Q09",
+    "brewery": "미야오슈조",
+    "region": "니이가타현",
+    "product": "시메하리츠루 준마이긴죠 하루시보리 나마겐슈"
+  },
+  {
+    "booth": "Q10",
+    "brewery": "토미카와슈조텐",
+    "region": "토치기현",
+    "product": "츄아이 카라구치 준마이 무로카나마겐슈"
+  },
+  {
+    "booth": "Q10",
+    "brewery": "토미카와슈조텐",
+    "region": "토치기현",
+    "product": "츄아이 나카도리 준마이긴죠 유메사사라"
+  },
+  {
+    "booth": "Q10",
+    "brewery": "토미카와슈조텐",
+    "region": "토치기현",
+    "product": "츄아이 카라구치 준마이 아라바시리"
+  },
+  {
+    "booth": "Q10",
+    "brewery": "토미카와슈조텐",
+    "region": "토치기현",
+    "product": "츄아이 준마이긴죠 무로카나마겐슈"
+  },
+  {
+    "booth": "Q11",
+    "brewery": "후미기쿠슈죠",
+    "region": "토야마현",
+    "product": "하네야 다이긴죠"
+  },
+  {
+    "booth": "Q11",
+    "brewery": "후미기쿠슈죠",
+    "region": "토야마현",
+    "product": "하네야 준마이다이긴죠 츠바사"
+  },
+  {
+    "booth": "Q11",
+    "brewery": "후미기쿠슈죠",
+    "region": "토야마현",
+    "product": "하네야 준마이긴죠 키라비 나마겐슈"
+  },
+  {
+    "booth": "Q11",
+    "brewery": "후미기쿠슈죠",
+    "region": "토야마현",
+    "product": "하네야 준마이"
+  },
+  {
+    "booth": "Q12",
+    "brewery": "야마노고토부키슈죠",
+    "region": "후쿠오카현",
+    "product": "야마노고토부키 토쿠베츠준마이 야마다니시키"
+  },
+  {
+    "booth": "Q12",
+    "brewery": "야마노고토부키슈죠",
+    "region": "후쿠오카현",
+    "product": "야마노고토부키 준마이긴죠 오마치 13"
+  },
+  {
+    "booth": "Q12",
+    "brewery": "야마노고토부키슈죠",
+    "region": "후쿠오카현",
+    "product": "재패니스사케 야마노고토부키 프릭스1"
+  },
+  {
+    "booth": "Q12",
+    "brewery": "야마노고토부키슈죠",
+    "region": "후쿠오카현",
+    "product": "재패니스사케 야마노고토부키 프릭스2"
+  },
+  {
+    "booth": "Q12",
+    "brewery": "야마노고토부키슈죠",
+    "region": "후쿠오카현",
+    "product": "재패니즈사케 야마노고토부키 하루노히미츠"
+  },
+  {
+    "booth": "Q12",
+    "brewery": "야마노고토부키슈죠",
+    "region": "후쿠오카현",
+    "product": "재패니즈사케 야마노고토부키 윈터 세션"
+  },
+  {
+    "booth": "Q13",
+    "brewery": "토코로슈조",
+    "region": "기후현",
+    "product": "보우지마야 준마이 무로카나마겐슈"
+  },
+  {
+    "booth": "Q13",
+    "brewery": "토코로슈조",
+    "region": "기후현",
+    "product": "보우지마야 준마이긴죠 고햐쿠만고쿠 나마자케"
+  },
+  {
+    "booth": "Q13",
+    "brewery": "토코로슈조",
+    "region": "기후현",
+    "product": "보우지마야 토코로 블랙 고햐쿠만고쿠"
+  },
+  {
+    "booth": "Q13",
+    "brewery": "토코로슈조",
+    "region": "기후현",
+    "product": "보우지마야 준마이 시로코지"
+  },
+  {
+    "booth": "Q14",
+    "brewery": "신타니슈조",
+    "region": "야마구치현",
+    "product": "와카무스메 츠키쿠사 토쿠베츠준마이"
+  },
+  {
+    "booth": "Q14",
+    "brewery": "신타니슈조",
+    "region": "야마구치현",
+    "product": "와카무스메 하나타치바나 준마이긴죠"
+  },
+  {
+    "booth": "Q14",
+    "brewery": "신타니슈조",
+    "region": "야마구치현",
+    "product": "와카무스메 보탄 준마이긴죠"
+  },
+  {
+    "booth": "Q14",
+    "brewery": "신타니슈조",
+    "region": "야마구치현",
+    "product": "와카무스메 쥬니히소쿠 준마이긴죠"
+  },
+  {
+    "booth": "R01",
+    "brewery": "토요나가슈죠",
+    "region": "쿠마모토현",
+    "product": "무기시루"
+  },
+  {
+    "booth": "R01",
+    "brewery": "토요나가슈죠",
+    "region": "쿠마모토현",
+    "product": "코하쿠 무기시루"
+  },
+  {
+    "booth": "R01",
+    "brewery": "토요나가슈죠",
+    "region": "쿠마모토현",
+    "product": "신콜라"
+  },
+  {
+    "booth": "R02",
+    "brewery": "오치아이 슈조장",
+    "region": "미야자키현",
+    "product": "카에다"
+  },
+  {
+    "booth": "R02",
+    "brewery": "오치아이 슈조장",
+    "region": "미야자키현",
+    "product": "카제노 후쿠로"
+  },
+  {
+    "booth": "R02",
+    "brewery": "오치아이 슈조장",
+    "region": "미야자키현",
+    "product": "카가미즈 진저"
+  },
+  {
+    "booth": "R02",
+    "brewery": "쇼츄리퍼블릭",
+    "region": "",
+    "product": "말차캣"
+  },
+  {
+    "booth": "R02",
+    "brewery": "쇼츄리퍼블릭",
+    "region": "",
+    "product": "롱페퍼 크레인"
+  },
+  {
+    "booth": "R02",
+    "brewery": "쇼츄리퍼블릭",
+    "region": "",
+    "product": "스위트 포테이토 로빈"
+  },
+  {
+    "booth": "R02",
+    "brewery": "쇼츄리퍼블릭",
+    "region": "",
+    "product": "발리 버니"
+  },
+  {
+    "booth": "R03",
+    "brewery": "타카자와 슈조장",
+    "region": "토야마현",
+    "product": "토요카 준마이슈"
+  },
+  {
+    "booth": "R03",
+    "brewery": "타카자와 슈조장",
+    "region": "토야마현",
+    "product": "토요카 준마이긴죠 히토고코치"
+  },
+  {
+    "booth": "R03",
+    "brewery": "이치노야",
+    "region": "나가노현",
+    "product": "류스이센 키모토13 미야마니시키"
+  },
+  {
+    "booth": "R03",
+    "brewery": "이치노야",
+    "region": "나가노현",
+    "product": "류스이센 효준스이"
+  },
+  {
+    "booth": "R04",
+    "brewery": "잇본기쿠보혼텐",
+    "region": "후쿠이현",
+    "product": "덴신 유키 준마이긴죠"
+  },
+  {
+    "booth": "R04",
+    "brewery": "잇본기쿠보혼텐",
+    "region": "후쿠이현",
+    "product": "덴신 이네 준마이"
+  },
+  {
+    "booth": "R04",
+    "brewery": "잇본기쿠보혼텐",
+    "region": "후쿠이현",
+    "product": "덴신 츠치 혼죠조"
+  },
+  {
+    "booth": "R04",
+    "brewery": "잇본기쿠보혼텐",
+    "region": "후쿠이현",
+    "product": "잇본기 나마쵸조"
+  },
+  {
+    "booth": "R04",
+    "brewery": "잇본기쿠보혼텐",
+    "region": "후쿠이현",
+    "product": "긴코바이 한야토"
+  },
+  {
+    "booth": "U01",
+    "brewery": "닛카프론티어",
+    "region": "",
+    "product": "닛카 프론티어"
+  },
+  {
+    "booth": "U01",
+    "brewery": "닛카프론티어",
+    "region": "",
+    "product": "요이치 싱글몰트"
+  },
+  {
+    "booth": "U01",
+    "brewery": "닛카프론티어",
+    "region": "",
+    "product": "미야기쿄 싱글몰트"
+  },
+  {
+    "booth": "U01",
+    "brewery": "닛카프론티어",
+    "region": "",
+    "product": "타케츠루 퓨어몰트"
+  },
+  {
+    "booth": "U12",
+    "brewery": "에비스 맥주",
+    "region": "",
+    "product": "에비스(YEBISU) 맥주"
+  }
+]
