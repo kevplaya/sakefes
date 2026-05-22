@@ -1,5 +1,5 @@
 "use client";
-import { useMemo } from "react";
+import { useMemo, useState } from "react";
 import { Sake, CLASS_INFO } from "@/lib/types";
 import { isFeatured, featuredNote } from "@/lib/featured";
 
@@ -10,6 +10,8 @@ interface Props {
 }
 
 export default function BoothView({ sakes, selectedId, onSelect }: Props) {
+  const [onlyFeatured, setOnlyFeatured] = useState(false);
+
   const groups = useMemo(() => {
     const m = new Map<string, { booth: string; brewery: string; region: string; items: Sake[]; featured: boolean; note?: string }>();
     for (const s of sakes) {
@@ -31,16 +33,41 @@ export default function BoothView({ sakes, selectedId, onSelect }: Props) {
     );
   }, [sakes]);
 
+  const featuredCount = useMemo(() => groups.filter((g) => g.featured).length, [groups]);
+  const visibleGroups = useMemo(
+    () => (onlyFeatured ? groups.filter((g) => g.featured) : groups),
+    [groups, onlyFeatured]
+  );
+  const visibleItemCount = useMemo(
+    () => visibleGroups.reduce((sum, g) => sum + g.items.length, 0),
+    [visibleGroups]
+  );
+
   return (
     <div className="washi-card rounded-md p-3 md:p-5">
-      <div className="text-sm text-sumi/60 font-sans mb-3">
-        부스 {groups.length}개 · {sakes.length}품목 ·
-        <span className="text-shu ml-1">★ 추천 {groups.filter(g => g.featured).length}부스</span>
+      <div className="flex items-center gap-2 mb-3 flex-wrap">
+        <span className="text-sm text-sumi/60 font-sans">
+          부스 {visibleGroups.length}개 · {visibleItemCount}품목
+        </span>
+        <button
+          onClick={() => setOnlyFeatured((v) => !v)}
+          aria-pressed={onlyFeatured}
+          className={`px-2.5 py-1 rounded-full text-sm font-sans border transition ${
+            onlyFeatured
+              ? "bg-shu text-washi border-shu shadow-sm"
+              : "bg-shu/10 text-shu border-shu/40 hover:bg-shu/15"
+          }`}
+        >
+          ★ 추천 {featuredCount}부스{onlyFeatured ? " · 해제" : ""}
+        </button>
       </div>
       <div className="space-y-4 max-h-[1200px] overflow-y-auto scrollbar-thin pr-2">
-        {groups.map((g) => (
+        {visibleGroups.map((g) => (
           <BoothCard key={`${g.booth}-${g.brewery}`} group={g} selectedId={selectedId} onSelect={onSelect} />
         ))}
+        {visibleGroups.length === 0 && (
+          <div className="text-center text-sumi/50 font-sans text-sm py-8">표시할 부스 없음.</div>
+        )}
       </div>
     </div>
   );
