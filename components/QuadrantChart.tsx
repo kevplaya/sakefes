@@ -10,14 +10,15 @@ interface Props {
   visibleClasses: Set<SakeClass>;
 }
 
-// Axis range 0..12 with 6 as visual center divider.
-const AX_MIN = 0;
-const AX_MAX = 12;
+// Axis range 2..11. 6 remains the class-boundary divider.
+const AX_MIN = 2;
+const AX_MAX = 11;
 const CENTER = 6;
 
 const W = 720;
 const H = 720;
 const PAD = 56;
+const UNIT_PX = (W - PAD * 2) / (AX_MAX - AX_MIN);
 
 function xScale(v: number) {
   return PAD + ((v - AX_MIN) / (AX_MAX - AX_MIN)) * (W - PAD * 2);
@@ -65,8 +66,8 @@ export default function QuadrantChart({ sakes, selectedId, onSelect, visibleClas
             <stop offset="0%" stopColor="#fbf3e0" />
             <stop offset="100%" stopColor="#f0e6cc" />
           </linearGradient>
-          <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse">
-            <path d="M 56 0 L 0 0 0 56" fill="none" stroke="#c9bca0" strokeWidth="0.4" />
+          <pattern id="grid" width={UNIT_PX} height={UNIT_PX} patternUnits="userSpaceOnUse" x={PAD} y={PAD}>
+            <path d={`M ${UNIT_PX} 0 L 0 0 0 ${UNIT_PX}`} fill="none" stroke="#c9bca0" strokeWidth="0.4" />
           </pattern>
         </defs>
         <rect width={W} height={H} fill="url(#bg)" />
@@ -85,29 +86,35 @@ export default function QuadrantChart({ sakes, selectedId, onSelect, visibleClas
         {/* Frame */}
         <rect x={PAD} y={PAD} width={W - PAD * 2} height={H - PAD * 2} fill="none" stroke="#1f1d1a" strokeWidth="1.2" />
 
-        {/* Ticks */}
-        {Array.from({ length: 13 }).map((_, i) => (
-          <g key={`tx-${i}`}>
-            <line x1={xScale(i)} y1={H - PAD} x2={xScale(i)} y2={H - PAD + 4} stroke="#1f1d1a" strokeWidth="0.6" />
-            <text x={xScale(i)} y={H - PAD + 18} textAnchor="middle" fontSize="12" fill="#5a5651" fontFamily="serif" fontWeight={i === 6 ? 700 : 400}>{i}</text>
-          </g>
-        ))}
-        {Array.from({ length: 13 }).map((_, i) => (
-          <g key={`ty-${i}`}>
-            <line x1={PAD - 4} y1={yScale(i)} x2={PAD} y2={yScale(i)} stroke="#1f1d1a" strokeWidth="0.6" />
-            <text x={PAD - 8} y={yScale(i) + 4} textAnchor="end" fontSize="12" fill="#5a5651" fontFamily="serif" fontWeight={i === 6 ? 700 : 400}>{i}</text>
-          </g>
-        ))}
+        {/* Ticks (axis 2..11) */}
+        {Array.from({ length: AX_MAX - AX_MIN + 1 }).map((_, k) => {
+          const i = AX_MIN + k;
+          return (
+            <g key={`tx-${i}`}>
+              <line x1={xScale(i)} y1={H - PAD} x2={xScale(i)} y2={H - PAD + 4} stroke="#1f1d1a" strokeWidth="0.6" />
+              <text x={xScale(i)} y={H - PAD + 18} textAnchor="middle" fontSize="12" fill="#5a5651" fontFamily="serif" fontWeight={i === 6 ? 700 : 400}>{i}</text>
+            </g>
+          );
+        })}
+        {Array.from({ length: AX_MAX - AX_MIN + 1 }).map((_, k) => {
+          const i = AX_MIN + k;
+          return (
+            <g key={`ty-${i}`}>
+              <line x1={PAD - 4} y1={yScale(i)} x2={PAD} y2={yScale(i)} stroke="#1f1d1a" strokeWidth="0.6" />
+              <text x={PAD - 8} y={yScale(i) + 4} textAnchor="end" fontSize="12" fill="#5a5651" fontFamily="serif" fontWeight={i === 6 ? 700 : 400}>{i}</text>
+            </g>
+          );
+        })}
 
         {/* Axis labels */}
         <text x={W / 2} y={H - 14} textAnchor="middle" fontSize="16" fill="#1f1d1a" fontFamily="serif" letterSpacing="0.2em">맛 · 味 (richness) →</text>
         <text transform={`translate(20 ${H / 2}) rotate(-90)`} textAnchor="middle" fontSize="16" fill="#1f1d1a" fontFamily="serif" letterSpacing="0.2em">향 · 香 (aroma) ↑</text>
 
-        {/* Quadrant labels */}
-        <QLabel x={xScale(3)} y={yScale(9)} title="薰" sub="Kun" ko="쿤슈" color="#b6313a" />
-        <QLabel x={xScale(9)} y={yScale(9)} title="熟" sub="Juku" ko="쥬쿠슈" color="#6b4423" />
-        <QLabel x={xScale(3)} y={yScale(3)} title="爽" sub="Sou" ko="소슈" color="#1d3b73" />
-        <QLabel x={xScale(9)} y={yScale(3)} title="醇" sub="Jun" ko="쥰슈" color="#8b6314" />
+        {/* Quadrant labels (centered in each half: left 2-6 mid=4, right 6-11 mid=8.5) */}
+        <QLabel x={xScale(4)} y={yScale(9)} title="薰" sub="Kun" ko="쿤슈" color="#b6313a" />
+        <QLabel x={xScale(8.5)} y={yScale(9)} title="熟" sub="Juku" ko="쥬쿠슈" color="#6b4423" />
+        <QLabel x={xScale(4)} y={yScale(3.5)} title="爽" sub="Sou" ko="소슈" color="#1d3b73" />
+        <QLabel x={xScale(8.5)} y={yScale(3.5)} title="醇" sub="Jun" ko="쥰슈" color="#8b6314" />
 
         {/* Center marker */}
         <circle cx={xScale(CENTER)} cy={yScale(CENTER)} r="3" fill="#b6313a" />
