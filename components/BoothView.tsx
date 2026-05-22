@@ -11,6 +11,7 @@ interface Props {
 
 export default function BoothView({ sakes, selectedId, onSelect }: Props) {
   const [onlyFeatured, setOnlyFeatured] = useState(false);
+  const [query, setQuery] = useState("");
 
   const groups = useMemo(() => {
     const m = new Map<string, { booth: string; brewery: string; region: string; items: Sake[]; featured: boolean; note?: string }>();
@@ -34,10 +35,25 @@ export default function BoothView({ sakes, selectedId, onSelect }: Props) {
   }, [sakes]);
 
   const featuredCount = useMemo(() => groups.filter((g) => g.featured).length, [groups]);
-  const visibleGroups = useMemo(
-    () => (onlyFeatured ? groups.filter((g) => g.featured) : groups),
-    [groups, onlyFeatured]
-  );
+
+  const visibleGroups = useMemo(() => {
+    const q = query.trim().toLowerCase();
+    return groups.filter((g) => {
+      if (onlyFeatured && !g.featured) return false;
+      if (!q) return true;
+      const hay = [
+        g.booth,
+        g.brewery,
+        g.region,
+        g.note ?? "",
+        ...g.items.map((i) => i.product),
+      ]
+        .join(" ")
+        .toLowerCase();
+      return hay.includes(q);
+    });
+  }, [groups, onlyFeatured, query]);
+
   const visibleItemCount = useMemo(
     () => visibleGroups.reduce((sum, g) => sum + g.items.length, 0),
     [visibleGroups]
@@ -46,9 +62,24 @@ export default function BoothView({ sakes, selectedId, onSelect }: Props) {
   return (
     <div className="washi-card rounded-md p-3 md:p-5">
       <div className="flex items-center gap-2 mb-3 flex-wrap">
-        <span className="text-sm text-sumi/60 font-sans">
-          부스 {visibleGroups.length}개 · {visibleItemCount}품목
-        </span>
+        <div className="relative flex-1 min-w-[180px]">
+          <input
+            type="text"
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
+            placeholder="부스코드·양조장·지역·품목 검색…"
+            className="w-full bg-white/60 border border-sumi/20 rounded px-3 py-1.5 pr-7 text-sm font-sans focus:outline-none focus:border-shu/60 placeholder:text-sumi/40"
+          />
+          {query && (
+            <button
+              onClick={() => setQuery("")}
+              className="absolute right-1.5 top-1/2 -translate-y-1/2 text-sumi/40 hover:text-shu text-lg leading-none"
+              aria-label="검색 초기화"
+            >
+              ×
+            </button>
+          )}
+        </div>
         <button
           onClick={() => setOnlyFeatured((v) => !v)}
           aria-pressed={onlyFeatured}
@@ -60,6 +91,9 @@ export default function BoothView({ sakes, selectedId, onSelect }: Props) {
         >
           ★ 추천 {featuredCount}부스{onlyFeatured ? " · 해제" : ""}
         </button>
+      </div>
+      <div className="text-sm text-sumi/55 font-sans mb-3">
+        부스 {visibleGroups.length}개 · {visibleItemCount}품목
       </div>
       <div className="space-y-4 max-h-[1200px] overflow-y-auto scrollbar-thin pr-2">
         {visibleGroups.map((g) => (
