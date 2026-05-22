@@ -102,9 +102,9 @@ function Tabs({ view, onChange }: { view: View; onChange: (v: View) => void }) {
   return (
     <div className="mt-5 inline-flex border-b border-sumi/20">
       {([
-        { v: "quadrant" as View, ko: "분류별", ja: "四分面" },
-        { v: "booth" as View, ko: "부스별", ja: "ブース" },
-        { v: "map" as View, ko: "부스배치도", ja: "会場図" },
+        { v: "quadrant" as View, ko: "분류별" },
+        { v: "booth" as View, ko: "부스별" },
+        { v: "map" as View, ko: "부스배치도" },
       ]).map((t) => {
         const on = view === t.v;
         return (
@@ -116,9 +116,6 @@ function Tabs({ view, onChange }: { view: View; onChange: (v: View) => void }) {
             }`}
           >
             <span>{t.ko}</span>
-            <span className={`ml-2 text-sm font-deco ${on ? "text-shu/70" : "text-sumi/35"}`}>
-              {t.ja}
-            </span>
             {on && (
               <span className="absolute left-0 right-0 -bottom-px h-0.5 bg-shu" />
             )}

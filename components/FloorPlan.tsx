@@ -4,10 +4,10 @@ export default function FloorPlan() {
   return (
     <div className="washi-card rounded-md p-3 md:p-5 space-y-6">
       <Section title="1관 · Hall 1" image="/floorplan-hall1.png" alt="2026 사케페스 1관 부스배치도">
-        {/* A09-A14: leftmost 6 booths in A row (bottom of map) — sparkle highlight */}
+        {/* A09-A14 sparkle highlight — shifted right + up so brewery-name labels
+            inside the image stay readable below the box. */}
         <SparkleBox
-          // tuned for floorplan-hall1.png
-          style={{ left: "1.5%", top: "88.5%", width: "40.5%", height: "9.5%" }}
+          style={{ left: "4%", top: "85.2%", width: "40.5%", height: "7%" }}
           label="A09–A14 ✨ 쿠마가이주류 큐레이션"
         />
       </Section>
