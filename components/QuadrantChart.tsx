@@ -92,7 +92,7 @@ export default function QuadrantChart({ sakes, selectedId, onSelect, visibleClas
           return (
             <g key={`tx-${i}`}>
               <line x1={xScale(i)} y1={H - PAD} x2={xScale(i)} y2={H - PAD + 4} stroke="#1f1d1a" strokeWidth="0.6" />
-              <text x={xScale(i)} y={H - PAD + 20} textAnchor="middle" fontSize="14" fill="#5a5651" fontFamily="serif" fontWeight={i === 6 ? 700 : 400}>{i}</text>
+              <text x={xScale(i)} y={H - PAD + 22} textAnchor="middle" fontSize="16" fill="#5a5651" fontFamily="serif" fontWeight={i === 6 ? 700 : 400}>{i}</text>
             </g>
           );
         })}
@@ -101,14 +101,14 @@ export default function QuadrantChart({ sakes, selectedId, onSelect, visibleClas
           return (
             <g key={`ty-${i}`}>
               <line x1={PAD - 4} y1={yScale(i)} x2={PAD} y2={yScale(i)} stroke="#1f1d1a" strokeWidth="0.6" />
-              <text x={PAD - 8} y={yScale(i) + 5} textAnchor="end" fontSize="14" fill="#5a5651" fontFamily="serif" fontWeight={i === 6 ? 700 : 400}>{i}</text>
+              <text x={PAD - 8} y={yScale(i) + 6} textAnchor="end" fontSize="16" fill="#5a5651" fontFamily="serif" fontWeight={i === 6 ? 700 : 400}>{i}</text>
             </g>
           );
         })}
 
         {/* Axis labels */}
-        <text x={W / 2} y={H - 12} textAnchor="middle" fontSize="18" fill="#1f1d1a" fontFamily="serif" letterSpacing="0.2em">맛 · 味 (richness) →</text>
-        <text transform={`translate(18 ${H / 2}) rotate(-90)`} textAnchor="middle" fontSize="18" fill="#1f1d1a" fontFamily="serif" letterSpacing="0.2em">향 · 香 (aroma) ↑</text>
+        <text x={W / 2} y={H - 10} textAnchor="middle" fontSize="20" fill="#1f1d1a" fontFamily="serif" letterSpacing="0.2em">맛 · 味 (richness) →</text>
+        <text transform={`translate(16 ${H / 2}) rotate(-90)`} textAnchor="middle" fontSize="20" fill="#1f1d1a" fontFamily="serif" letterSpacing="0.2em">향 · 香 (aroma) ↑</text>
 
         {/* Quadrant labels (centered in each half: left 2-6 mid=4, right 6-11 mid=8.5) */}
         <QLabel x={xScale(4)} y={yScale(9)} title="薰" sub="Kun" ko="쿤슈" color="#b6313a" />
@@ -117,8 +117,8 @@ export default function QuadrantChart({ sakes, selectedId, onSelect, visibleClas
         <QLabel x={xScale(8.5)} y={yScale(3.5)} title="醇" sub="Jun" ko="쥰슈" color="#8b6314" />
 
         {/* Center marker */}
-        <circle cx={xScale(CENTER)} cy={yScale(CENTER)} r="3.5" fill="#b6313a" />
-        <text x={xScale(CENTER) + 7} y={yScale(CENTER) - 7} fontSize="13" fill="#b6313a" fontFamily="serif">中 (6,6)</text>
+        <circle cx={xScale(CENTER)} cy={yScale(CENTER)} r="4" fill="#b6313a" />
+        <text x={xScale(CENTER) + 8} y={yScale(CENTER) - 8} fontSize="15" fill="#b6313a" fontFamily="serif">中 (6,6)</text>
 
         {/* Dots — visible circle + larger transparent hit area for mobile tap */}
         {dots.map((s) => {
@@ -173,17 +173,17 @@ export default function QuadrantChart({ sakes, selectedId, onSelect, visibleClas
             />
             <text
               x={Math.min(W - 260, Math.max(8, xScale(hover.richness) + 10)) + 10}
-              y={Math.max(8, yScale(hover.aroma) - 56) + 20}
-              fontSize="15"
+              y={Math.max(8, yScale(hover.aroma) - 56) + 22}
+              fontSize="17"
               fill="#f4ecdb"
               fontFamily="serif"
             >
-              {hover.product.length > 26 ? hover.product.slice(0, 26) + "…" : hover.product}
+              {hover.product.length > 24 ? hover.product.slice(0, 24) + "…" : hover.product}
             </text>
             <text
               x={Math.min(W - 260, Math.max(8, xScale(hover.richness) + 10)) + 10}
-              y={Math.max(8, yScale(hover.aroma) - 56) + 40}
-              fontSize="14"
+              y={Math.max(8, yScale(hover.aroma) - 56) + 42}
+              fontSize="16"
               fill="#d9c89a"
               fontFamily="serif"
             >
@@ -199,8 +199,8 @@ export default function QuadrantChart({ sakes, selectedId, onSelect, visibleClas
 function QLabel({ x, y, title, sub, ko, color }: { x: number; y: number; title: string; sub: string; ko: string; color: string }) {
   return (
     <g pointerEvents="none">
-      <text x={x} y={y - 10} textAnchor="middle" fontSize="48" fill={color} opacity="0.16" fontFamily="serif" fontWeight={700}>{title}</text>
-      <text x={x} y={y + 20} textAnchor="middle" fontSize="14" fill={color} opacity="0.7" fontFamily="serif" letterSpacing="0.2em">{sub} · {ko}</text>
+      <text x={x} y={y - 10} textAnchor="middle" fontSize="52" fill={color} opacity="0.16" fontFamily="serif" fontWeight={700}>{title}</text>
+      <text x={x} y={y + 22} textAnchor="middle" fontSize="16" fill={color} opacity="0.7" fontFamily="serif" letterSpacing="0.2em">{sub} · {ko}</text>
     </g>
   );
 }

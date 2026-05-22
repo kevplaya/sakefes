@@ -58,7 +58,6 @@ export default function Page() {
         </aside>
       </div>
 
-      <Footer total={ALL_SAKES.length} />
     </main>
   );
 }
@@ -101,16 +100,3 @@ function Legend() {
   );
 }
 
-function Footer({ total }: { total: number }) {
-  return (
-    <footer className="mt-8 text-sm text-sumi/50 font-sans flex flex-wrap items-center gap-x-4 gap-y-1">
-      <span>출처: <a className="underline hover:text-shu" href="https://www.sakefestival.co.kr/44" target="_blank" rel="noreferrer">sakefestival.co.kr/44</a></span>
-      <span>·</span>
-      <span><a className="underline hover:text-shu" href="https://www.sakefestival.co.kr/45" target="_blank" rel="noreferrer">/45</a></span>
-      <span>·</span>
-      <span>분류 기준: <a className="underline hover:text-shu" href="https://www.bosa.co.kr/news/articleView.html?idxno=2109371" target="_blank" rel="noreferrer">SSI 4타입 (보사뉴스)</a></span>
-      <span>·</span>
-      <span>{total}품목</span>
-    </footer>
-  );
-}
