@@ -2,6 +2,7 @@
 
 import { useMemo, useState } from "react";
 import { Sake, CLASS_INFO, SakeClass } from "@/lib/types";
+import { isFeatured } from "@/lib/featured";
 
 interface Props {
   sakes: Sake[];
@@ -120,28 +121,35 @@ export default function QuadrantChart({ sakes, selectedId, onSelect, visibleClas
         <circle cx={xScale(CENTER)} cy={yScale(CENTER)} r="4" fill="#b6313a" />
         <text x={xScale(CENTER) + 8} y={yScale(CENTER) - 8} fontSize="15" fill="#b6313a" fontFamily="serif">中 (6,6)</text>
 
-        {/* Dots — visible circle + larger transparent hit area for mobile tap */}
+        {/* Dots — visible circle + larger transparent hit area for mobile tap.
+            Featured sakes get an outer 朱-red ring for visibility. */}
         {dots.map((s) => {
           const color = CLASS_INFO[s.class].color;
           const selected = s.id === selectedId;
           const isHover = hover?.id === s.id;
-          const r = selected ? 8 : isHover ? 7 : 5;
+          const featured = isFeatured(s);
+          const r = selected ? 8 : isHover ? 7 : featured ? 6 : 5;
           return (
             <g key={s.id}>
               {selected && (
                 <circle cx={s.cx} cy={s.cy} r={r + 4} fill={color} opacity="0.25" className="pulse-ring" />
+              )}
+              {featured && (
+                <>
+                  <circle cx={s.cx} cy={s.cy} r={r + 4} fill="none" stroke="#b6313a" strokeWidth="1.8" opacity="0.95" style={{ pointerEvents: "none" }} />
+                  <circle cx={s.cx} cy={s.cy} r={r + 7} fill="none" stroke="#b6313a" strokeWidth="0.6" opacity="0.45" style={{ pointerEvents: "none" }} />
+                </>
               )}
               <circle
                 cx={s.cx}
                 cy={s.cy}
                 r={r}
                 fill={color}
-                stroke={selected ? "#1f1d1a" : "rgba(31,29,26,0.4)"}
-                strokeWidth={selected ? 1.6 : 0.6}
-                opacity={hover && !isHover && !selected ? 0.35 : 0.9}
+                stroke={selected ? "#1f1d1a" : featured ? "#b6313a" : "rgba(31,29,26,0.4)"}
+                strokeWidth={selected ? 1.6 : featured ? 1 : 0.6}
+                opacity={hover && !isHover && !selected ? 0.35 : 0.92}
                 style={{ pointerEvents: "none", transition: "r 120ms ease, opacity 120ms ease" }}
               />
-              {/* Transparent larger hit target — easier mobile tap */}
               <circle
                 cx={s.cx}
                 cy={s.cy}
@@ -178,7 +186,7 @@ export default function QuadrantChart({ sakes, selectedId, onSelect, visibleClas
               fill="#f4ecdb"
               fontFamily="serif"
             >
-              {hover.product.length > 24 ? hover.product.slice(0, 24) + "…" : hover.product}
+              {isFeatured(hover) ? "★ " : ""}{hover.product.length > 22 ? hover.product.slice(0, 22) + "…" : hover.product}
             </text>
             <text
               x={Math.min(W - 260, Math.max(8, xScale(hover.richness) + 10)) + 10}
