@@ -5,13 +5,17 @@ import sakesData from "@/data/sakes.json";
 import { Sake, SakeClass, CLASS_INFO } from "@/lib/types";
 import QuadrantChart from "@/components/QuadrantChart";
 import SakeDetail from "@/components/SakeDetail";
+import BoothView from "@/components/BoothView";
 
 const ALL_SAKES = sakesData as Sake[];
 const ALL_CLASSES: SakeClass[] = ["薰 Kun", "醇 Jun", "爽 Sou", "熟 Juku", "Other"];
 const VISIBLE_ALL = new Set<SakeClass>(ALL_CLASSES);
 
+type View = "quadrant" | "booth";
+
 export default function Page() {
   const [selectedId, setSelectedId] = useState<number | null>(null);
+  const [view, setView] = useState<View>("quadrant");
 
   const selected = useMemo(
     () => ALL_SAKES.find((s) => s.id === selectedId) ?? null,
@@ -35,17 +39,26 @@ export default function Page() {
   return (
     <main className="min-h-screen px-4 md:px-8 py-6 md:py-10 max-w-[1400px] mx-auto">
       <Header />
+      <Tabs view={view} onChange={setView} />
 
-      <div className="grid lg:grid-cols-[1fr_360px] gap-6 mt-6">
-        <section className="washi-card rounded-md p-3 md:p-5">
-          <QuadrantChart
+      <div className="grid lg:grid-cols-[1fr_360px] gap-6 mt-5">
+        {view === "quadrant" ? (
+          <section className="washi-card rounded-md p-3 md:p-5">
+            <QuadrantChart
+              sakes={ALL_SAKES}
+              selectedId={selectedId}
+              onSelect={(s) => setSelectedId(s?.id ?? null)}
+              visibleClasses={VISIBLE_ALL}
+            />
+            <Legend />
+          </section>
+        ) : (
+          <BoothView
             sakes={ALL_SAKES}
             selectedId={selectedId}
-            onSelect={(s) => setSelectedId(s?.id ?? null)}
-            visibleClasses={VISIBLE_ALL}
+            onSelect={(s) => setSelectedId(s.id)}
           />
-          <Legend />
-        </section>
+        )}
 
         <aside className="space-y-4">
           <SakeDetail
@@ -57,7 +70,6 @@ export default function Page() {
           />
         </aside>
       </div>
-
     </main>
   );
 }
@@ -83,6 +95,36 @@ function Header() {
   );
 }
 
+function Tabs({ view, onChange }: { view: View; onChange: (v: View) => void }) {
+  return (
+    <div className="mt-5 inline-flex border-b border-sumi/20">
+      {([
+        { v: "quadrant" as View, ko: "분류별", ja: "四分面" },
+        { v: "booth" as View, ko: "부스별", ja: "ブース" },
+      ]).map((t) => {
+        const on = view === t.v;
+        return (
+          <button
+            key={t.v}
+            onClick={() => onChange(t.v)}
+            className={`px-5 py-2.5 font-serif text-lg transition relative ${
+              on ? "text-shu" : "text-sumi/55 hover:text-sumi"
+            }`}
+          >
+            <span>{t.ko}</span>
+            <span className={`ml-2 text-sm font-deco ${on ? "text-shu/70" : "text-sumi/35"}`}>
+              {t.ja}
+            </span>
+            {on && (
+              <span className="absolute left-0 right-0 -bottom-px h-0.5 bg-shu" />
+            )}
+          </button>
+        );
+      })}
+    </div>
+  );
+}
+
 function Legend() {
   return (
     <div className="mt-4 flex flex-wrap items-center gap-x-4 gap-y-2 text-sm font-sans text-sumi/70">
@@ -96,7 +138,10 @@ function Legend() {
           <span className="text-sumi/45">{CLASS_INFO[c].ko}</span>
         </span>
       ))}
+      <span className="inline-flex items-center gap-1.5 ml-2">
+        <span className="text-shu">★</span>
+        <span className="text-sumi/70 font-serif">추천</span>
+      </span>
     </div>
   );
 }
-
