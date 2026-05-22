@@ -5,10 +5,11 @@ interface Props {
   sake: Sake | null;
   onClose: () => void;
   related: Sake[];
+  cluster: Sake[]; // sakes at same integer (aroma, richness) coord — includes selected
   onSelect: (s: Sake) => void;
 }
 
-export default function SakeDetail({ sake, onClose, related, onSelect }: Props) {
+export default function SakeDetail({ sake, onClose, related, cluster, onSelect }: Props) {
   if (!sake) {
     return (
       <div className="washi-card rounded-md p-6 text-center text-sumi/60 font-serif">
@@ -18,6 +19,8 @@ export default function SakeDetail({ sake, onClose, related, onSelect }: Props) 
     );
   }
   const info = CLASS_INFO[sake.class];
+  const clusterOthers = cluster.filter((c) => c.id !== sake.id);
+
   return (
     <div className="washi-card rounded-md p-5 space-y-4">
       <div className="flex items-start justify-between gap-3">
@@ -52,6 +55,34 @@ export default function SakeDetail({ sake, onClose, related, onSelect }: Props) 
         <Row k="분류 근거" v={sake.note} />
         <Row k="분면 특징" v={info.desc} />
       </dl>
+
+      {clusterOthers.length > 0 && (
+        <div>
+          <div className="text-xs uppercase tracking-widest text-sumi/60 mb-2 font-sans">
+            같은 좌표 (향{sake.aroma} 맛{sake.richness}) · {cluster.length}품목
+          </div>
+          <div className="space-y-1 max-h-64 overflow-y-auto scrollbar-thin">
+            {clusterOthers.map((c) => (
+              <button
+                key={c.id}
+                onClick={() => onSelect(c)}
+                className="w-full text-left px-2 py-1.5 rounded hover:bg-white/60 text-sm flex items-start gap-2"
+              >
+                <span
+                  className="w-2 h-2 rounded-full shrink-0 mt-1.5"
+                  style={{ background: CLASS_INFO[c.class].color }}
+                />
+                <span className="flex-1 min-w-0">
+                  <span className="block font-serif truncate">{c.product}</span>
+                  <span className="block text-xs text-sumi/55 font-sans truncate">
+                    {c.booth} · {c.brewery}
+                  </span>
+                </span>
+              </button>
+            ))}
+          </div>
+        </div>
+      )}
 
       {related.length > 0 && (
         <div>

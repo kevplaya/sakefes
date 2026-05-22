@@ -52,6 +52,18 @@ export default function Page() {
     );
   }, [selected]);
 
+  // All sakes sharing same integer (aroma, richness) as selected — within currently
+  // visible classes + active search filter so cluster respects user's view.
+  const cluster = useMemo(() => {
+    if (!selected) return [];
+    return filtered.filter(
+      (s) =>
+        visibleClasses.has(s.class) &&
+        s.aroma === selected.aroma &&
+        s.richness === selected.richness
+    );
+  }, [selected, filtered, visibleClasses]);
+
   return (
     <main className="min-h-screen px-4 md:px-8 py-6 md:py-10 max-w-[1400px] mx-auto">
       <Header />
@@ -63,11 +75,6 @@ export default function Page() {
             selectedId={selectedId}
             onSelect={(s) => setSelectedId(s?.id ?? null)}
             visibleClasses={visibleClasses}
-          />
-          <ListBelowChart
-            sakes={filtered.filter((s) => visibleClasses.has(s.class))}
-            selectedId={selectedId}
-            onSelect={(s) => setSelectedId(s.id)}
           />
         </section>
 
@@ -88,6 +95,7 @@ export default function Page() {
             sake={selected}
             onClose={() => setSelectedId(null)}
             related={related}
+            cluster={cluster}
             onSelect={(s) => setSelectedId(s.id)}
           />
         </aside>
@@ -117,56 +125,6 @@ function Header() {
         <div className="kanji-vertical text-2xl text-shu/80">薰爽醇熟</div>
       </div>
     </header>
-  );
-}
-
-function ListBelowChart({
-  sakes,
-  selectedId,
-  onSelect,
-}: {
-  sakes: Sake[];
-  selectedId: number | null;
-  onSelect: (s: Sake) => void;
-}) {
-  return (
-    <div className="mt-4 border-t border-sumi/10 pt-4">
-      <div className="text-xs uppercase tracking-widest text-sumi/60 mb-2 font-sans">
-        목록 · List ({sakes.length})
-      </div>
-      <div className="max-h-64 overflow-y-auto scrollbar-thin">
-        <table className="w-full text-sm">
-          <thead className="sticky top-0 bg-washi/95 backdrop-blur">
-            <tr className="text-left text-xs text-sumi/55 font-sans uppercase tracking-wider">
-              <th className="py-1.5 pr-2">분면</th>
-              <th className="py-1.5 pr-2">부스</th>
-              <th className="py-1.5 pr-2">양조장</th>
-              <th className="py-1.5 pr-2">품목</th>
-              <th className="py-1.5 pr-2 text-right">향</th>
-              <th className="py-1.5 pr-2 text-right">맛</th>
-            </tr>
-          </thead>
-          <tbody>
-            {sakes.map((s) => (
-              <tr
-                key={s.id}
-                onClick={() => onSelect(s)}
-                className={`cursor-pointer border-t border-sumi/5 hover:bg-white/50 ${
-                  s.id === selectedId ? "bg-white/70" : ""
-                }`}
-              >
-                <td className="py-1.5 pr-2 font-serif">{s.class.split(" ")[0]}</td>
-                <td className="py-1.5 pr-2 font-sans text-sumi/70">{s.booth}</td>
-                <td className="py-1.5 pr-2 text-sumi/80 font-sans truncate max-w-[120px]">{s.brewery}</td>
-                <td className="py-1.5 pr-2 font-serif truncate max-w-[260px]">{s.product}</td>
-                <td className="py-1.5 pr-2 text-right tabular-nums font-sans text-shu/90">{s.aroma}</td>
-                <td className="py-1.5 pr-2 text-right tabular-nums font-sans text-ai/90">{s.richness}</td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
-    </div>
   );
 }
 
