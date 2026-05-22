@@ -67,19 +67,18 @@ function Header() {
   return (
     <header className="flex items-center justify-between">
       <div>
-        <div className="font-deco text-shu text-xs tracking-[0.4em] mb-1">
+        <div className="font-deco text-shu text-sm tracking-[0.4em] mb-1.5">
           清 酒 地 圖 · SAKE MAP
         </div>
-        <h1 className="font-serif text-3xl md:text-4xl text-sumi leading-tight">
+        <h1 className="font-serif text-4xl md:text-5xl text-sumi leading-tight">
           2026 서울사케페스티벌
-          <span className="ml-3 text-shu text-2xl">四 分 面 圖</span>
         </h1>
-        <p className="text-sm text-sumi/70 mt-1 font-sans">
+        <p className="text-base text-sumi/70 mt-1.5 font-sans">
           SSI 香味特性 분류 · 691품목 향(香) × 맛(味) 점수제
         </p>
       </div>
       <div className="hidden md:flex flex-col items-end gap-1 text-sumi/60 font-deco">
-        <div className="kanji-vertical text-2xl text-shu/80">薰爽醇熟</div>
+        <div className="kanji-vertical text-3xl text-shu/80">薰爽醇熟</div>
       </div>
     </header>
   );
@@ -87,11 +86,11 @@ function Header() {
 
 function Legend() {
   return (
-    <div className="mt-3 flex flex-wrap items-center gap-x-4 gap-y-1.5 text-xs font-sans text-sumi/70">
+    <div className="mt-4 flex flex-wrap items-center gap-x-4 gap-y-2 text-sm font-sans text-sumi/70">
       {(["薰 Kun", "熟 Juku", "醇 Jun", "爽 Sou", "Other"] as SakeClass[]).map((c) => (
         <span key={c} className="inline-flex items-center gap-1.5">
           <span
-            className="w-2.5 h-2.5 rounded-full inline-block"
+            className="w-3 h-3 rounded-full inline-block"
             style={{ background: CLASS_INFO[c].color, border: "1px solid rgba(31,29,26,0.3)" }}
           />
           <span className="font-serif text-sumi/85">{c.split(" ")[0]}</span>
@@ -104,7 +103,7 @@ function Legend() {
 
 function Footer({ total }: { total: number }) {
   return (
-    <footer className="mt-8 text-xs text-sumi/50 font-sans flex flex-wrap items-center gap-x-4 gap-y-1">
+    <footer className="mt-8 text-sm text-sumi/50 font-sans flex flex-wrap items-center gap-x-4 gap-y-1">
       <span>출처: <a className="underline hover:text-shu" href="https://www.sakefestival.co.kr/44" target="_blank" rel="noreferrer">sakefestival.co.kr/44</a></span>
       <span>·</span>
       <span><a className="underline hover:text-shu" href="https://www.sakefestival.co.kr/45" target="_blank" rel="noreferrer">/45</a></span>
