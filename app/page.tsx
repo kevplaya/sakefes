@@ -6,12 +6,13 @@ import { Sake, SakeClass, CLASS_INFO } from "@/lib/types";
 import QuadrantChart from "@/components/QuadrantChart";
 import SakeDetail from "@/components/SakeDetail";
 import BoothView from "@/components/BoothView";
+import FloorPlan from "@/components/FloorPlan";
 
 const ALL_SAKES = sakesData as Sake[];
 const ALL_CLASSES: SakeClass[] = ["薰 Kun", "醇 Jun", "爽 Sou", "熟 Juku", "Other"];
 const VISIBLE_ALL = new Set<SakeClass>(ALL_CLASSES);
 
-type View = "quadrant" | "booth";
+type View = "quadrant" | "booth" | "map";
 
 export default function Page() {
   const [selectedId, setSelectedId] = useState<number | null>(null);
@@ -42,7 +43,7 @@ export default function Page() {
       <Tabs view={view} onChange={setView} />
 
       <div className="grid lg:grid-cols-[1fr_360px] gap-6 mt-5">
-        {view === "quadrant" ? (
+        {view === "quadrant" && (
           <section className="washi-card rounded-md p-3 md:p-5">
             <QuadrantChart
               sakes={ALL_SAKES}
@@ -52,13 +53,15 @@ export default function Page() {
             />
             <Legend />
           </section>
-        ) : (
+        )}
+        {view === "booth" && (
           <BoothView
             sakes={ALL_SAKES}
             selectedId={selectedId}
             onSelect={(s) => setSelectedId(s.id)}
           />
         )}
+        {view === "map" && <FloorPlan />}
 
         <aside className="space-y-4">
           <SakeDetail
@@ -101,6 +104,7 @@ function Tabs({ view, onChange }: { view: View; onChange: (v: View) => void }) {
       {([
         { v: "quadrant" as View, ko: "분류별", ja: "四分面" },
         { v: "booth" as View, ko: "부스별", ja: "ブース" },
+        { v: "map" as View, ko: "부스배치도", ja: "会場図" },
       ]).map((t) => {
         const on = view === t.v;
         return (
